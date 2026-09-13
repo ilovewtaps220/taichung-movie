@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-13T18:13:53+08:00",
+  "updated_at": "2026-09-13T22:21:59+08:00",
   "data_date": "2026-09-13",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -791,7 +791,7 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-13",
-      "movie": "最終樂章 吹響吧！上低音號 前篇",
+      "movie": "驀然回首",
       "version": "數位 日語",
       "times": [
         "09:30"
@@ -819,7 +819,18 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-13",
-      "movie": "驀然回首",
+      "movie": "驀然回首(真人版)",
+      "version": "數位 日語",
+      "times": [
+        "09:30",
+        "16:10",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-13",
+      "movie": "最終樂章 吹響吧！上低音號 前篇",
       "version": "數位 日語",
       "times": [
         "09:30"
@@ -832,17 +843,6 @@
       "version": "DVA 韓語",
       "times": [
         "09:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-13",
-      "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
-      "times": [
-        "09:30",
-        "16:10",
-        "22:20"
       ]
     },
     {
@@ -957,7 +957,6 @@
         "11:20",
         "16:10",
         "18:35",
-        "21:00",
         "22:20",
         "23:00"
       ]
@@ -1016,16 +1015,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-13",
-      "movie": "驀然回首(真人版)",
-      "version": "DVA 日語",
-      "times": [
-        "12:30",
-        "20:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-13",
       "movie": "粽邪4:坤蒂拉娜",
       "version": "數位 國語",
       "times": [
@@ -1034,6 +1023,16 @@
         "17:10",
         "19:30",
         "21:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-13",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
+      "times": [
+        "12:30",
+        "20:30"
       ]
     },
     {
@@ -1054,8 +1053,7 @@
       "times": [
         "13:10",
         "15:10",
-        "17:10",
-        "21:00"
+        "17:10"
       ]
     },
     {
@@ -1081,21 +1079,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-13",
-      "movie": "奧德賽",
-      "version": "DVA 英語",
-      "times": [
-        "14:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-13",
       "movie": "玩命航線",
       "version": "數位 英語",
       "times": [
         "14:30",
         "18:20",
         "20:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-13",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
+      "times": [
+        "14:30"
       ]
     },
     {
