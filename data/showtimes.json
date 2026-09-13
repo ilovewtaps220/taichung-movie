@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-14T05:40:50+08:00",
+  "updated_at": "2026-09-14T07:29:54+08:00",
   "data_date": "2026-09-14",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -794,6 +794,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
+      "times": [
+        "10:00",
+        "13:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
       "movie": "驀然回首(真人版)",
       "version": "數位 日語",
       "times": [
@@ -806,21 +816,31 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "10:00",
-        "13:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
       "movie": "驀然回首(真人版)",
       "version": "DVA 日語",
       "times": [
         "10:00",
         "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "寂地",
+      "version": "數位 英語",
+      "times": [
+        "10:20",
+        "14:55"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
+      "times": [
+        "10:20",
+        "14:15"
       ]
     },
     {
@@ -837,30 +857,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 英語",
-      "times": [
-        "10:20",
-        "14:15"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
       "movie": "驀然回首",
       "version": "數位 日語",
       "times": [
         "10:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
-      "movie": "寂地",
-      "version": "數位 英語",
-      "times": [
-        "10:20",
-        "14:55"
       ]
     },
     {
@@ -904,6 +904,17 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "11:00",
+        "15:20",
+        "17:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
       "movie": "愛你致死不渝",
       "version": "數位 英語",
       "times": [
@@ -912,17 +923,6 @@
         "17:20",
         "19:30",
         "21:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "數位 日語",
-      "times": [
-        "11:00",
-        "15:20",
-        "17:40"
       ]
     },
     {
@@ -966,22 +966,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "蜘蛛人：重生日",
-      "version": "DVA 英語",
-      "times": [
-        "12:00",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
       "movie": "慶州殺遊紀",
       "version": "數位 韓語",
       "times": [
         "12:00",
         "18:40",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "蜘蛛人：重生日",
+      "version": "DVA 英語",
+      "times": [
+        "12:00",
+        "23:00"
       ]
     },
     {
