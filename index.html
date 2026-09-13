@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>台中電影散散步</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div class="eyebrow">TAICHUNG · MOVIE TIMES</div>
+      <h1>先別生氣，去看場電影。</h1>
+      <p>把台中幾家影城的場次放在一起，慢慢找一場現在剛好適合你的電影。</p>
+      <div class="breath" aria-label="放鬆提示"><span></span><span></span><span></span><b>吸一口氣，再選片。</b></div>
+    </header>
+
+    <section class="filters" aria-label="搜尋條件">
+      <label>影城<select id="cinemaFilter"><option value="all">全部影城</option></select></label>
+      <label>電影<select id="movieFilter"><option value="all">全部電影</option></select></label>
+      <label>日期<select id="dateFilter"><option value="all">全部日期</option></select></label>
+      <button id="resetBtn" type="button">清除條件</button>
+    </section>
+
+    <div id="status" class="status"></div>
+    <section id="results" class="results" aria-live="polite"></section>
+    <footer><span id="updated"></span><span>資料來源：各影城官方網站公開資訊</span></footer>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
