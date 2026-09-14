@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-14T14:44:49+08:00",
+  "updated_at": "2026-09-14T21:20:30+08:00",
   "data_date": "2026-09-14",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -765,18 +765,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
-      "times": [
-        "10:00",
-        "16:40",
-        "20:50",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
       "movie": "怎麼可能我家的祖先是你家的鬼",
       "version": "數位 多元語",
       "times": [
@@ -815,10 +803,24 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "驀然回首",
+      "movie": "驀然回首(真人版)",
       "version": "數位 日語",
       "times": [
-        "10:20"
+        "10:00",
+        "16:40",
+        "20:50",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "蜘蛛人：重生日",
+      "version": "SCREENX 英語",
+      "times": [
+        "10:20",
+        "16:00",
+        "21:50"
       ]
     },
     {
@@ -834,12 +836,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "蜘蛛人：重生日",
-      "version": "SCREENX 英語",
+      "movie": "驀然回首",
+      "version": "數位 日語",
       "times": [
-        "10:20",
-        "16:00",
-        "21:50"
+        "10:20"
       ]
     },
     {
@@ -885,20 +885,8 @@
       "times": [
         "10:40",
         "13:30",
-        "16:20",
         "19:10",
         "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "數位 日語",
-      "times": [
-        "11:00",
-        "15:20",
-        "17:40"
       ]
     },
     {
@@ -912,6 +900,17 @@
         "17:20",
         "19:30",
         "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "11:00",
+        "15:20",
+        "17:40"
       ]
     },
     {
@@ -955,22 +954,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-14",
-      "movie": "蜘蛛人：重生日",
-      "version": "DVA 英語",
-      "times": [
-        "12:00",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-14",
       "movie": "慶州殺遊紀",
       "version": "數位 韓語",
       "times": [
         "12:00",
         "18:40",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-14",
+      "movie": "蜘蛛人：重生日",
+      "version": "DVA 英語",
+      "times": [
+        "12:00",
+        "23:00"
       ]
     },
     {
