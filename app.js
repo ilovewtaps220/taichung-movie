@@ -2,7 +2,7 @@ const state={data:null};
 const $=s=>document.querySelector(s);
 const today=()=>new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Taipei'});
 const nowTime=()=>new Date().toLocaleTimeString('en-GB',{timeZone:'Asia/Taipei',hour:'2-digit',minute:'2-digit',hour12:false}).slice(0,5);
-const orderedCinemas=d=>{const priority=['sunrise','chin-chin'];return [...d.cinemas].sort((a,b)=>{const ai=priority.indexOf(a.id),bi=priority.indexOf(b.id);return (ai<0?99:ai)-(bi<0?99:bi)})};
+const orderedCinemas=d=>{const priority=['sunrise','chin-chin','ifg','station-showtime','top-city','tiger-city'];return [...d.cinemas].sort((a,b)=>{const ai=priority.indexOf(a.id),bi=priority.indexOf(b.id);return (ai<0?99:ai)-(bi<0?99:bi)})};
 async function init(){const r=await fetch('./data/showtimes.json');state.data=await r.json();populate();render();$('#updated').textContent=`今日資料：${today()} · 現在時間：${nowTime()} · 最後抓取：${state.data.updated_at}`;['cinemaFilter','movieFilter'].forEach(id=>$('#'+id).addEventListener('change',render));$('#resetBtn').onclick=()=>{['cinemaFilter','movieFilter'].forEach(id=>$('#'+id).value='all');render()}}
 function addOptions(id,items){const el=$('#'+id);items.forEach(x=>{const o=document.createElement('option');o.value=x.value;o.textContent=x.text;el.appendChild(o)})}
 function populate(){const d=state.data,day=today(),ordered=orderedCinemas(d);addOptions('cinemaFilter',ordered.map(x=>({value:x.id,text:x.name})));addOptions('movieFilter',[...new Set(d.showtimes.filter(x=>x.date===day&&x.times.some(t=>t>nowTime())).map(x=>x.movie))].sort().map(x=>({value:x,text:x})))}
