@@ -129,6 +129,7 @@ def collect() -> tuple[list[dict], dict[str, str]]:
 
 def main() -> int:
     records, sources = collect()
+    ordered_cinemas = sorted(CINEMAS, key=lambda c: ["sunrise", "chin-chin", "ifg", "station-showtime", "top-city", "tiger-city"].index(c["id"]))
     data = {
         "project": "taichung-movie",
         "city": "台中市",
@@ -136,7 +137,7 @@ def main() -> int:
         "data_date": TODAY,
         "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
         "sources": sources,
-        "cinemas": CINEMAS,
+        "cinemas": ordered_cinemas,
         "showtimes": records,
     }
     for path in DATA_PATHS:
