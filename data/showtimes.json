@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-15T08:36:38+08:00",
+  "updated_at": "2026-09-15T13:20:00+08:00",
   "data_date": "2026-09-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -784,21 +784,23 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
       "times": [
         "10:00",
-        "13:10"
+        "18:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
       "movie": "驀然回首(真人版)",
-      "version": "DVA 日語",
+      "version": "數位 日語",
       "times": [
         "10:00",
-        "18:00"
+        "16:40",
+        "20:50",
+        "22:50"
       ]
     },
     {
@@ -822,22 +824,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
       "times": [
         "10:00",
-        "16:40",
-        "20:50",
-        "22:50"
+        "13:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "驀然回首",
-      "version": "數位 日語",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
       "times": [
-        "10:20"
+        "10:20",
+        "14:15"
       ]
     },
     {
@@ -854,21 +855,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "寂地",
-      "version": "數位 英語",
+      "movie": "驀然回首",
+      "version": "數位 日語",
       "times": [
-        "10:20",
-        "14:55"
+        "10:20"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "汪汪隊立大功：恐龍大電影",
+      "movie": "寂地",
       "version": "數位 英語",
       "times": [
         "10:20",
-        "14:15"
+        "14:55"
       ]
     },
     {
