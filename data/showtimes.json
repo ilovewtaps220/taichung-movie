@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-15T06:11:38+08:00",
+  "updated_at": "2026-09-15T08:36:38+08:00",
   "data_date": "2026-09-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -795,18 +795,6 @@
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
       "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
-      "times": [
-        "10:00",
-        "16:40",
-        "20:50",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-15",
-      "movie": "驀然回首(真人版)",
       "version": "DVA 日語",
       "times": [
         "10:00",
@@ -834,21 +822,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "寂地",
-      "version": "數位 英語",
+      "movie": "驀然回首(真人版)",
+      "version": "數位 日語",
       "times": [
-        "10:20",
-        "14:55"
+        "10:00",
+        "16:40",
+        "20:50",
+        "22:50"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 英語",
+      "movie": "驀然回首",
+      "version": "數位 日語",
       "times": [
-        "10:20",
-        "14:15"
+        "10:20"
       ]
     },
     {
@@ -865,10 +854,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
-      "movie": "驀然回首",
-      "version": "數位 日語",
+      "movie": "寂地",
+      "version": "數位 英語",
       "times": [
-        "10:20"
+        "10:20",
+        "14:55"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-15",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
+      "times": [
+        "10:20",
+        "14:15"
       ]
     },
     {
@@ -912,6 +912,17 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-15",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "11:00",
+        "15:20",
+        "17:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-15",
       "movie": "愛你致死不渝",
       "version": "數位 英語",
       "times": [
@@ -920,17 +931,6 @@
         "17:20",
         "19:30",
         "21:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-15",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "數位 日語",
-      "times": [
-        "11:00",
-        "15:20",
-        "17:40"
       ]
     },
     {
