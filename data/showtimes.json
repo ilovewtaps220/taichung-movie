@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-16T05:53:52+08:00",
+  "updated_at": "2026-09-16T07:49:01+08:00",
   "data_date": "2026-09-16",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -767,12 +767,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
-      "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
+      "movie": "希望：末日血戰",
+      "version": "DVA 韓語",
       "times": [
-        "10:00",
-        "16:40",
-        "22:50"
+        "10:00"
       ]
     },
     {
@@ -796,10 +794,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
-      "movie": "希望：末日血戰",
-      "version": "DVA 韓語",
+      "movie": "驀然回首(真人版)",
+      "version": "數位 日語",
       "times": [
-        "10:00"
+        "10:00",
+        "16:40",
+        "22:50"
       ]
     },
     {
@@ -815,11 +815,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
-      "movie": "汪汪隊立大功：恐龍大電影",
+      "movie": "寂地",
       "version": "數位 英語",
       "times": [
         "10:20",
-        "14:15"
+        "14:55"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-16",
+      "movie": "驀然回首",
+      "version": "數位 日語",
+      "times": [
+        "10:20"
       ]
     },
     {
@@ -836,31 +845,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
-      "movie": "驀然回首",
-      "version": "數位 日語",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-16",
-      "movie": "寂地",
+      "movie": "汪汪隊立大功：恐龍大電影",
       "version": "數位 英語",
       "times": [
         "10:20",
-        "14:55"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-16",
-      "movie": "墜2",
-      "version": "數位 英語",
-      "times": [
-        "10:30",
-        "16:25",
-        "20:15"
+        "14:15"
       ]
     },
     {
@@ -875,6 +864,17 @@
         "18:00",
         "20:30",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-16",
+      "movie": "墜2",
+      "version": "數位 英語",
+      "times": [
+        "10:30",
+        "16:25",
+        "20:15"
       ]
     },
     {
