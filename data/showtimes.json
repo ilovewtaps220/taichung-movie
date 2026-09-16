@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-16T07:49:01+08:00",
+  "updated_at": "2026-09-16T10:14:33+08:00",
   "data_date": "2026-09-16",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -767,6 +767,27 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
+      "movie": "驀然回首(真人版)",
+      "version": "數位 日語",
+      "times": [
+        "10:00",
+        "16:40",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-16",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
+      "times": [
+        "10:00",
+        "13:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-16",
       "movie": "希望：末日血戰",
       "version": "DVA 韓語",
       "times": [
@@ -794,22 +815,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
-      "movie": "驀然回首(真人版)",
-      "version": "數位 日語",
+      "movie": "蜘蛛人：重生日",
+      "version": "SCREENX 英語",
       "times": [
-        "10:00",
-        "16:40",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-16",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "10:00",
-        "13:10"
+        "10:20",
+        "16:00",
+        "21:50"
       ]
     },
     {
@@ -829,17 +840,6 @@
       "version": "數位 日語",
       "times": [
         "10:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-16",
-      "movie": "蜘蛛人：重生日",
-      "version": "SCREENX 英語",
-      "times": [
-        "10:20",
-        "16:00",
-        "21:50"
       ]
     },
     {
@@ -917,6 +917,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-16",
+      "movie": "粽邪4:坤蒂拉娜",
+      "version": "數位 國語",
+      "times": [
+        "11:20",
+        "13:35",
+        "15:50",
+        "18:05",
+        "20:20",
+        "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-16",
       "movie": "網紅老爸",
       "version": "數位 國語",
       "times": [
@@ -926,20 +940,6 @@
         "18:35",
         "20:10",
         "21:00",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-16",
-      "movie": "粽邪4:坤蒂拉娜",
-      "version": "數位 國語",
-      "times": [
-        "11:20",
-        "13:35",
-        "15:50",
-        "18:05",
-        "20:20",
         "22:40"
       ]
     },
