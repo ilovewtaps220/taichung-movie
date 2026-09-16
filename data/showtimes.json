@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-17T04:17:17+08:00",
+  "updated_at": "2026-09-17T07:04:29+08:00",
   "data_date": "2026-09-17",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -811,6 +811,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-17",
       "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "version": "數位 國語",
       "times": [
@@ -821,10 +830,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
-      "movie": "驀然回首(真人版)",
-      "version": "DVA 日語",
+      "movie": "慶州殺遊紀",
+      "version": "數位 韓語",
       "times": [
-        "10:00"
+        "10:10",
+        "18:20"
       ]
     },
     {
@@ -837,16 +847,6 @@
         "14:50",
         "19:40",
         "21:35"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-17",
-      "movie": "慶州殺遊紀",
-      "version": "數位 韓語",
-      "times": [
-        "10:10",
-        "18:20"
       ]
     },
     {
@@ -886,6 +886,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
+      "movie": "寂地",
+      "version": "數位 英語",
+      "times": [
+        "10:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-17",
       "movie": "惡靈古堡：爆發夜",
       "version": "數位 英語",
       "times": [
@@ -910,15 +919,6 @@
         "18:00",
         "20:30",
         "23:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-17",
-      "movie": "寂地",
-      "version": "數位 英語",
-      "times": [
-        "10:30"
       ]
     },
     {
@@ -964,6 +964,19 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
+      "times": [
+        "11:20",
+        "14:10",
+        "17:00",
+        "19:50",
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-17",
       "movie": "網紅老爸",
       "version": "數位 國語",
       "times": [
@@ -979,21 +992,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
-      "movie": "蜘蛛人：重生日",
-      "version": "數位 英語",
-      "times": [
-        "11:20",
-        "14:10",
-        "17:00",
-        "19:50",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-17",
-      "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 英語",
+      "movie": "最終樂章 吹響吧！上低音號 前篇",
+      "version": "數位 日語",
       "times": [
         "11:40"
       ]
@@ -1001,8 +1001,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-17",
-      "movie": "最終樂章 吹響吧！上低音號 前篇",
-      "version": "數位 日語",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
       "times": [
         "11:40"
       ]
