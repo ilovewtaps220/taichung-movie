@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-18T08:31:11+08:00",
+  "updated_at": "2026-09-18T13:10:53+08:00",
   "data_date": "2026-09-18",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -517,8 +517,11 @@
         "13:10",
         "15:30",
         "17:50",
+        "19:00",
         "20:10",
-        "22:30"
+        "21:10",
+        "22:30",
+        "23:30"
       ]
     },
     {
@@ -551,9 +554,8 @@
       "version": "一般場次",
       "times": [
         "13:10",
-        "16:20",
-        "19:30",
-        "22:40"
+        "16:40",
+        "19:50"
       ]
     },
     {
@@ -608,9 +610,7 @@
       "times": [
         "14:30",
         "16:40",
-        "18:50",
-        "21:00",
-        "23:10"
+        "23:00"
       ]
     },
     {
@@ -696,19 +696,12 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-18",
-      "movie": "婚・紗・罩 9/11(五)起~預售9/19(六)場次",
+      "movie": "超異能快感：魔法之書 Practical Magic 2",
       "version": "一般場次",
       "times": [
-        "10:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-18",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
-      "version": "一般場次",
-      "times": [
-        "11:30"
+        "10:20",
+        "16:50",
+        "23:20"
       ]
     },
     {
@@ -724,10 +717,11 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-18",
-      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "movie": "驀然回首 Look Back",
       "version": "一般場次",
       "times": [
-        "16:20"
+        "10:00",
+        "18:00"
       ]
     },
     {
@@ -758,17 +752,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-18",
-      "movie": "超異能快感：魔法之書 Practical Magic 2",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "16:50",
-        "23:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-18",
       "movie": "大仙尪仔 In Gods We Hide",
       "version": "一般場次",
       "times": [
@@ -776,6 +759,33 @@
         "14:50",
         "19:20",
         "21:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-18",
+      "movie": "婚・紗・罩 9/11(五)起~預售9/19(六)場次",
+      "version": "一般場次",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-18",
+      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "version": "一般場次",
+      "times": [
+        "16:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-18",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
+      "version": "一般場次",
+      "times": [
+        "11:30"
       ]
     },
     {
@@ -790,16 +800,6 @@
         "17:50",
         "19:40",
         "23:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-18",
-      "movie": "驀然回首 Look Back",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "18:00"
       ]
     },
     {
@@ -857,17 +857,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "LOVE ≠ COMEDY",
-      "version": "數位 日語",
-      "times": [
-        "10:10",
-        "15:10",
-        "17:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
       "movie": "超異能快感：魔法之書",
       "version": "數位 英語",
       "times": [
@@ -875,6 +864,17 @@
         "12:40",
         "19:00",
         "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "LOVE ≠ COMEDY",
+      "version": "數位 日語",
+      "times": [
+        "10:10",
+        "15:10",
+        "17:30"
       ]
     },
     {
@@ -891,21 +891,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
+      "times": [
+        "10:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
       "movie": "夢想出擊",
       "version": "數位 韓語",
       "times": [
         "10:30",
         "14:20",
         "18:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "10:30"
       ]
     },
     {
@@ -963,58 +963,14 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "懺悔",
-      "version": "數位 日語",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "DVA 英語",
       "times": [
-        "11:25",
-        "13:50",
-        "18:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "蜘蛛人：重生日",
-      "version": "數位 英語",
-      "times": [
-        "11:30",
-        "16:10",
-        "18:00",
-        "20:50",
-        "21:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "最終樂章 吹響吧！上低音號 前篇",
-      "version": "數位 日語",
-      "times": [
-        "11:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "愛你致死不渝",
-      "version": "數位 英語",
-      "times": [
-        "11:40",
-        "16:00",
-        "18:10",
-        "20:20",
-        "22:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "成人童話",
-      "version": "數位 韓語",
-      "times": [
-        "11:40",
-        "16:20",
-        "21:00"
+        "12:05",
+        "17:15",
+        "19:10",
+        "21:05",
+        "23:00"
       ]
     },
     {
@@ -1024,19 +980,6 @@
       "version": "SCREENX 英語",
       "times": [
         "12:05"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "DVA 英語",
-      "times": [
-        "12:05",
-        "17:15",
-        "19:10",
-        "21:05",
-        "23:00"
       ]
     },
     {
@@ -1110,6 +1053,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "13:50",
+        "18:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
@@ -1162,6 +1115,40 @@
       "version": "數位 日語",
       "times": [
         "14:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "愛你致死不渝",
+      "version": "數位 英語",
+      "times": [
+        "16:00",
+        "18:10",
+        "20:20",
+        "22:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
+      "times": [
+        "16:10",
+        "18:00",
+        "20:50",
+        "21:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "成人童話",
+      "version": "數位 韓語",
+      "times": [
+        "16:20",
+        "21:00"
       ]
     },
     {
