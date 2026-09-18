@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-18T17:42:35+08:00",
+  "updated_at": "2026-09-18T21:50:37+08:00",
   "data_date": "2026-09-18",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -845,6 +845,28 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
+      "movie": "LOVE ≠ COMEDY",
+      "version": "數位 日語",
+      "times": [
+        "10:10",
+        "15:10",
+        "17:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
+      "version": "數位 日語",
+      "times": [
+        "10:10",
+        "15:10",
+        "17:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
       "movie": "超異能快感：魔法之書",
       "version": "數位 英語",
       "times": [
@@ -852,17 +874,6 @@
         "12:40",
         "19:00",
         "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "LOVE ≠ COMEDY",
-      "version": "數位 日語",
-      "times": [
-        "10:10",
-        "15:10",
-        "17:30"
       ]
     },
     {
@@ -880,12 +891,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
-      "version": "數位 日語",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
       "times": [
-        "10:10",
-        "15:10",
-        "17:10"
+        "10:30"
       ]
     },
     {
@@ -897,15 +906,6 @@
         "10:30",
         "14:20",
         "18:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "10:30"
       ]
     },
     {
@@ -1053,22 +1053,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "13:50",
+        "18:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
         "13:50",
         "18:50",
         "21:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
-      "movie": "懺悔",
-      "version": "數位 日語",
-      "times": [
-        "13:50",
-        "18:30"
       ]
     },
     {
