@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-18T13:10:53+08:00",
+  "updated_at": "2026-09-18T17:42:35+08:00",
   "data_date": "2026-09-18",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -539,17 +539,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-09-18",
-      "movie": "驀然回首 LOOK BACK",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:20",
-        "16:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-18",
       "movie": "希望：末日血戰 HOPE",
       "version": "一般場次",
       "times": [
@@ -574,19 +563,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-09-18",
-      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "16:00",
-        "18:20",
-        "20:40",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-18",
       "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
@@ -600,6 +576,30 @@
         "20:20",
         "21:40",
         "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-18",
+      "movie": "驀然回首 LOOK BACK",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:20",
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-18",
+      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "16:00",
+        "18:20",
+        "20:40",
+        "23:00"
       ]
     },
     {
@@ -827,15 +827,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "驀然回首(真人版)",
-      "version": "DVA 日語",
-      "times": [
-        "10:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
       "movie": "驀然回首",
       "version": "數位 日語",
       "times": [
@@ -845,13 +836,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "SCREENX 英語",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
       "times": [
-        "10:10",
-        "14:50",
-        "19:45",
-        "21:40"
+        "10:00"
       ]
     },
     {
@@ -880,6 +868,18 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "SCREENX 英語",
+      "times": [
+        "10:10",
+        "14:50",
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "數位 日語",
       "times": [
@@ -891,21 +891,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "10:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
       "movie": "夢想出擊",
       "version": "數位 韓語",
       "times": [
         "10:30",
         "14:20",
         "18:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
+      "times": [
+        "10:30"
       ]
     },
     {
@@ -1053,22 +1053,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-18",
-      "movie": "懺悔",
-      "version": "數位 日語",
-      "times": [
-        "13:50",
-        "18:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-18",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
         "13:50",
         "18:50",
         "21:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-18",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "13:50",
+        "18:30"
       ]
     },
     {
