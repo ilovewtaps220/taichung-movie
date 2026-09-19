@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-19T12:48:27+08:00",
+  "updated_at": "2026-09-19T17:04:04+08:00",
   "data_date": "2026-09-19",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -896,6 +896,17 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
+      "times": [
+        "10:20",
+        "12:10",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
       "movie": "驀然回首(真人版)",
       "version": "數位 日語",
       "times": [
@@ -907,12 +918,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
+      "movie": "愛你致死不渝",
+      "version": "數位 英語",
       "times": [
-        "10:20",
-        "12:10",
-        "18:00"
+        "10:40",
+        "17:00",
+        "21:20"
       ]
     },
     {
@@ -927,12 +938,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "愛你致死不渝",
-      "version": "數位 英語",
+      "movie": "大仙尪仔",
+      "version": "數位 國語",
       "times": [
-        "10:40",
-        "17:00",
-        "21:20"
+        "10:50",
+        "14:50",
+        "17:40",
+        "21:00"
       ]
     },
     {
@@ -950,18 +962,6 @@
         "19:10",
         "20:25",
         "22:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "大仙尪仔",
-      "version": "數位 國語",
-      "times": [
-        "10:50",
-        "14:50",
-        "17:40",
-        "21:00"
       ]
     },
     {
@@ -1010,23 +1010,23 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "懺悔",
-      "version": "數位 日語",
-      "times": [
-        "11:40",
-        "13:50",
-        "18:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
       "movie": "成人童話",
       "version": "數位 韓語",
       "times": [
         "11:40",
         "16:20",
         "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "11:40",
+        "13:50",
+        "18:30"
       ]
     },
     {
@@ -1095,21 +1095,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
+      "times": [
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
         "13:50",
         "16:50",
         "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "奧德賽",
-      "version": "DVA 英語",
-      "times": [
-        "13:50"
       ]
     },
     {
