@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-19T17:04:04+08:00",
+  "updated_at": "2026-09-19T21:06:55+08:00",
   "data_date": "2026-09-19",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -918,21 +918,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
+      "movie": "驀然回首",
+      "version": "數位 日語",
+      "times": [
+        "10:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
       "movie": "愛你致死不渝",
       "version": "數位 英語",
       "times": [
         "10:40",
         "17:00",
         "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "驀然回首",
-      "version": "數位 日語",
-      "times": [
-        "10:40"
       ]
     },
     {
@@ -1075,6 +1075,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
+      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
+      "version": "數位 國語",
+      "times": [
+        "12:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "數位 日語",
       "times": [
@@ -1086,10 +1095,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
-      "version": "數位 國語",
+      "movie": "希望：末日血戰",
+      "version": "數位 韓語",
       "times": [
-        "12:50"
+        "13:50",
+        "16:50",
+        "22:00"
       ]
     },
     {
@@ -1099,17 +1110,6 @@
       "version": "DVA 英語",
       "times": [
         "13:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "希望：末日血戰",
-      "version": "數位 韓語",
-      "times": [
-        "13:50",
-        "16:50",
-        "22:00"
       ]
     },
     {
@@ -1139,20 +1139,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "墜2",
+      "movie": "汪汪隊立大功：恐龍大電影",
       "version": "數位 英語",
       "times": [
-        "14:40",
-        "22:00"
+        "14:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "汪汪隊立大功：恐龍大電影",
+      "movie": "墜2",
       "version": "數位 英語",
       "times": [
-        "14:40"
+        "14:40",
+        "22:00"
       ]
     },
     {
