@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-19T08:17:09+08:00",
+  "updated_at": "2026-09-19T12:48:27+08:00",
   "data_date": "2026-09-19",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -554,6 +554,17 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-09-19",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:40",
+        "19:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-19",
       "movie": "希望：末日血戰 HOPE",
       "version": "一般場次",
       "times": [
@@ -673,17 +684,6 @@
       "version": "一般場次",
       "times": [
         "18:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-19",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "14:40",
-        "19:00"
       ]
     },
     {
@@ -859,18 +859,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "超異能快感：魔法之書",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "14:50",
-        "17:20",
-        "22:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
       "movie": "惡靈古堡：爆發夜",
       "version": "DVA 英語",
       "times": [
@@ -879,6 +867,18 @@
         "17:05",
         "21:05",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
+      "movie": "超異能快感：魔法之書",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "14:50",
+        "17:20",
+        "22:10"
       ]
     },
     {
@@ -896,17 +896,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
-      "times": [
-        "10:20",
-        "12:10",
-        "18:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
       "movie": "驀然回首(真人版)",
       "version": "數位 日語",
       "times": [
@@ -918,21 +907,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "數位 日語",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
       "times": [
-        "10:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "愛你致死不渝",
-      "version": "數位 英語",
-      "times": [
-        "10:40",
-        "17:00",
-        "21:20"
+        "10:20",
+        "12:10",
+        "18:00"
       ]
     },
     {
@@ -947,13 +927,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "大仙尪仔",
-      "version": "數位 國語",
+      "movie": "愛你致死不渝",
+      "version": "數位 英語",
       "times": [
-        "10:50",
-        "14:50",
-        "17:40",
-        "21:00"
+        "10:40",
+        "17:00",
+        "21:20"
       ]
     },
     {
@@ -971,6 +950,18 @@
         "19:10",
         "20:25",
         "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
+      "movie": "大仙尪仔",
+      "version": "數位 國語",
+      "times": [
+        "10:50",
+        "14:50",
+        "17:40",
+        "21:00"
       ]
     },
     {
@@ -999,21 +990,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
+      "movie": "最終樂章 吹響吧！上低音號 前篇",
+      "version": "數位 日語",
+      "times": [
+        "11:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
       "movie": "蜘蛛人：重生日",
       "version": "數位 英語",
       "times": [
         "11:30",
         "16:20",
         "19:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
-      "movie": "最終樂章 吹響吧！上低音號 前篇",
-      "version": "數位 日語",
-      "times": [
-        "11:30"
       ]
     },
     {
@@ -1104,21 +1095,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "奧德賽",
-      "version": "DVA 英語",
-      "times": [
-        "13:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
         "13:50",
         "16:50",
         "22:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
+      "times": [
+        "13:50"
       ]
     },
     {
@@ -1148,20 +1139,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-19",
-      "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 英語",
-      "times": [
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-19",
       "movie": "墜2",
       "version": "數位 英語",
       "times": [
         "14:40",
         "22:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-19",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
+      "times": [
+        "14:40"
       ]
     },
     {
