@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-20T06:43:48+08:00",
+  "updated_at": "2026-09-20T08:24:36+08:00",
   "data_date": "2026-09-20",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -872,17 +872,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "超異能快感：魔法之書",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "17:20",
-        "22:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-20",
       "movie": "希望：末日血戰",
       "version": "數位 韓語",
       "times": [
@@ -893,11 +882,12 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
+      "movie": "超異能快感：魔法之書",
+      "version": "數位 英語",
       "times": [
-        "10:10",
-        "18:00"
+        "10:00",
+        "17:20",
+        "22:10"
       ]
     },
     {
@@ -910,6 +900,16 @@
         "14:50",
         "19:45",
         "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-20",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
+      "times": [
+        "10:10",
+        "18:00"
       ]
     },
     {
@@ -960,19 +960,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "怎麼可能我家的祖先是你家的鬼",
-      "version": "數位 多元語",
-      "times": [
-        "11:00",
-        "12:00",
-        "12:50",
-        "15:50",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-20",
       "movie": "愛你致死不渝",
       "version": "數位 英語",
       "times": [
@@ -986,12 +973,14 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "懺悔",
-      "version": "數位 日語",
+      "movie": "怎麼可能我家的祖先是你家的鬼",
+      "version": "數位 多元語",
       "times": [
-        "11:20",
-        "13:50",
-        "18:30"
+        "11:00",
+        "12:00",
+        "12:50",
+        "15:50",
+        "21:50"
       ]
     },
     {
@@ -1005,6 +994,17 @@
         "18:00",
         "19:00",
         "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-20",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "11:20",
+        "13:50",
+        "18:30"
       ]
     },
     {
@@ -1116,8 +1116,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "奧德賽",
-      "version": "DVA 英語",
+      "movie": "航海王劇場版：死亡盡頭大冒險 特別場",
+      "version": "數位 日語",
       "times": [
         "13:50"
       ]
@@ -1125,8 +1125,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "航海王劇場版：死亡盡頭大冒險 特別場",
-      "version": "數位 日語",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
       "times": [
         "13:50"
       ]
@@ -1153,15 +1153,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-20",
-      "movie": "(直播) NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ in CINEMAS",
-      "version": "數位 韓語",
-      "times": [
-        "14:45"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-20",
       "movie": "網紅老爸",
       "version": "數位 國語",
       "times": [
@@ -1171,6 +1162,15 @@
         "20:00",
         "22:00",
         "22:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-20",
+      "movie": "(直播) NCT 127 5TH TOUR ‘NEO CITY : SEOUL - THE REDLINE’ in CINEMAS",
+      "version": "數位 韓語",
+      "times": [
+        "14:45"
       ]
     },
     {
