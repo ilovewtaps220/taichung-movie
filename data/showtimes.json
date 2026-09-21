@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-21T07:32:02+08:00",
+  "updated_at": "2026-09-21T09:39:52+08:00",
   "data_date": "2026-09-21",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -817,15 +817,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-21",
-      "movie": "驀然回首(真人版)",
-      "version": "DVA 日語",
-      "times": [
-        "10:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-21",
       "movie": "驀然回首",
       "version": "數位 日語",
       "times": [
@@ -841,6 +832,15 @@
         "10:00",
         "19:40",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-21",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
+      "times": [
+        "10:00"
       ]
     },
     {
@@ -954,17 +954,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-21",
-      "movie": "懺悔",
-      "version": "數位 日語",
-      "times": [
-        "11:20",
-        "13:50",
-        "18:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-21",
       "movie": "怎麼可能我家的祖先是你家的鬼",
       "version": "數位 多元語",
       "times": [
@@ -972,6 +961,17 @@
         "15:10",
         "17:00",
         "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-21",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "11:20",
+        "13:50",
+        "18:30"
       ]
     },
     {
@@ -990,17 +990,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-21",
-      "movie": "成人童話",
-      "version": "數位 韓語",
-      "times": [
-        "11:40",
-        "16:20",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-21",
       "movie": "愛你致死不渝",
       "version": "數位 英語",
       "times": [
@@ -1009,6 +998,17 @@
         "18:10",
         "20:20",
         "22:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-21",
+      "movie": "成人童話",
+      "version": "數位 韓語",
+      "times": [
+        "11:40",
+        "16:20",
+        "21:00"
       ]
     },
     {
