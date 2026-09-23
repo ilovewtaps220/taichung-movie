@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-24T05:41:27+08:00",
+  "updated_at": "2026-09-24T07:57:20+08:00",
   "data_date": "2026-09-24",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -815,6 +815,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
       "movie": "特種快遞",
       "version": "數位 英語",
       "times": [
@@ -833,15 +842,6 @@
       "times": [
         "10:00",
         "15:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
-      "movie": "奧德賽",
-      "version": "DVA 英語",
-      "times": [
-        "10:00"
       ]
     },
     {
@@ -1014,20 +1014,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
+      "movie": "最後的單車上路",
+      "version": "數位 法語",
       "times": [
-        "12:30",
-        "18:40"
+        "12:30"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "最後的單車上路",
-      "version": "數位 法語",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
       "times": [
-        "12:30"
+        "12:30",
+        "18:40"
       ]
     },
     {
@@ -1129,21 +1129,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "墜2",
-      "version": "數位 英語",
-      "times": [
-        "16:50",
-        "20:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
       "movie": "成人童話",
       "version": "數位 韓語",
       "times": [
         "16:50",
         "21:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
+      "movie": "墜2",
+      "version": "數位 英語",
+      "times": [
+        "16:50",
+        "20:40"
       ]
     },
     {
