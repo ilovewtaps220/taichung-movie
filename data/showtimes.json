@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-23T12:58:38+08:00",
+  "updated_at": "2026-09-23T17:44:14+08:00",
   "data_date": "2026-09-23",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -9,7 +9,7 @@
     "tiger-city": "public-showtime-fallback",
     "sunrise": "official",
     "chin-chin": "official",
-    "station-showtime": "error: HTTPError",
+    "station-showtime": "showtimes-api",
     "ifg": "public-showtime-fallback"
   },
   "cinemas": [
@@ -538,6 +538,55 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-09-23",
+      "movie": "網紅老爸 Pa Pa Go",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "01:20",
+        "10:00",
+        "12:40",
+        "15:20",
+        "17:50",
+        "19:10",
+        "20:20",
+        "21:40",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-23",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-23",
+      "movie": "蜘蛛人：重生日 Spider-Man: Brand NewDay",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "13:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-23",
+      "movie": "驀然回首 LOOK BACK",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "12:30",
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-09-23",
       "movie": "希望：末日血戰 HOPE",
       "version": "一般場次",
       "times": [
@@ -557,35 +606,6 @@
         "14:30",
         "16:30",
         "21:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-23",
-      "movie": "網紅老爸 Pa Pa Go",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "01:20",
-        "10:00",
-        "12:40",
-        "15:20",
-        "17:50",
-        "19:10",
-        "20:20",
-        "21:40",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-23",
-      "movie": "驀然回首 LOOK BACK",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "12:30",
-        "16:50"
       ]
     },
     {
@@ -635,26 +655,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-09-23",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-23",
-      "movie": "蜘蛛人：重生日 Spider-Man: Brand NewDay",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "13:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-09-23",
       "movie": "奧德賽 The Odyssey",
       "version": "一般場次",
       "times": [
@@ -680,37 +680,22 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-23",
-      "movie": "網紅老爸 Pa Pa Go",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "10:10",
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:30",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "超異能快感：魔法之書 Practical Magic 2",
+      "movie": "希望：末日血戰 Hope(2026)",
       "version": "一般場次",
       "times": [
         "10:00",
-        "15:50",
-        "21:10"
+        "15:10",
+        "18:10",
+        "23:20"
       ]
     },
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-23",
-      "movie": "蜘蛛人：重生日",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
       "version": "一般場次",
       "times": [
-        "18:20",
-        "23:40"
+        "12:30"
       ]
     },
     {
@@ -726,64 +711,11 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-23",
-      "movie": "墜2 Fall 2",
+      "movie": "蜘蛛人：重生日",
       "version": "一般場次",
       "times": [
-        "00:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
-      "version": "一般場次",
-      "times": [
-        "00:00",
-        "10:00",
-        "12:20",
-        "14:40",
-        "17:00",
-        "19:20",
-        "21:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "大仙尪仔 In Gods We Hide",
-      "version": "一般場次",
-      "times": [
-        "12:00",
-        "16:20",
         "18:20",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "婚・紗・罩 9/11(五)起~預售9/19(六)場次",
-      "version": "一般場次",
-      "times": [
-        "14:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
-      "version": "一般場次",
-      "times": [
-        "14:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-23",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
-      "version": "一般場次",
-      "times": [
-        "12:30"
+        "23:40"
       ]
     },
     {
@@ -805,6 +737,15 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-23",
+      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "version": "一般場次",
+      "times": [
+        "14:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
       "movie": "愛你致死不渝 Obsession",
       "version": "一般場次",
       "times": [
@@ -815,13 +756,425 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-23",
-      "movie": "希望：末日血戰 Hope(2026)",
+      "movie": "網紅老爸 Pa Pa Go",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:10",
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:30",
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
+      "movie": "大仙尪仔 In Gods We Hide",
+      "version": "一般場次",
+      "times": [
+        "12:00",
+        "16:20",
+        "18:20",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
+      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
+      "version": "一般場次",
+      "times": [
+        "00:00",
+        "10:00",
+        "12:20",
+        "14:40",
+        "17:00",
+        "19:20",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
+      "movie": "超異能快感：魔法之書 Practical Magic 2",
       "version": "一般場次",
       "times": [
         "10:00",
-        "15:10",
+        "15:50",
+        "21:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
+      "movie": "墜2 Fall 2",
+      "version": "一般場次",
+      "times": [
+        "00:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-23",
+      "movie": "婚・紗・罩 9/11(五)起~預售9/19(六)場次",
+      "version": "一般場次",
+      "times": [
+        "14:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "驀然回首(真人版)",
+      "version": "DVA 日語",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "超異能快感：魔法之書",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "14:50",
+        "17:20",
+        "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
+      "version": "數位 日語",
+      "times": [
+        "10:00",
+        "16:00",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "希望：末日血戰",
+      "version": "數位 韓語",
+      "times": [
+        "10:10",
+        "13:10",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "SCREENX 英語",
+      "times": [
+        "10:10",
+        "14:50",
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
+      "times": [
+        "10:20",
+        "14:10",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "version": "數位 國語",
+      "times": [
+        "10:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "數位 英語",
+      "times": [
+        "10:50",
+        "12:45",
+        "14:00",
+        "15:55",
+        "16:35",
+        "20:25",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "網紅老爸",
+      "version": "數位 國語",
+      "times": [
+        "11:00",
+        "13:25",
+        "15:50",
+        "18:15",
+        "19:55",
+        "20:40",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "懺悔",
+      "version": "數位 日語",
+      "times": [
+        "11:20",
+        "13:50",
+        "18:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "奧德賽",
+      "version": "數位 英語",
+      "times": [
+        "11:25",
+        "14:40",
+        "17:55",
+        "18:45",
+        "21:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
+      "times": [
+        "11:30",
+        "14:20",
+        "18:20",
+        "20:00",
+        "21:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "怎麼可能我家的祖先是你家的鬼",
+      "version": "數位 多元語",
+      "times": [
+        "11:30",
+        "15:20",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "愛你致死不渝",
+      "version": "數位 英語",
+      "times": [
+        "11:40",
+        "16:00",
         "18:10",
-        "23:20"
+        "20:20",
+        "22:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "成人童話",
+      "version": "數位 韓語",
+      "times": [
+        "11:40",
+        "16:20",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "大仙尪仔",
+      "version": "數位 國語",
+      "times": [
+        "12:00",
+        "20:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "DVA 英語",
+      "times": [
+        "12:05",
+        "19:10",
+        "21:05",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "蜘蛛人：重生日",
+      "version": "SCREENX 英語",
+      "times": [
+        "12:05"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "墜2",
+      "version": "數位 英語",
+      "times": [
+        "12:10",
+        "19:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "LOVE ≠ COMEDY",
+      "version": "數位 日語",
+      "times": [
+        "12:30",
+        "15:30",
+        "19:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "粽邪4:坤蒂拉娜",
+      "version": "數位 國語",
+      "times": [
+        "12:35",
+        "14:50",
+        "17:05",
+        "19:25",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "天鵝與蝙蝠",
+      "version": "數位 日語",
+      "times": [
+        "12:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "航海王劇場版：死亡盡頭大冒險",
+      "version": "數位 日語",
+      "times": [
+        "13:20",
+        "19:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
+      "version": "數位 國語",
+      "times": [
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "奧德賽",
+      "version": "DVA 英語",
+      "times": [
+        "14:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "驀然回首(真人版)",
+      "version": "數位 日語",
+      "times": [
+        "14:00",
+        "16:00",
+        "17:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 英語",
+      "times": [
+        "14:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "最終樂章 吹響吧！上低音號 前篇",
+      "version": "數位 日語",
+      "times": [
+        "16:05"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "希望：末日血戰",
+      "version": "SCREENX 韓語",
+      "times": [
+        "16:45"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "玩命航線",
+      "version": "數位 英語",
+      "times": [
+        "18:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "慶州殺遊紀",
+      "version": "數位 韓語",
+      "times": [
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-23",
+      "movie": "鬼附體",
+      "version": "數位 泰語",
+      "times": [
+        "22:00"
       ]
     },
     {
