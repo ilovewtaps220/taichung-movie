@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-24T07:57:20+08:00",
+  "updated_at": "2026-09-24T10:47:59+08:00",
   "data_date": "2026-09-24",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -898,6 +898,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "10:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
       "movie": "復仇者聯盟：終局之戰 加碼重映",
       "version": "數位 英語",
       "times": [
@@ -905,15 +914,6 @@
         "14:20",
         "17:50",
         "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "數位 日語",
-      "times": [
-        "10:50"
       ]
     },
     {
@@ -1062,7 +1062,7 @@
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
       "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 國語",
+      "version": "數位 英語",
       "times": [
         "13:30"
       ]
