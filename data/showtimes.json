@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-24T15:55:40+08:00",
+  "updated_at": "2026-09-24T21:01:23+08:00",
   "data_date": "2026-09-24",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -815,6 +815,19 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
+      "movie": "特種快遞",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "12:00",
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
       "movie": "奧德賽",
       "version": "DVA 英語",
       "times": [
@@ -829,19 +842,6 @@
       "times": [
         "10:00",
         "15:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
-      "movie": "特種快遞",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "12:00",
-        "16:30",
-        "18:30",
-        "20:30"
       ]
     },
     {
@@ -925,7 +925,6 @@
         "13:00",
         "15:00",
         "17:00",
-        "19:00",
         "21:00",
         "23:00"
       ]
@@ -949,7 +948,6 @@
       "times": [
         "11:20",
         "13:45",
-        "16:10",
         "18:35",
         "21:00",
         "22:00"
@@ -969,6 +967,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
+      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
+      "version": "數位 國語",
+      "times": [
+        "11:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
       "movie": "劇場版 鋼之鍊金術師 香巴拉的征服者",
       "version": "數位 日語",
       "times": [
@@ -980,20 +987,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
-      "version": "數位 國語",
-      "times": [
-        "11:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
       "movie": "復仇者聯盟：終局之戰 加碼重映",
       "version": "SCREENX IV 英語",
       "times": [
         "11:45",
-        "19:00",
         "22:30"
       ]
     },
@@ -1013,20 +1010,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "最後的單車上路",
-      "version": "數位 法語",
-      "times": [
-        "12:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
       "movie": "夢想出擊",
       "version": "數位 韓語",
       "times": [
         "12:30",
         "18:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-24",
+      "movie": "最後的單車上路",
+      "version": "數位 法語",
+      "times": [
+        "12:30"
       ]
     },
     {
@@ -1119,15 +1116,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-24",
-      "movie": "希望：末日血戰",
-      "version": "數位 韓語",
-      "times": [
-        "16:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
       "movie": "墜2",
       "version": "數位 英語",
       "times": [
@@ -1143,24 +1131,6 @@
       "times": [
         "16:50",
         "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
-      "movie": "LOVE ≠ COMEDY",
-      "version": "數位 日語",
-      "times": [
-        "19:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-24",
-      "movie": "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "version": "數位 國語",
-      "times": [
-        "19:05"
       ]
     },
     {
