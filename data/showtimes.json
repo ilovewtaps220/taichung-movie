@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-25T14:49:29+08:00",
+  "updated_at": "2026-09-25T20:24:31+08:00",
   "data_date": "2026-09-25",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -844,6 +844,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-25",
       "movie": "特種快遞",
       "version": "數位 英語",
       "times": [
@@ -851,15 +860,6 @@
         "16:30",
         "18:30",
         "21:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-25",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
-      "times": [
-        "10:00"
       ]
     },
     {
@@ -904,18 +904,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "復仇者聯盟：終局之戰 加碼重映",
-      "version": "數位 英語",
-      "times": [
-        "10:50",
-        "14:20",
-        "17:50",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-25",
       "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "數位 日語",
       "times": [
@@ -925,16 +913,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "野獸之心",
+      "movie": "復仇者聯盟：終局之戰 加碼重映",
       "version": "數位 英語",
       "times": [
-        "11:00",
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00",
-        "23:00"
+        "10:50",
+        "14:20",
+        "17:50",
+        "21:20"
       ]
     },
     {
@@ -959,10 +944,36 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
+      "movie": "野獸之心",
+      "version": "數位 英語",
+      "times": [
+        "11:00",
+        "13:00",
+        "15:00",
+        "17:00",
+        "19:00",
+        "21:00",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-25",
       "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
       "version": "數位 國語",
       "times": [
         "11:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-25",
+      "movie": "實境誘捕",
+      "version": "數位 英語",
+      "times": [
+        "11:20",
+        "16:00",
+        "20:40"
       ]
     },
     {
@@ -977,17 +988,6 @@
         "18:35",
         "21:00",
         "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-25",
-      "movie": "實境誘捕",
-      "version": "數位 英語",
-      "times": [
-        "11:20",
-        "16:00",
-        "20:40"
       ]
     },
     {
@@ -1137,8 +1137,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "成人童話",
-      "version": "數位 韓語",
+      "movie": "大仙尪仔",
+      "version": "數位 國語",
       "times": [
         "16:20"
       ]
@@ -1146,8 +1146,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "大仙尪仔",
-      "version": "數位 國語",
+      "movie": "成人童話",
+      "version": "數位 韓語",
       "times": [
         "16:20"
       ]
@@ -1192,8 +1192,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "野獸之心",
-      "version": "DVA 英語",
+      "movie": "墜2",
+      "version": "數位 英語",
       "times": [
         "20:10"
       ]
@@ -1201,8 +1201,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "墜2",
-      "version": "數位 英語",
+      "movie": "野獸之心",
+      "version": "DVA 英語",
       "times": [
         "20:10"
       ]
