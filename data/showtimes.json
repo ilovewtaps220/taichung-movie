@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-25T07:39:55+08:00",
+  "updated_at": "2026-09-25T09:53:31+08:00",
   "data_date": "2026-09-25",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -770,11 +770,11 @@
       "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
+        "00:00",
         "10:20",
         "15:00",
         "19:20",
-        "21:40",
-        "23:50"
+        "21:40"
       ]
     },
     {
@@ -832,13 +832,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "愛你致死不渝",
-      "version": "數位 英語",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
       "times": [
-        "10:00",
-        "16:30",
-        "20:50",
-        "23:00"
+        "10:00"
       ]
     },
     {
@@ -857,10 +854,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
+      "movie": "愛你致死不渝",
+      "version": "數位 英語",
       "times": [
-        "10:00"
+        "10:00",
+        "16:30",
+        "20:50",
+        "23:00"
       ]
     },
     {
@@ -905,18 +905,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "復仇者聯盟：終局之戰 加碼重映",
-      "version": "數位 英語",
-      "times": [
-        "10:50",
-        "14:20",
-        "17:50",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-25",
       "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "數位 日語",
       "times": [
@@ -926,20 +914,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "誤闖遺忘島",
-      "version": "HFR DVA 英語",
+      "movie": "復仇者聯盟：終局之戰 加碼重映",
+      "version": "數位 英語",
       "times": [
-        "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-25",
-      "movie": "親愛的星上人",
-      "version": "數位",
-      "times": [
-        "11:00",
-        "14:35"
+        "10:50",
+        "14:20",
+        "17:50",
+        "21:20"
       ]
     },
     {
@@ -955,6 +936,25 @@
         "19:00",
         "21:00",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-25",
+      "movie": "親愛的星上人",
+      "version": "數位",
+      "times": [
+        "11:00",
+        "14:35"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-25",
+      "movie": "誤闖遺忘島",
+      "version": "HFR DVA 英語",
+      "times": [
+        "11:00"
       ]
     },
     {
@@ -1060,20 +1060,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "復仇者聯盟：終局之戰 加碼重映",
-      "version": "DVA IV 英語",
+      "movie": "汪汪隊立大功：恐龍大電影",
+      "version": "數位 國語",
       "times": [
-        "13:10",
-        "16:40"
+        "13:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-25",
-      "movie": "汪汪隊立大功：恐龍大電影",
-      "version": "數位 國語",
+      "movie": "復仇者聯盟：終局之戰 加碼重映",
+      "version": "DVA IV 英語",
       "times": [
-        "13:10"
+        "13:10",
+        "16:40"
       ]
     },
     {
