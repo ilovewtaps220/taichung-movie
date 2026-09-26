@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-26T15:03:42+08:00",
+  "updated_at": "2026-09-26T20:12:40+08:00",
   "data_date": "2026-09-26",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -823,15 +823,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "夢想出擊",
-      "version": "數位 韓語",
-      "times": [
-        "10:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-26",
       "movie": "特種快遞",
       "version": "數位 英語",
       "times": [
@@ -852,6 +843,15 @@
         "16:30",
         "20:50",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-26",
+      "movie": "夢想出擊",
+      "version": "數位 韓語",
+      "times": [
+        "10:00"
       ]
     },
     {
@@ -932,20 +932,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "誤闖遺忘島",
-      "version": "HFR DVA 英語",
-      "times": [
-        "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-26",
       "movie": "親愛的星上人",
       "version": "數位",
       "times": [
         "11:00",
         "14:35"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-26",
+      "movie": "誤闖遺忘島",
+      "version": "HFR DVA 英語",
+      "times": [
+        "11:00"
       ]
     },
     {
@@ -960,17 +960,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "實境誘捕",
-      "version": "數位 英語",
-      "times": [
-        "11:20",
-        "16:00",
-        "20:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-26",
       "movie": "網紅老爸",
       "version": "數位 國語",
       "times": [
@@ -980,6 +969,17 @@
         "18:35",
         "21:00",
         "22:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-26",
+      "movie": "實境誘捕",
+      "version": "數位 英語",
+      "times": [
+        "11:20",
+        "16:00",
+        "20:40"
       ]
     },
     {
@@ -1118,8 +1118,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "成人童話",
-      "version": "數位 韓語",
+      "movie": "大仙尪仔",
+      "version": "數位 國語",
       "times": [
         "16:20"
       ]
@@ -1127,8 +1127,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "大仙尪仔",
-      "version": "數位 國語",
+      "movie": "成人童話",
+      "version": "數位 韓語",
       "times": [
         "16:20"
       ]
@@ -1184,8 +1184,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "野獸之心",
-      "version": "DVA 英語",
+      "movie": "墜2",
+      "version": "數位 英語",
       "times": [
         "20:10"
       ]
@@ -1193,8 +1193,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-26",
-      "movie": "墜2",
-      "version": "數位 英語",
+      "movie": "野獸之心",
+      "version": "DVA 英語",
       "times": [
         "20:10"
       ]
