@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-27T06:02:09+08:00",
+  "updated_at": "2026-09-27T08:32:53+08:00",
   "data_date": "2026-09-27",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -834,6 +834,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "SCREENX 英語",
+      "times": [
+        "09:30",
+        "15:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-27",
       "movie": "蜘蛛人：重生日",
       "version": "數位 英語",
       "times": [
@@ -841,16 +851,6 @@
         "12:20",
         "18:10",
         "21:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-27",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "SCREENX 英語",
-      "times": [
-        "09:30",
-        "15:00"
       ]
     },
     {
@@ -926,20 +926,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
-      "movie": "親愛的星上人",
-      "version": "數位",
+      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
+      "version": "數位 國語",
       "times": [
-        "11:00",
-        "14:35"
+        "11:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
-      "movie": "電影哆啦A夢：新．大雄的海底鬼岩城",
-      "version": "數位 國語",
+      "movie": "親愛的星上人",
+      "version": "數位",
       "times": [
-        "11:00"
+        "11:00",
+        "14:35"
       ]
     },
     {
@@ -994,23 +994,23 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
-      "movie": "復仇者聯盟：終局之戰 加碼重映",
-      "version": "SCREENX IV 英語",
-      "times": [
-        "11:30",
-        "19:00",
-        "22:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-09-27",
       "movie": "劇場版 鋼之鍊金術師 香巴拉的征服者",
       "version": "數位 日語",
       "times": [
         "11:30",
         "15:40",
         "19:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-09-27",
+      "movie": "復仇者聯盟：終局之戰 加碼重映",
+      "version": "SCREENX IV 英語",
+      "times": [
+        "11:30",
+        "19:00",
+        "22:30"
       ]
     },
     {
@@ -1175,8 +1175,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
-      "movie": "航海王劇場版：喬巴身世之謎~冬季綻放、奇跡的櫻花 特別場",
-      "version": "數位 日語",
+      "movie": "超異能快感：魔法之書",
+      "version": "數位 英語",
       "times": [
         "18:10"
       ]
@@ -1184,8 +1184,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-09-27",
-      "movie": "超異能快感：魔法之書",
-      "version": "數位 英語",
+      "movie": "航海王劇場版：喬巴身世之謎~冬季綻放、奇跡的櫻花 特別場",
+      "version": "數位 日語",
       "times": [
         "18:10"
       ]
