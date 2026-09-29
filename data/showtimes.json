@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-29T13:39:16+08:00",
+  "updated_at": "2026-09-29T19:33:50+08:00",
   "data_date": "2026-09-29",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -602,22 +602,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-29",
-      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "10:20",
-        "12:20",
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:20",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-29",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
@@ -629,6 +613,22 @@
         "18:10",
         "20:10",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-29",
+      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
+      "version": "一般場次",
+      "times": [
+        "00:20",
+        "10:20",
+        "12:20",
+        "14:20",
+        "16:20",
+        "18:20",
+        "20:20",
+        "22:20"
       ]
     },
     {
@@ -662,10 +662,10 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-29",
-      "movie": "超異能快感：魔法之書 Practical Magic 2",
+      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
       "version": "一般場次",
       "times": [
-        "18:10"
+        "12:40"
       ]
     },
     {
@@ -738,24 +738,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-29",
-      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
-      "version": "一般場次",
-      "times": [
-        "12:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-29",
-      "movie": "大仙尪仔 In Gods We Hide",
-      "version": "一般場次",
-      "times": [
-        "17:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-29",
       "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
       "version": "一般場次",
       "times": [
@@ -774,6 +756,24 @@
       "times": [
         "12:40",
         "21:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-29",
+      "movie": "超異能快感：魔法之書 Practical Magic 2",
+      "version": "一般場次",
+      "times": [
+        "18:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-29",
+      "movie": "大仙尪仔 In Gods We Hide",
+      "version": "一般場次",
+      "times": [
+        "17:20"
       ]
     },
     {
