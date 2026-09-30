@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-09-30T08:36:42+08:00",
+  "updated_at": "2026-09-30T13:57:48+08:00",
   "data_date": "2026-09-30",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -594,7 +594,7 @@
       "version": "一般場次",
       "times": [
         "10:00",
-        "12:30"
+        "12:50"
       ]
     },
     {
@@ -687,17 +687,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-09-30",
-      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
-      "version": "一般場次",
-      "times": [
-        "00:00",
-        "10:00",
-        "15:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-09-30",
       "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
@@ -740,6 +729,17 @@
         "15:00",
         "19:20",
         "21:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-09-30",
+      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
+      "version": "一般場次",
+      "times": [
+        "00:00",
+        "10:00",
+        "15:20"
       ]
     },
     {
