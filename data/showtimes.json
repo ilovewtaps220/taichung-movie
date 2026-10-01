@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-01T08:38:59+08:00",
+  "updated_at": "2026-10-01T14:31:59+08:00",
   "data_date": "2026-10-01",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -494,16 +494,25 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-01",
-      "movie": "惡靈古堡：爆發夜 Resident Evil",
+      "movie": "挖掘者 Digger",
       "version": "一般場次",
       "times": [
-        "01:20",
         "10:00",
-        "13:00",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-01",
+      "movie": "復活男 Reawaken Man",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "13:10",
         "15:50",
         "18:20",
-        "20:40",
-        "23:00"
+        "20:50",
+        "23:10"
       ]
     },
     {
@@ -568,6 +577,21 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-01",
+      "movie": "惡靈古堡：爆發夜 Resident Evil",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "13:00",
+        "15:50",
+        "18:20",
+        "20:40",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-01",
       "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
@@ -594,30 +618,6 @@
       "version": "一般場次",
       "times": [
         "13:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-01",
-      "movie": "復活男 Reawaken Man",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "13:10",
-        "15:50",
-        "18:20",
-        "20:50",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-01",
-      "movie": "挖掘者 Digger",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "19:30"
       ]
     },
     {
@@ -660,24 +660,6 @@
         "18:20",
         "20:20",
         "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-01",
-      "movie": "驀然回首 Look Back",
-      "version": "一般場次",
-      "times": [
-        "10:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-01",
-      "movie": "希望：末日血戰 Hope(2026)",
-      "version": "一般場次",
-      "times": [
-        "12:00"
       ]
     },
     {
@@ -786,6 +768,24 @@
       "times": [
         "12:40",
         "21:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-01",
+      "movie": "驀然回首 Look Back",
+      "version": "一般場次",
+      "times": [
+        "10:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-01",
+      "movie": "希望：末日血戰 Hope(2026)",
+      "version": "一般場次",
+      "times": [
+        "12:00"
       ]
     },
     {
