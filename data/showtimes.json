@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-02T10:11:52+08:00",
+  "updated_at": "2026-10-02T16:29:07+08:00",
   "data_date": "2026-10-02",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -517,6 +517,18 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-02",
+      "movie": "鬼6咒 App The Horror",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "14:40",
+        "21:20",
+        "23:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-02",
       "movie": "復活男 Reawaken Man",
       "version": "一般場次",
       "times": [
@@ -526,16 +538,6 @@
         "18:20",
         "20:50",
         "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-02",
-      "movie": "劇場版 鋼之鍊金術師 香巴拉的征服者 Fullmetal Alchemist the movie Conqueror of Shamballa",
-      "version": "一般場次",
-      "times": [
-        "12:30",
-        "16:40"
       ]
     },
     {
@@ -566,16 +568,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-02",
-      "movie": "實境誘捕 Primetime",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "19:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-02",
       "movie": "誤闖遺忘島 Forgotten Island",
       "version": "一般場次",
       "times": [
@@ -596,6 +588,26 @@
         "18:20",
         "20:40",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-02",
+      "movie": "劇場版 鋼之鍊金術師 香巴拉的征服者 Fullmetal Alchemist the movie Conqueror of Shamballa",
+      "version": "一般場次",
+      "times": [
+        "12:30",
+        "16:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-02",
+      "movie": "實境誘捕 Primetime",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "19:00"
       ]
     },
     {
@@ -624,18 +636,6 @@
       "version": "一般場次",
       "times": [
         "17:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-02",
-      "movie": "鬼6咒 App The Horror",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "14:40",
-        "21:20",
-        "23:20"
       ]
     },
     {
@@ -672,6 +672,45 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-02",
+      "movie": "實境誘捕 Primetime",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-02",
+      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
+      "version": "一般場次",
+      "times": [
+        "12:20",
+        "17:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-02",
+      "movie": "蜘蛛人：重生日",
+      "version": "一般場次",
+      "times": [
+        "14:10",
+        "23:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-02",
+      "movie": "愛你致死不渝 Obsession",
+      "version": "一般場次",
+      "times": [
+        "18:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-02",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
@@ -701,11 +740,25 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-02",
-      "movie": "蜘蛛人：重生日",
+      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
       "version": "一般場次",
       "times": [
-        "14:10",
-        "23:10"
+        "12:00",
+        "16:10",
+        "20:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-02",
+      "movie": "網紅老爸 Pa Pa Go",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:40",
+        "17:00",
+        "19:20",
+        "21:40"
       ]
     },
     {
@@ -729,27 +782,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-02",
-      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
-      "version": "一般場次",
-      "times": [
-        "12:10",
-        "20:00",
-        "23:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-02",
-      "movie": "實境誘捕 Primetime",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-02",
       "movie": "誤闖遺忘島 Forgotten Island",
       "version": "一般場次",
       "times": [
@@ -761,44 +793,12 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-02",
-      "movie": "網紅老爸 Pa Pa Go",
+      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
-        "10:00",
-        "14:40",
-        "17:00",
-        "19:20",
-        "21:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-02",
-      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
-      "version": "一般場次",
-      "times": [
-        "12:20",
-        "17:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-02",
-      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
-      "version": "一般場次",
-      "times": [
-        "12:00",
-        "16:10",
-        "20:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-02",
-      "movie": "愛你致死不渝 Obsession",
-      "version": "一般場次",
-      "times": [
-        "18:50"
+        "12:10",
+        "20:00",
+        "23:30"
       ]
     },
     {
