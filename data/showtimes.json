@@ -1,8 +1,8 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-03T20:43:25+08:00",
-  "data_date": "2026-10-03",
+  "updated_at": "2026-10-04T00:43:58+08:00",
+  "data_date": "2026-10-04",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
@@ -64,7 +64,7 @@
   "showtimes": [
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者",
       "version": "惡靈古堡：爆發夜 片長：93分 10：00 13：50 16：15 19：25 22：30 其他戲院(90)",
       "times": [
@@ -77,7 +77,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜",
       "version": "一般場次",
       "times": [
@@ -90,7 +90,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰",
       "version": "野獸之心 片長：101分 10：05 14：50 20：30 其他戲院(90)",
       "times": [
@@ -101,7 +101,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心",
       "version": "一般場次",
       "times": [
@@ -112,7 +112,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "蜘蛛人：重生日",
       "version": "奧德賽 片長：172分 16：50 其他戲院(50)",
       "times": [
@@ -122,7 +122,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "奧德賽",
       "version": "一般場次",
       "times": [
@@ -131,7 +131,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "實境誘捕 片長：109分 14：10 其他戲院(60)",
       "times": [
@@ -140,7 +140,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "實境誘捕",
       "version": "一般場次",
       "times": [
@@ -149,7 +149,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "網紅老爸",
       "version": "粽邪4 片長：100分 18：05 其他戲院(62)",
       "times": [
@@ -158,7 +158,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "粽邪4",
       "version": "一般場次",
       "times": [
@@ -167,7 +167,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "LOVE LIVE! 蓮之空女學院學園偶像俱樂部",
       "version": "一般場次",
       "times": [
@@ -176,7 +176,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者",
       "version": "復活男 片長：101分 12：55 19：25 其他戲院(48)",
       "times": [
@@ -189,7 +189,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復活男",
       "version": "一般場次",
       "times": [
@@ -199,7 +199,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "人吶，為什麼要跑步？",
       "version": "神鬼劫案2：偷天換日 片長：97分 14：55 19：40 其他戲院(58)",
       "times": [
@@ -209,7 +209,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "神鬼劫案2：偷天換日",
       "version": "一般場次",
       "times": [
@@ -219,7 +219,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "我們不是什麼",
       "version": "與畢諾許共舞 片長：130分 19：45 其他戲院(15)",
       "times": [
@@ -229,7 +229,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "與畢諾許共舞",
       "version": "一般場次",
       "times": [
@@ -238,7 +238,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "D1-世界計畫日文版 六週年感謝祭-現場直播",
       "version": "航海王劇場版：黃金島大冒險 片長：51分 連映場 12：40 其他戲院(7)",
       "times": [
@@ -247,7 +247,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "航海王劇場版：黃金島大冒險",
       "version": "一般場次",
       "times": [
@@ -256,7 +256,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "航海王劇場版：發條島的冒險 片長：55分 連映場 13：40 其他戲院(7)",
       "times": [
@@ -265,7 +265,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "航海王劇場版：發條島的冒險",
       "version": "一般場次",
       "times": [
@@ -274,7 +274,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "航海王劇場版：珍獸島的喬巴王國",
       "version": "航海王劇場版：追逐草帽大冒險 片長：30分 連映場 16：15 其他戲院(7)",
       "times": [
@@ -283,7 +283,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "航海王劇場版：追逐草帽大冒險",
       "version": "一般場次",
       "times": [
@@ -292,7 +292,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "惡靈古堡：爆發夜 片長：93分 10：25 12：15 14：10 16：00 17：50 22：15 其他戲院(90)",
       "times": [
@@ -301,7 +301,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜",
       "version": "一般場次",
       "times": [
@@ -315,7 +315,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心",
       "version": "特種快遞 片長：98分 10：55 17：25 23：50 其他戲院(68)",
       "times": [
@@ -327,7 +327,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "特種快遞",
       "version": "一般場次",
       "times": [
@@ -338,7 +338,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "愛你致死不渝",
       "version": "Linkin Park: Unshatter 片長：107分 15：30 19：40 其他戲院(28)",
       "times": [
@@ -348,7 +348,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "Linkin Park: Unshatter",
       "version": "一般場次",
       "times": [
@@ -358,7 +358,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "蜘蛛人：重生日",
       "version": "粽邪4 片長：100分 21：35 其他戲院(62)",
       "times": [
@@ -368,7 +368,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "粽邪4",
       "version": "一般場次",
       "times": [
@@ -377,7 +377,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "網紅老爸",
       "version": "誤闖遺忘島 片長：109分 英語版 17：35 其他戲院(81)",
       "times": [
@@ -386,7 +386,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島",
       "version": "一般場次",
       "times": [
@@ -395,7 +395,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島",
       "version": "奧德賽 片長：172分 21：50 其他戲院(50)",
       "times": [
@@ -404,7 +404,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "奧德賽",
       "version": "一般場次",
       "times": [
@@ -413,7 +413,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "猛鬼大學4",
       "version": "鋼之鍊金術師 00：10 其他戲院(29)",
       "times": [
@@ -422,7 +422,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鋼之鍊金術師",
       "version": "一般場次",
       "times": [
@@ -431,7 +431,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰",
       "version": "挖掘者 片長：129分 Gold Class 13：35 18：30 21：20 其他戲院(91)",
       "times": [
@@ -440,7 +440,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者",
       "version": "一般場次",
       "times": [
@@ -451,7 +451,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜",
       "version": "野獸之心 片長：101分 Gold Class 11：00 16：45 其他戲院(90)",
       "times": [
@@ -462,7 +462,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心",
       "version": "一般場次",
       "times": [
@@ -472,7 +472,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰",
       "version": "復仇者聯盟：終局之戰 片長：180分 加碼重映 TITAN廳 10：30 22：20 其他戲院(83)",
       "times": [
@@ -482,7 +482,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰",
       "version": "一般場次",
       "times": [
@@ -492,7 +492,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜",
       "version": "挖掘者 片長：129分 TITAN廳 13：55 其他戲院(91)",
       "times": [
@@ -501,7 +501,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者",
       "version": "一般場次",
       "times": [
@@ -510,7 +510,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers: Endgame",
       "version": "一般場次",
       "times": [
@@ -520,7 +520,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
@@ -532,7 +532,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者 Digger",
       "version": "一般場次",
       "times": [
@@ -549,7 +549,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鬼6咒 App The Horror",
       "version": "一般場次",
       "times": [
@@ -561,7 +561,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復活男 Reawaken Man",
       "version": "一般場次",
       "times": [
@@ -575,7 +575,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "特種快遞 Runner",
       "version": "一般場次",
       "times": [
@@ -587,12 +587,11 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
         "10:10",
-        "13:10",
         "16:40",
         "19:00",
         "21:20"
@@ -600,7 +599,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島 Forgotten Island",
       "version": "一般場次",
       "times": [
@@ -610,7 +609,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜 Resident Evil",
       "version": "一般場次",
       "times": [
@@ -625,7 +624,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 鋼之鍊金術師 香巴拉的征服者 Fullmetal Alchemist the movie Conqueror of Shamballa",
       "version": "一般場次",
       "times": [
@@ -635,7 +634,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "實境誘捕 Primetime",
       "version": "一般場次",
       "times": [
@@ -645,7 +644,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
@@ -655,7 +654,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
       "version": "一般場次",
       "times": [
@@ -664,7 +663,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "蜘蛛人：重生日 Spider-Man: Brand NewDay",
       "version": "一般場次",
       "times": [
@@ -673,7 +672,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者 10月1日口碑場",
       "version": "一般場次",
       "times": [
@@ -688,7 +687,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
@@ -704,7 +703,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "實境誘捕 Primetime",
       "version": "一般場次",
       "times": [
@@ -714,7 +713,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
       "version": "一般場次",
       "times": [
@@ -724,7 +723,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "蜘蛛人：重生日",
       "version": "一般場次",
       "times": [
@@ -734,7 +733,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "愛你致死不渝 Obsession",
       "version": "一般場次",
       "times": [
@@ -743,7 +742,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
@@ -759,7 +758,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鬼6咒 App The Horror",
       "version": "一般場次",
       "times": [
@@ -772,7 +771,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
       "version": "一般場次",
       "times": [
@@ -783,7 +782,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
@@ -795,7 +794,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
       "version": "一般場次",
       "times": [
@@ -804,7 +803,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
       "version": "一般場次",
       "times": [
@@ -813,7 +812,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島 Forgotten Island",
       "version": "一般場次",
       "times": [
@@ -824,7 +823,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
@@ -835,7 +834,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "挖掘者",
       "version": "神鬼劫案2：偷天換日 片長：97分 10：00 13：40 20：20 其他戲院(58)",
       "times": [
@@ -848,7 +847,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "神鬼劫案2：偷天換日",
       "version": "一般場次",
       "times": [
@@ -859,7 +858,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鬼6咒",
       "version": "遠離祖靈的孩子 片長：93分 12：35 19：25 其他戲院(19)",
       "times": [
@@ -869,7 +868,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "遠離祖靈的孩子",
       "version": "一般場次",
       "times": [
@@ -879,7 +878,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鋼之鍊金術師",
       "version": "鋼之鍊金術師劇場版 片長：110分 連映場 17：10 17：15 其他戲院(3)",
       "times": [
@@ -888,7 +887,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "鋼之鍊金術師劇場版",
       "version": "一般場次",
       "times": [
@@ -898,7 +897,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "愛你致死不渝 片長：109分 10：25 13：00 22：25 其他戲院(55)",
       "times": [
@@ -909,7 +908,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "愛你致死不渝",
       "version": "一般場次",
       "times": [
@@ -920,7 +919,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜",
       "version": "野獸之心 片長：101分 11：55 20：30 22：20 其他戲院(90)",
       "times": [
@@ -933,7 +932,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "野獸之心",
       "version": "一般場次",
       "times": [
@@ -944,7 +943,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "粽邪4",
       "version": "網紅老爸 片長：122分 14：10 22：20 其他戲院(72)",
       "times": [
@@ -954,7 +953,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "網紅老爸",
       "version": "一般場次",
       "times": [
@@ -964,7 +963,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "復仇者聯盟：終局之戰",
       "version": "劇場版 吉伊卡哇 人魚島的秘密 片長：99分 日語版 12：10 18：20 其他戲院(63)",
       "times": [
@@ -974,7 +973,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "一般場次",
       "times": [
@@ -984,7 +983,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "特種快遞",
       "version": "LOVE LIVE! 蓮之空女學院學園偶像俱樂部 片長：75分 12：05 其他戲院(13)",
       "times": [
@@ -993,7 +992,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "LOVE LIVE! 蓮之空女學院學園偶像俱樂部",
       "version": "一般場次",
       "times": [
@@ -1002,7 +1001,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "實境誘捕",
       "version": "蜘蛛人：重生日 片長：145分 17：30 其他戲院(81)",
       "times": [
@@ -1011,7 +1010,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "蜘蛛人：重生日",
       "version": "一般場次",
       "times": [
@@ -1020,7 +1019,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "怎麼可能我家的祖先是你家的鬼",
       "version": "誤闖遺忘島 片長：109分 英語版 18：25 其他戲院(81)",
       "times": [
@@ -1029,7 +1028,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島",
       "version": "一般場次",
       "times": [
@@ -1038,7 +1037,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "誤闖遺忘島",
       "version": "奧德賽 片長：172分 15：10 其他戲院(50)",
       "times": [
@@ -1047,7 +1046,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "奧德賽",
       "version": "一般場次",
       "times": [
@@ -1056,7 +1055,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
       "movie": "名偵探柯南 高速公路的墮天使",
       "version": "一般場次",
       "times": [
