@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-04T09:44:27+08:00",
+  "updated_at": "2026-10-04T15:24:32+08:00",
   "data_date": "2026-10-04",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -558,40 +558,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-04",
-      "movie": "特種快遞 Runner",
-      "version": "一般場次",
-      "times": [
-        "16:10",
-        "18:30",
-        "20:40",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-04",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "16:40",
-        "19:00",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-04",
-      "movie": "誤闖遺忘島 Forgotten Island",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-04",
       "movie": "惡靈古堡：爆發夜 Resident Evil",
       "version": "一般場次",
       "times": [
@@ -617,11 +583,45 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-04",
+      "movie": "特種快遞 Runner",
+      "version": "一般場次",
+      "times": [
+        "16:10",
+        "18:30",
+        "20:40",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-04",
       "movie": "實境誘捕 Primetime",
       "version": "一般場次",
       "times": [
         "10:10",
         "19:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-04",
+      "movie": "誤闖遺忘島 Forgotten Island",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-04",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "16:40",
+        "19:00",
+        "21:20"
       ]
     },
     {
