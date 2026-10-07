@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-07T08:51:44+08:00",
+  "updated_at": "2026-10-07T14:40:58+08:00",
   "data_date": "2026-10-07",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -647,20 +647,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-07",
-      "movie": "挖掘者 10月1日口碑場",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:30",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
       "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
@@ -677,56 +663,12 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-07",
-      "movie": "實境誘捕 Primetime",
+      "movie": "誤闖遺忘島 Forgotten Island",
       "version": "一般場次",
       "times": [
-        "10:10",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
-      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
-      "version": "一般場次",
-      "times": [
-        "12:20",
-        "17:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
-      "movie": "蜘蛛人：重生日",
-      "version": "一般場次",
-      "times": [
-        "14:10",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
-      "movie": "愛你致死不渝 Obsession",
-      "version": "一般場次",
-      "times": [
-        "18:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "10:20",
-        "12:20",
-        "14:20",
-        "16:20",
-        "18:20",
-        "20:20",
-        "22:20"
+        "10:00",
+        "15:40",
+        "17:50"
       ]
     },
     {
@@ -745,25 +687,11 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-07",
-      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
+      "movie": "實境誘捕 Primetime",
       "version": "一般場次",
       "times": [
-        "11:50",
-        "16:00",
-        "20:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-07",
-      "movie": "網紅老爸 Pa Pa Go",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "14:40",
-        "17:00",
-        "19:20",
-        "21:40"
+        "10:10",
+        "21:00"
       ]
     },
     {
@@ -787,12 +715,65 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-07",
-      "movie": "誤闖遺忘島 Forgotten Island",
+      "movie": "挖掘者 10月1日口碑場",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "13:00",
+        "15:30",
+        "18:00",
+        "20:30",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "粽邪4：坤蒂拉娜 The Rope Curse 4",
+      "version": "一般場次",
+      "times": [
+        "11:50",
+        "16:00",
+        "20:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "00:20",
+        "10:20",
+        "12:20",
+        "14:20",
+        "16:20",
+        "18:20",
+        "20:20",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "網紅老爸 Pa Pa Go",
       "version": "一般場次",
       "times": [
         "10:00",
-        "15:40",
-        "17:50"
+        "14:40",
+        "17:00",
+        "19:20",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "蜘蛛人：重生日",
+      "version": "一般場次",
+      "times": [
+        "14:10",
+        "23:10"
       ]
     },
     {
@@ -804,6 +785,25 @@
         "12:10",
         "20:00",
         "23:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "怎麼可能我家的祖先是你家的鬼 Oh My Ghost ! Oh My God !",
+      "version": "一般場次",
+      "times": [
+        "12:20",
+        "17:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-07",
+      "movie": "愛你致死不渝 Obsession",
+      "version": "一般場次",
+      "times": [
+        "18:50"
       ]
     },
     {
