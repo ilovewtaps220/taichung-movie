@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-08T11:28:25+08:00",
+  "updated_at": "2026-10-08T18:49:54+08:00",
   "data_date": "2026-10-08",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -558,24 +558,17 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-08",
-      "movie": "挖掘者 Digger",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:40",
-        "15:20",
-        "18:00",
-        "20:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "鬼6咒 App The Horror",
+      "movie": "另一個媽咪 Other Mommy",
       "version": "一般場次",
       "times": [
         "01:20",
-        "23:20"
+        "10:00",
+        "13:00",
+        "15:20",
+        "17:20",
+        "19:30",
+        "21:40",
+        "23:50"
       ]
     },
     {
@@ -592,6 +585,69 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-08",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:40",
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
+      "movie": "不存在的罪人 Verity",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "15:30",
+        "18:00",
+        "20:30",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
+      "movie": "拾荒法師 The Mage",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "15:20",
+        "19:40",
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
+      "movie": "劇場版 鋼之鍊金術師 嘆息之丘的聖星 Fullmetal Alchemist: The Sacred Star of Milos",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:40",
+        "17:10",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
+      "movie": "挖掘者 Digger",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:40",
+        "15:20",
+        "18:00",
+        "20:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
       "movie": "惡靈古堡：爆發夜 Resident Evil",
       "version": "一般場次",
       "times": [
@@ -602,6 +658,16 @@
         "18:20",
         "20:40",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-08",
+      "movie": "鬼6咒 App The Horror",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "23:20"
       ]
     },
     {
@@ -641,72 +707,6 @@
       "version": "一般場次",
       "times": [
         "12:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "拾荒法師 The Mage",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "15:20",
-        "19:40",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "劇場版 鋼之鍊金術師 嘆息之丘的聖星 Fullmetal Alchemist: The Sacred Star of Milos",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "14:40",
-        "17:10",
-        "19:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:40",
-        "16:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "不存在的罪人 Verity",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "15:30",
-        "18:00",
-        "20:30",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-08",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "13:00",
-        "15:20",
-        "17:20",
-        "19:30",
-        "21:40",
-        "23:50"
       ]
     },
     {
