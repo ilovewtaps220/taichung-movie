@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-09T10:21:50+08:00",
+  "updated_at": "2026-10-09T17:21:37+08:00",
   "data_date": "2026-10-09",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -553,17 +553,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-09",
-      "movie": "復活男 Reawaken Man",
-      "version": "一般場次",
-      "times": [
-        "18:50",
-        "21:00",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-09",
       "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
       "version": "一般場次",
       "times": [
@@ -597,6 +586,17 @@
         "15:20",
         "19:40",
         "21:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-09",
+      "movie": "復活男 Reawaken Man",
+      "version": "一般場次",
+      "times": [
+        "18:50",
+        "21:00",
+        "23:10"
       ]
     },
     {
