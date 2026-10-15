@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-15T08:39:34+08:00",
+  "updated_at": "2026-10-15T13:10:19+08:00",
   "data_date": "2026-10-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -691,6 +691,24 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-15",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
+      "version": "一般場次",
+      "times": [
+        "00:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
+      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
+      "version": "一般場次",
+      "times": [
+        "12:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
       "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
@@ -702,6 +720,16 @@
         "18:10",
         "20:10",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
+      "movie": "蜘蛛人：重生日",
+      "version": "一般場次",
+      "times": [
+        "00:40",
+        "16:40"
       ]
     },
     {
@@ -733,12 +761,44 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-15",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "14:40",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi: The Crispies Adventure in Fluffy Land",
+      "version": "一般場次",
+      "times": [
+        "11:50",
+        "13:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
       "movie": "挖掘者 10月1日口碑場",
       "version": "一般場次",
       "times": [
         "10:00",
         "14:40",
         "19:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-15",
+      "movie": "網紅老爸 Pa Pa Go",
+      "version": "一般場次",
+      "times": [
+        "16:40",
+        "23:00"
       ]
     },
     {
@@ -758,66 +818,6 @@
       "times": [
         "17:10",
         "22:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
-      "version": "一般場次",
-      "times": [
-        "00:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "14:40",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "劇場版 魔法少女小圓 瓦爾普吉斯的迴天 Puella Magi Madoka Magica the Movie -Walpurgisnacht Rising-",
-      "version": "一般場次",
-      "times": [
-        "12:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "網紅老爸 Pa Pa Go",
-      "version": "一般場次",
-      "times": [
-        "16:40",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi: The Crispies Adventure in Fluffy Land",
-      "version": "一般場次",
-      "times": [
-        "11:50",
-        "13:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-15",
-      "movie": "蜘蛛人：重生日",
-      "version": "一般場次",
-      "times": [
-        "00:40",
-        "16:40"
       ]
     },
     {
