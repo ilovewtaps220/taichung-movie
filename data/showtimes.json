@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-16T10:57:19+08:00",
+  "updated_at": "2026-10-16T15:49:55+08:00",
   "data_date": "2026-10-16",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -550,11 +550,48 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-16",
-      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
+      "movie": "快打旋風 Street Fighter",
       "version": "一般場次",
       "times": [
+        "01:20",
+        "10:10",
+        "12:50",
+        "15:20",
+        "17:50",
+        "20:20",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-16",
+      "movie": "高年級實習生 THE INTERN",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:00",
+        "12:50",
+        "15:40",
+        "18:30",
+        "21:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-16",
+      "movie": "逃出鯨吞 Whalefall",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
         "13:00",
-        "17:20"
+        "15:20",
+        "17:40",
+        "18:40",
+        "20:00",
+        "21:00",
+        "22:20",
+        "23:10"
       ]
     },
     {
@@ -576,16 +613,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-16",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "16:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-16",
       "movie": "不存在的罪人 Verity",
       "version": "一般場次",
       "times": [
@@ -597,20 +624,11 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-16",
-      "movie": "拾荒法師 The Mage",
+      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
-        "00:30",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-16",
-      "movie": "復活男 Reawaken Man",
-      "version": "一般場次",
-      "times": [
-        "23:20"
+        "13:00",
+        "17:20"
       ]
     },
     {
@@ -649,6 +667,35 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-16",
+      "movie": "拾荒法師 The Mage",
+      "version": "一般場次",
+      "times": [
+        "00:30",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-16",
+      "movie": "復活男 Reawaken Man",
+      "version": "一般場次",
+      "times": [
+        "23:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-16",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "16:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-16",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
@@ -663,53 +710,6 @@
       "version": "一般場次",
       "times": [
         "12:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-16",
-      "movie": "高年級實習生 THE INTERN",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "10:00",
-        "12:50",
-        "15:40",
-        "18:30",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-16",
-      "movie": "逃出鯨吞 Whalefall",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "13:00",
-        "15:20",
-        "17:40",
-        "18:40",
-        "20:00",
-        "21:00",
-        "22:20",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-16",
-      "movie": "快打旋風 Street Fighter",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:10",
-        "12:50",
-        "15:20",
-        "17:50",
-        "20:20",
-        "22:50"
       ]
     },
     {
