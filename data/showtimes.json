@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-21T14:33:26+08:00",
+  "updated_at": "2026-10-21T20:23:19+08:00",
   "data_date": "2026-10-21",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -610,15 +610,6 @@
       "times": [
         "00:40",
         "22:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-21",
-      "movie": "復活男 Reawaken Man",
-      "version": "一般場次",
-      "times": [
-        "23:30"
       ]
     },
     {
