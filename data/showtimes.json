@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-22T10:21:47+08:00",
+  "updated_at": "2026-10-22T15:47:25+08:00",
   "data_date": "2026-10-22",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -475,27 +475,19 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-22",
-      "movie": "快打旋風 Street Fighter",
+      "movie": "泥面人 Clayface",
       "version": "一般場次",
       "times": [
+        "00:00",
         "01:20",
-        "10:10",
-        "12:50",
-        "15:20",
-        "18:00",
+        "10:00",
+        "12:20",
+        "14:40",
+        "17:00",
+        "19:20",
         "20:30",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-22",
-      "movie": "高年級實習生 THE INTERN",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "13:10",
-        "16:00"
+        "21:40",
+        "22:50"
       ]
     },
     {
@@ -516,15 +508,15 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-22",
-      "movie": "另一個媽咪 Other Mommy",
+      "movie": "快打旋風 Street Fighter",
       "version": "一般場次",
       "times": [
         "01:20",
-        "10:00",
-        "12:10",
-        "14:20",
-        "18:40",
-        "20:50",
+        "10:10",
+        "12:50",
+        "15:20",
+        "18:00",
+        "20:30",
         "23:00"
       ]
     },
@@ -543,6 +535,17 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-22",
+      "movie": "高年級實習生 THE INTERN",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "13:10",
+        "16:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-22",
       "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
       "version": "一般場次",
       "times": [
@@ -552,21 +555,16 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-22",
-      "movie": "劇場版 鋼之鍊金術師 嘆息之丘的聖星 Fullmetal Alchemist: The Sacred Star of Milos",
+      "movie": "另一個媽咪 Other Mommy",
       "version": "一般場次",
       "times": [
+        "01:20",
         "10:00",
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-22",
-      "movie": "挖掘者 Digger",
-      "version": "一般場次",
-      "times": [
-        "17:00",
-        "19:40"
+        "12:10",
+        "14:20",
+        "18:40",
+        "20:50",
+        "23:00"
       ]
     },
     {
@@ -586,11 +584,31 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-22",
+      "movie": "劇場版 鋼之鍊金術師 嘆息之丘的聖星 Fullmetal Alchemist: The Sacred Star of Milos",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-22",
       "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi : The Crispies Adventure in Fluffy Land",
       "version": "一般場次",
       "times": [
         "10:00",
         "16:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-22",
+      "movie": "挖掘者 Digger",
+      "version": "一般場次",
+      "times": [
+        "17:00",
+        "19:40"
       ]
     },
     {
@@ -610,24 +628,6 @@
       "version": "一般場次",
       "times": [
         "12:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-22",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "00:00",
-        "01:20",
-        "10:00",
-        "12:20",
-        "14:40",
-        "17:00",
-        "19:20",
-        "20:30",
-        "21:40",
-        "22:50"
       ]
     },
     {
