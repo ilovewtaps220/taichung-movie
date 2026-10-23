@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-23T12:41:59+08:00",
+  "updated_at": "2026-10-23T17:34:25+08:00",
   "data_date": "2026-10-23",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -548,112 +548,10 @@
       "movie": "泥面人 Clayface",
       "version": "一般場次",
       "times": [
-        "00:00",
-        "01:20",
         "10:00",
         "12:20",
         "14:40",
-        "17:00",
-        "19:20",
-        "20:30",
-        "21:40",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "逃出鯨吞 Whalefall",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:20",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "快打旋風 Street Fighter",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:10",
-        "12:50",
-        "15:20",
-        "18:00",
-        "20:30",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "高年級實習生 THE INTERN",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "13:10",
-        "16:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
-      "version": "一般場次",
-      "times": [
-        "18:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "01:00",
-        "10:30",
-        "18:10",
-        "20:30",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "惡靈古堡：爆發夜 Resident Evil",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "13:00",
-        "15:50",
-        "18:50",
-        "21:00",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "13:00",
-        "18:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-23",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
-      "version": "一般場次",
-      "times": [
-        "15:50"
+        "17:00"
       ]
     },
     {
@@ -674,13 +572,86 @@
       "movie": "社群清算 The Social Reckoning",
       "version": "一般場次",
       "times": [
-        "00:20",
         "10:00",
         "12:40",
         "15:00",
-        "17:20",
-        "19:40",
-        "22:00"
+        "17:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "逃出鯨吞 Whalefall",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "13:00",
+        "15:30",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "快打旋風 Street Fighter",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "12:50",
+        "15:20",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "另一個媽咪 Other Mommy",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "18:10"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "惡靈古堡：爆發夜 Resident Evil",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "13:00",
+        "15:50",
+        "18:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "高年級實習生 THE INTERN",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "13:10",
+        "16:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "13:00",
+        "18:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-23",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
+      "version": "一般場次",
+      "times": [
+        "15:50"
       ]
     },
     {
