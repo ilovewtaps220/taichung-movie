@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-27T09:45:50+08:00",
+  "updated_at": "2026-10-27T15:00:07+08:00",
   "data_date": "2026-10-27",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -579,6 +579,26 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-27",
+      "movie": "高年級實習生 THE INTERN",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "13:10",
+        "16:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-27",
+      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
+      "version": "一般場次",
+      "times": [
+        "18:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-27",
       "movie": "逃出鯨吞 Whalefall",
       "version": "一般場次",
       "times": [
@@ -622,40 +642,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-10-27",
-      "movie": "惡靈古堡：爆發夜 Resident Evil",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "13:00",
-        "15:50",
-        "18:50",
-        "21:00",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-27",
-      "movie": "高年級實習生 THE INTERN",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "13:10",
-        "16:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-27",
-      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
-      "version": "一般場次",
-      "times": [
-        "18:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-27",
       "movie": "不存在的罪人 Verity",
       "version": "一般場次",
       "times": [
@@ -671,6 +657,20 @@
       "times": [
         "13:00",
         "18:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-10-27",
+      "movie": "惡靈古堡：爆發夜 Resident Evil",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "13:00",
+        "15:50",
+        "18:50",
+        "21:00",
+        "23:10"
       ]
     },
     {
