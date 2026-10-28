@@ -1,14 +1,14 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-28T15:25:33+08:00",
+  "updated_at": "2026-10-28T22:12:00+08:00",
   "data_date": "2026-10-28",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
     "tiger-city": "public-showtime-fallback",
     "sunrise": "official",
-    "chin-chin": "error: TimeoutError",
+    "chin-chin": "official",
     "station-showtime": "error: HTTPError",
     "ifg": "public-showtime-fallback"
   },
@@ -680,6 +680,154 @@
       "version": "一般場次",
       "times": [
         "15:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "泥面人 Clayface",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "12:40",
+        "14:50",
+        "17:00",
+        "19:10",
+        "21:20",
+        "23:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "快打旋風 Street Fighter",
+      "version": "一般場次",
+      "times": [
+        "00:20",
+        "10:20",
+        "12:40",
+        "15:00",
+        "17:20",
+        "19:40",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "逃出鯨吞 Whalefall",
+      "version": "一般場次",
+      "times": [
+        "10:50",
+        "17:20",
+        "19:30",
+        "23:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
+      "version": "一般場次",
+      "times": [
+        "15:20",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "高年級實習生 Intern",
+      "version": "一般場次",
+      "times": [
+        "00:00",
+        "10:10",
+        "14:40",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "12:40",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "不存在的罪人 Verity",
+      "version": "一般場次",
+      "times": [
+        "17:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "15:20",
+        "19:00",
+        "22:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "另一個媽咪 Other Mommy",
+      "version": "一般場次",
+      "times": [
+        "11:40",
+        "13:30",
+        "17:10",
+        "20:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
+      "version": "一般場次",
+      "times": [
+        "00:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "社群清算 The Social Reckoning",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:00",
+        "13:40",
+        "17:20",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi: The Crispies Adventure in Fluffy Land",
+      "version": "一般場次",
+      "times": [
+        "12:10",
+        "15:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-28",
+      "movie": "挖掘者 10月1日口碑場",
+      "version": "一般場次",
+      "times": [
+        "21:40"
       ]
     },
     {
