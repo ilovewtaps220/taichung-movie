@@ -1,13 +1,13 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-28T22:12:00+08:00",
-  "data_date": "2026-10-28",
+  "updated_at": "2026-10-29T03:32:48+08:00",
+  "data_date": "2026-10-29",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
     "tiger-city": "public-showtime-fallback",
-    "sunrise": "official",
+    "sunrise": "error: TimeoutError",
     "chin-chin": "official",
     "station-showtime": "error: HTTPError",
     "ifg": "public-showtime-fallback"
@@ -64,9 +64,9 @@
   "showtimes": [
     {
       "cinema_id": "top-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "泥面人",
-      "version": "社群清算 片長：112分 10：40 15：20 19：55 其他戲院(82)",
+      "version": "惡靈古堡：爆發夜 片長：93分 12：00 15：55 20：05 其他戲院(84)",
       "times": [
         "10:30",
         "14:25",
@@ -76,29 +76,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-28",
-      "movie": "社群清算",
-      "version": "一般場次",
-      "times": [
-        "10:40",
-        "15:20",
-        "19:55"
-      ]
-    },
-    {
-      "cinema_id": "top-city",
-      "date": "2026-10-28",
-      "movie": "另一個媽咪",
-      "version": "惡靈古堡：爆發夜 片長：93分 12：00 15：55 20：05 其他戲院(84)",
-      "times": [
-        "12:35",
-        "16:30",
-        "20:25"
-      ]
-    },
-    {
-      "cinema_id": "top-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "惡靈古堡：爆發夜",
       "version": "一般場次",
       "times": [
@@ -109,9 +87,58 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
+      "movie": "宛如星辰的你",
+      "version": "另一個媽咪 片長：93分 12：35 16：30 20：25 其他戲院(82)",
+      "times": [
+        "17:00"
+      ]
+    },
+    {
+      "cinema_id": "top-city",
+      "date": "2026-10-29",
+      "movie": "另一個媽咪",
+      "version": "一般場次",
+      "times": [
+        "12:35",
+        "16:30",
+        "20:25"
+      ]
+    },
+    {
+      "cinema_id": "top-city",
+      "date": "2026-10-29",
+      "movie": "社群清算",
+      "version": "逃出鯨吞 片長：105分 13：50 其他戲院(87)",
+      "times": [
+        "10:40",
+        "14:50",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "top-city",
+      "date": "2026-10-29",
+      "movie": "逃出鯨吞",
+      "version": "一般場次",
+      "times": [
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "top-city",
+      "date": "2026-10-29",
+      "movie": "挖掘者",
+      "version": "快打旋風 片長：119分 17：45 22：00 其他戲院(89)",
+      "times": [
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "top-city",
+      "date": "2026-10-29",
       "movie": "快打旋風",
-      "version": "宛如星辰的你 片長：134分 12：50 其他戲院(68)",
+      "version": "一般場次",
       "times": [
         "17:45",
         "22:00"
@@ -119,143 +146,234 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-28",
-      "movie": "宛如星辰的你",
-      "version": "一般場次",
-      "times": [
-        "12:50"
-      ]
-    },
-    {
-      "cinema_id": "top-city",
-      "date": "2026-10-28",
-      "movie": "逃出鯨吞",
-      "version": "挖掘者 片長：129分 17：30 其他戲院(61)",
-      "times": [
-        "13:50"
-      ]
-    },
-    {
-      "cinema_id": "top-city",
-      "date": "2026-10-28",
-      "movie": "挖掘者",
-      "version": "一般場次",
-      "times": [
-        "17:30"
-      ]
-    },
-    {
-      "cinema_id": "top-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "角落小夥伴電影版：從天而降的雲之冒險",
-      "version": "野獸之心 片長：101分 22：05 其他戲院(76)",
+      "version": "野獸之心 片長：101分 12：50 其他戲院(71)",
       "times": [
         "10:35"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "野獸之心",
       "version": "一般場次",
       "times": [
-        "22:05"
+        "12:50"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "泥面人",
-      "version": "加速世界 劇場版 INFINITE BURST 片長：82分 13：15 20：20 22：10 其他戲院(40)",
+      "date": "2026-10-29",
+      "movie": "消失的金鳳娜",
+      "version": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA 片長：82分 11：35 14：55 16：45 18：40 21：55 其他戲院(14)",
+      "times": [
+        "13:00",
+        "16:00",
+        "18:55",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA",
+      "version": "一般場次",
       "times": [
         "11:35",
-        "15:05",
-        "17:15",
-        "23:30"
+        "14:55",
+        "16:45",
+        "18:40",
+        "21:55"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "加速世界 劇場版 INFINITE BURST",
+      "date": "2026-10-29",
+      "movie": "泥面人",
+      "version": "YORUSHIKA LIVE 「盜作」 片長：88分 11：50 15：50 22：00 其他戲院(11)",
+      "times": [
+        "11:40",
+        "15:10",
+        "17:20",
+        "23:45"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "YORUSHIKA LIVE 「盜作」",
       "version": "一般場次",
+      "times": [
+        "11:50",
+        "15:50",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "快打旋風",
+      "version": "逃出鯨吞 片長：105分 15：05 23：20 其他戲院(87)",
+      "times": [
+        "12:00",
+        "21:30"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "逃出鯨吞",
+      "version": "一般場次",
+      "times": [
+        "15:05",
+        "23:20"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "加速世界 劇場版 INFINITE BURST",
+      "version": "社群清算 片長：112分 13：35 21：15 23：40 其他戲院(82)",
       "times": [
         "13:15",
-        "20:20",
-        "22:10"
+        "20:20"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "社群清算",
-      "version": "浪花男女 片長：108分 15：30 19：45 其他戲院(35)",
-      "times": [
-        "13:20",
-        "20:00",
-        "23:35"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "浪花男女",
       "version": "一般場次",
       "times": [
-        "15:30",
-        "19:45"
+        "13:35",
+        "21:15",
+        "23:40"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "活命水特弓隊",
-      "version": "Jim Queen：肌情四射 片長：85分 國語版 13：00 其他戲院(32)",
+      "date": "2026-10-29",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "刺殺小說家2 片長：132分 13：30 其他戲院(3)",
       "times": [
-        "14:15",
-        "21:20"
+        "11:30",
+        "23:50"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
+      "movie": "刺殺小說家2",
+      "version": "一般場次",
+      "times": [
+        "13:30"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "活命水特弓隊",
+      "version": "Jim Queen：肌情四射 片長：85分 國語版 17：10 其他戲院(32)",
+      "times": [
+        "17:00",
+        "21:30"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
       "movie": "Jim Queen：肌情四射",
       "version": "一般場次",
-      "times": [
-        "13:00"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "HYBE CHEERING PARTY",
-      "version": "SEVENTEEN WORLD TOUR NEW 片長：102分 PRE 15：10 其他戲院(12)",
-      "times": [
-        "11:30"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "SEVENTEEN WORLD TOUR NEW",
-      "version": "一般場次",
-      "times": [
-        "15:10"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "TOMORROW X TOGETHER WORLD TOUR ACT TOMOR",
-      "version": "ENHYPEN WORLD TOUR BLOOD SAGA 片長：101分 PRE 19：10 其他戲院(12)",
       "times": [
         "17:10"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "ENHYPEN WORLD TOUR BLOOD SAGA",
+      "date": "2026-10-29",
+      "movie": "Jim Queen：肌情四射",
+      "version": "高年級實習生 片長：132分 20：50 其他戲院(74)",
+      "times": [
+        "23:50"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "高年級實習生",
+      "version": "一般場次",
+      "times": [
+        "20:50"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "宛如星辰的你",
+      "version": "角落小夥伴電影版：從天而降的雲之冒險 片長：100分 國語版 11：35 其他戲院(49)",
+      "times": [
+        "14:30"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
+      "version": "一般場次",
+      "times": [
+        "11:35"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "蕭邦！蕭邦！",
+      "version": "蜘蛛人：重生日 片長：145分 18：05 其他戲院(51)",
+      "times": [
+        "17:40"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "蜘蛛人：重生日",
+      "version": "一般場次",
+      "times": [
+        "18:05"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "挖掘者",
+      "version": "麵包超人電影版：潘坦與約定之星 片長：61分 國語版 13：50 其他戲院(31)",
+      "times": [
+        "23:25"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "麵包超人電影版：潘坦與約定之星",
+      "version": "一般場次",
+      "times": [
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "HYBE CHEERING PARTY",
+      "version": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉 片長：119分 19：10 其他戲院(16)",
+      "times": [
+        "15:50"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "一般場次",
       "times": [
         "19:10"
@@ -263,250 +381,149 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "蕭邦！蕭邦！",
-      "version": "蜘蛛人：重生日 片長：145分 16：25 其他戲院(54)",
-      "times": [
-        "17:35"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "蜘蛛人：重生日",
-      "version": "一般場次",
-      "times": [
-        "16:25"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA",
-      "version": "YORUSHIKA LIVE 「盜作」 片長：88分 11：35 15：45 22：00 其他戲院(11)",
-      "times": [
-        "11:35",
-        "14:55",
-        "16:45",
-        "18:40",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "YORUSHIKA LIVE 「盜作」",
-      "version": "一般場次",
-      "times": [
-        "11:35",
-        "15:45",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "快打旋風",
-      "version": "高年級實習生 片長：132分 17：30 21：10 其他戲院(76)",
-      "times": [
-        "11:55",
-        "21:25"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "高年級實習生",
-      "version": "一般場次",
-      "times": [
-        "17:30",
-        "21:10"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "逃出鯨吞",
-      "version": "惡靈古堡：爆發夜 片長：93分 11：25 23：50 其他戲院(84)",
-      "times": [
-        "20:05",
-        "23:55"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "一般場次",
-      "times": [
-        "11:25",
-        "23:50"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "刺殺小說家2",
-      "version": "麵包超人電影版：潘坦與約定之星 片長：61分 國語版 13：45 23：40 其他戲院(32)",
-      "times": [
-        "13:15",
-        "23:40"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "麵包超人電影版：潘坦與約定之星",
-      "version": "一般場次",
-      "times": [
-        "13:45",
-        "23:40"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "宛如星辰的你",
-      "version": "另一個媽咪 片長：93分 22：10 其他戲院(83)",
-      "times": [
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "另一個媽咪",
+      "version": "ENHYPEN WORLD TOUR BLOOD SAGA 片長：101分 PRE 11：30 其他戲院(12)",
+      "times": [
+        "23:05"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "ENHYPEN WORLD TOUR BLOOD SAGA",
       "version": "一般場次",
       "times": [
-        "22:10"
+        "11:30"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
-      "version": "挖掘者 片長：129分 12：45 其他戲院(61)",
+      "date": "2026-10-29",
+      "movie": "浪花男女",
+      "version": "SEVENTEEN WORLD TOUR NEW 片長：102分 PRE 17：10 其他戲院(12)",
       "times": [
-        "11:35"
+        "13:40",
+        "19:50"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "挖掘者",
+      "date": "2026-10-29",
+      "movie": "SEVENTEEN WORLD TOUR NEW",
       "version": "一般場次",
-      "times": [
-        "12:45"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-      "version": "愛你致死不渝 片長：109分 19：20 其他戲院(20)",
-      "times": [
-        "19:05"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "愛你致死不渝",
-      "version": "一般場次",
-      "times": [
-        "19:20"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "野獸之心",
-      "version": "復活男 片長：101分 00：00 其他戲院(4)",
-      "times": [
-        "17:35"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "復活男",
-      "version": "一般場次",
-      "times": [
-        "00:00"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "泥面人",
-      "version": "快打旋風 片長：119分 Gold Class 14：35 18：40 23：50 其他戲院(90)",
-      "times": [
-        "13:00",
-        "19:50",
-        "22:35"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "快打旋風",
-      "version": "一般場次",
-      "times": [
-        "14:35",
-        "18:40",
-        "23:50"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "逃出鯨吞 片長：105分 Gold Class 12：00 17：20 其他戲院(88)",
-      "times": [
-        "16:00",
-        "21:30"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "逃出鯨吞",
-      "version": "一般場次",
-      "times": [
-        "12:00",
-        "17:20"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "快打旋風 片長：119分 TITAN廳 14：55 其他戲院(90)",
       "times": [
         "17:10"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "快打旋風",
+      "date": "2026-10-29",
+      "movie": "TOMORROW X TOGETHER WORLD TOUR ACT TOMOR",
+      "version": "愛你致死不渝 片長：109分 19：25 其他戲院(18)",
+      "times": [
+        "19:10"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "愛你致死不渝",
       "version": "一般場次",
       "times": [
-        "14:55"
+        "19:25"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "泥面人",
-      "version": "不存在的罪人 片長：117分 TITAN廳 23：30 其他戲院(72)",
+      "version": "惡靈古堡：爆發夜 片長：93分 Gold Class 12：00 20：00 其他戲院(84)",
       "times": [
-        "19:05"
+        "13:15",
+        "15:55",
+        "18:30",
+        "21:10",
+        "23:30"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "一般場次",
+      "times": [
+        "12:00",
+        "20:00"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "快打旋風",
+      "version": "逃出鯨吞 片長：105分 Gold Class 17：25 其他戲院(87)",
+      "times": [
+        "14:35",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "逃出鯨吞",
+      "version": "一般場次",
+      "times": [
+        "17:25"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "泥面人",
+      "version": "惡靈古堡：爆發夜 片長：93分 TITAN廳 17：20 其他戲院(84)",
+      "times": [
+        "19:15"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "一般場次",
+      "times": [
+        "17:20"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "快打旋風",
+      "version": "進擊的鼓手 片長：107分 4K重映 TITAN廳 21：20 其他戲院(24)",
+      "times": [
+        "15:05"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "進擊的鼓手",
+      "version": "一般場次",
+      "times": [
+        "21:20"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
+      "movie": "奧德賽",
+      "version": "不存在的罪人 片長：117分 TITAN廳 23：30 其他戲院(63)",
+      "times": [
+        "11:45"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-10-29",
       "movie": "不存在的罪人",
       "version": "一般場次",
       "times": [
@@ -514,177 +531,8 @@
       ]
     },
     {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "復仇者聯盟：終局之戰",
-      "version": "進擊的鼓手 片長：107分 4K重映 TITAN廳 21：15 其他戲院(27)",
-      "times": [
-        "11:25"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-10-28",
-      "movie": "進擊的鼓手",
-      "version": "一般場次",
-      "times": [
-        "21:15"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "00:00",
-        "01:20",
-        "10:00",
-        "12:20",
-        "14:40",
-        "17:00",
-        "19:20",
-        "20:30",
-        "21:40",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:40",
-        "14:40",
-        "16:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "社群清算 The Social Reckoning",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "10:00",
-        "12:40",
-        "15:00",
-        "17:20",
-        "19:40",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "高年級實習生 THE INTERN",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "13:10",
-        "16:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "復仇者聯盟：終局之戰 加碼重映 Avengers : Endgame Encore",
-      "version": "一般場次",
-      "times": [
-        "18:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "逃出鯨吞 Whalefall",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "13:00",
-        "15:30",
-        "18:00",
-        "20:20",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "快打旋風 Street Fighter",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:10",
-        "12:50",
-        "15:20",
-        "18:00",
-        "20:30",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "01:00",
-        "10:30",
-        "18:10",
-        "20:30",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "不存在的罪人 Verity",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "13:00",
-        "18:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "惡靈古堡：爆發夜 Resident Evil",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "13:00",
-        "15:50",
-        "18:50",
-        "21:00",
-        "23:10"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-10-28",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 CHIIKAWA THE MOVIE THE SECRET OF THE MERMAID ISLAND",
-      "version": "一般場次",
-      "times": [
-        "15:50"
-      ]
-    },
-    {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "泥面人 Clayface",
       "version": "一般場次",
       "times": [
@@ -699,7 +547,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "快打旋風 Street Fighter",
       "version": "一般場次",
       "times": [
@@ -714,237 +562,152 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "逃出鯨吞 Whalefall",
       "version": "一般場次",
       "times": [
-        "10:50",
-        "17:20",
-        "19:30",
-        "23:40"
+        "10:00",
+        "14:00",
+        "16:10",
+        "20:10",
+        "22:20"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
-        "15:20",
-        "21:40"
+        "00:30",
+        "12:10",
+        "18:20"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "高年級實習生 Intern",
       "version": "一般場次",
       "times": [
-        "00:00",
-        "10:10",
-        "14:40",
+        "00:20",
+        "12:20",
         "19:30"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
-        "12:40",
+        "12:00",
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
+      "movie": "不存在的罪人 Verity",
+      "version": "一般場次",
+      "times": [
+        "00:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
+      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "16:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
+      "movie": "另一個媽咪 Other Mommy",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:00",
+        "16:00",
+        "20:00",
         "22:00"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
-      "movie": "不存在的罪人 Verity",
-      "version": "一般場次",
-      "times": [
-        "17:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-28",
-      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "15:20",
-        "19:00",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-28",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "11:40",
-        "13:30",
-        "17:10",
-        "20:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
       "version": "一般場次",
       "times": [
-        "00:20"
+        "00:00"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "社群清算 The Social Reckoning",
       "version": "一般場次",
       "times": [
-        "00:10",
         "10:00",
-        "13:40",
-        "17:20",
-        "19:30"
+        "14:50",
+        "17:10",
+        "22:00"
       ]
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-10-28",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險 Sumikkogurashi: The Crispies Adventure in Fluffy Land",
+      "date": "2026-10-29",
+      "movie": "消失的金鳳娜 The Evil Inside",
       "version": "一般場次",
       "times": [
-        "12:10",
-        "15:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-28",
-      "movie": "挖掘者 10月1日口碑場",
-      "version": "一般場次",
-      "times": [
-        "21:40"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "泥面人",
-      "version": "加速世界 劇場版 INFINITE BURST 片長：82分 12：35 16：20 18：10 其他戲院(40)",
-      "times": [
-        "10:30",
-        "12:35",
-        "14:40",
-        "18:05",
+        "12:00",
+        "14:10",
+        "18:00",
         "20:10",
         "22:20"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "加速世界 劇場版 INFINITE BURST",
+      "date": "2026-10-29",
+      "movie": "消失的金鳳娜",
+      "version": "蜘蛛人：重生日 片長：145分 16：15 其他戲院(51)",
+      "times": [
+        "13:00",
+        "15:10",
+        "19:35",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "蜘蛛人：重生日",
       "version": "一般場次",
       "times": [
+        "16:15"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "泥面人",
+      "version": "另一個媽咪 片長：93分 10：40 14：25 18：00 22：20 其他戲院(82)",
+      "times": [
+        "10:30",
         "12:35",
-        "16:20",
-        "18:10"
+        "14:40",
+        "18:05",
+        "22:20"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "社群清算",
-      "version": "煙囪小鎮的普佩2：約定的鐘樓 片長：98分 國語版 10：30 其他戲院(55)",
-      "times": [
-        "11:20",
-        "15:55",
-        "19:40"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "煙囪小鎮的普佩2：約定的鐘樓",
-      "version": "一般場次",
-      "times": [
-        "10:30"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "煙囪小鎮的普佩2：約定的鐘樓",
-      "version": "鬼降靈 片長：94分 14：20 21：45 其他戲院(32)",
-      "times": [
-        "18:05"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "鬼降靈",
-      "version": "一般場次",
-      "times": [
-        "14:20",
-        "21:45"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "金三角孤軍淚",
-      "version": "樂園的孩子 片長：100分 13：50 20：00 其他戲院(44)",
-      "times": [
-        "12:10",
-        "18:00"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "樂園的孩子",
-      "version": "一般場次",
-      "times": [
-        "13:50",
-        "20:00"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "活命水特弓隊",
-      "version": "嘟嘟魚的冒險 片長：91分 13：00 其他戲院(20)",
-      "times": [
-        "13:05",
-        "20:10"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "嘟嘟魚的冒險",
-      "version": "一般場次",
-      "times": [
-        "13:00"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "同級生",
-      "version": "另一個媽咪 片長：93分 10：40 14：25 18：00 22：20 其他戲院(83)",
-      "times": [
-        "19:00"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "另一個媽咪",
       "version": "一般場次",
       "times": [
@@ -956,39 +719,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "逃出鯨吞",
-      "version": "高年級實習生 片長：132分 10：35 19：50 其他戲院(76)",
-      "times": [
-        "13:25",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "高年級實習生",
-      "version": "一般場次",
-      "times": [
-        "10:35",
-        "19:50"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "快打旋風",
-      "version": "宛如星辰的你 片長：134分 15：30 21：40 其他戲院(68)",
-      "times": [
-        "19:50",
-        "22:05"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "宛如星辰的你",
-      "version": "一般場次",
+      "version": "金三角孤軍淚 片長：80分 12：10 18：00 其他戲院(15)",
       "times": [
         "15:30",
         "21:40"
@@ -996,35 +729,67 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "跳越時空的愛戀",
-      "version": "人狼 (1998) 4K數位修復版 19：40 其他戲院(8)",
+      "date": "2026-10-29",
+      "movie": "金三角孤軍淚",
+      "version": "一般場次",
       "times": [
-        "15:20",
-        "20:30"
+        "12:10",
+        "18:00"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "人狼 (1998)",
+      "date": "2026-10-29",
+      "movie": "加速世界 劇場版 INFINITE BURST",
+      "version": "逃出鯨吞 片長：105分 13：25 22：00 其他戲院(87)",
+      "times": [
+        "12:35",
+        "16:20",
+        "18:10"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "逃出鯨吞",
       "version": "一般場次",
       "times": [
+        "13:25",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "社群清算 片長：112分 10：30 19：40 其他戲院(82)",
+      "times": [
+        "20:05"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "社群清算",
+      "version": "一般場次",
+      "times": [
+        "10:30",
         "19:40"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "麵包超人電影版：潘坦與約定之星 片長：61分 國語版 10：50 16：45 其他戲院(32)",
+      "date": "2026-10-29",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
+      "version": "麵包超人電影版：潘坦與約定之星 片長：61分 國語版 10：50 16：45 其他戲院(31)",
       "times": [
-        "14:30"
+        "10:40",
+        "19:00"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "麵包超人電影版：潘坦與約定之星",
       "version": "一般場次",
       "times": [
@@ -1034,34 +799,37 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
-      "version": "愛你致死不渝 片長：109分 15：50 其他戲院(20)",
+      "date": "2026-10-29",
+      "movie": "鬼降靈",
+      "version": "跳越時空的愛戀 片長：147分 15：20 20：30 其他戲院(19)",
       "times": [
-        "10:40"
+        "14:20",
+        "21:55"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "愛你致死不渝",
+      "date": "2026-10-29",
+      "movie": "跳越時空的愛戀",
       "version": "一般場次",
       "times": [
-        "15:50"
+        "15:20",
+        "20:30"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "粽邪4",
-      "version": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉 片長：119分 11：05 其他戲院(18)",
+      "date": "2026-10-29",
+      "movie": "快打旋風",
+      "version": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉 片長：119分 11：05 其他戲院(16)",
       "times": [
-        "15:00"
+        "20:00",
+        "22:20"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "version": "一般場次",
       "times": [
@@ -1070,35 +838,109 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "沙央",
-      "version": "不存在的罪人 片長：117分 17：15 其他戲院(72)",
-      "times": [
-        "12:30"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "不存在的罪人",
-      "version": "一般場次",
-      "times": [
-        "17:15"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "鼠一般的你",
-      "version": "鋼之鍊金術師劇場版 片長：110分 10：45 其他戲院(10)",
+      "date": "2026-10-29",
+      "movie": "野獸之心",
+      "version": "劇場版 吉伊卡哇 人魚島的秘密 片長：99分 日語版 12：30 其他戲院(35)",
       "times": [
         "12:15"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "鋼之鍊金術師劇場版",
+      "date": "2026-10-29",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
+      "version": "一般場次",
+      "times": [
+        "12:30"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "嘟嘟魚的冒險",
+      "version": "愛你致死不渝 片長：109分 15：50 其他戲院(18)",
+      "times": [
+        "14:30"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "愛你致死不渝",
+      "version": "一般場次",
+      "times": [
+        "15:50"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "奧德賽",
+      "version": "粽邪4 片長：100分 17：20 其他戲院(12)",
+      "times": [
+        "16:25"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "粽邪4",
+      "version": "一般場次",
+      "times": [
+        "17:20"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "樂園的孩子",
+      "version": "高年級實習生 片長：132分 10：35 19：50 其他戲院(74)",
+      "times": [
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "高年級實習生",
+      "version": "一般場次",
+      "times": [
+        "10:35",
+        "19:50"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "活命水特弓隊",
+      "version": "煙囪小鎮的普佩2：約定的鐘樓 片長：98分 國語版 10：30 其他戲院(55)",
+      "times": [
+        "13:05",
+        "20:10"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "煙囪小鎮的普佩2：約定的鐘樓",
+      "version": "一般場次",
+      "times": [
+        "10:30"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "煙囪小鎮的普佩2：約定的鐘樓",
+      "version": "不存在的罪人 片長：117分 10：45 其他戲院(63)",
+      "times": [
+        "18:05"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "不存在的罪人",
       "version": "一般場次",
       "times": [
         "10:45"
@@ -1106,48 +948,39 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "野獸之心",
-      "version": "挖掘者 片長：129分 16：15 其他戲院(61)",
+      "date": "2026-10-29",
+      "movie": "人狼 (1998)",
+      "version": "惡靈古堡：爆發夜 片長：93分 杜比ATMOS廳 15：00 22：15 其他戲院(84)",
       "times": [
-        "21:50"
+        "19:40"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "挖掘者",
-      "version": "一般場次",
-      "times": [
-        "16:15"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "復仇者聯盟：終局之戰",
-      "version": "快打旋風 片長：119分 杜比ATMOS廳 13：35 其他戲院(90)",
-      "times": [
-        "16:20"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
-      "movie": "快打旋風",
-      "version": "一般場次",
-      "times": [
-        "13:35"
-      ]
-    },
-    {
-      "cinema_id": "ifg",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "movie": "惡靈古堡：爆發夜",
       "version": "一般場次",
       "times": [
-        "18:15",
+        "15:00",
         "22:15"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "快打旋風",
+      "version": "泥面人 片長：108分 杜比ATMOS廳 20：10 其他戲院(89)",
+      "times": [
+        "12:40"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-10-29",
+      "movie": "泥面人",
+      "version": "一般場次",
+      "times": [
+        "20:10"
       ]
     }
   ]
