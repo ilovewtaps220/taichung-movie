@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-10-29T07:31:09+08:00",
+  "updated_at": "2026-10-29T10:50:31+08:00",
   "data_date": "2026-10-29",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -723,6 +723,41 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-29",
+      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "16:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
+      "movie": "消失的金鳳娜 The Evil Inside",
+      "version": "一般場次",
+      "times": [
+        "12:00",
+        "14:10",
+        "18:00",
+        "20:10",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
+      "movie": "社群清算 The Social Reckoning",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:50",
+        "17:10",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
       "movie": "逃出鯨吞 Whalefall",
       "version": "一般場次",
       "times": [
@@ -731,28 +766,6 @@
         "16:10",
         "20:10",
         "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-29",
-      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "12:10",
-        "18:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-29",
-      "movie": "高年級實習生 Intern",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "12:20",
-        "19:30"
       ]
     },
     {
@@ -768,20 +781,12 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-29",
-      "movie": "不存在的罪人 Verity",
+      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
-        "00:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-29",
-      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "16:20"
+        "00:30",
+        "12:10",
+        "18:20"
       ]
     },
     {
@@ -800,6 +805,17 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-29",
+      "movie": "高年級實習生 Intern",
+      "version": "一般場次",
+      "times": [
+        "00:20",
+        "12:20",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-10-29",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
       "version": "一般場次",
       "times": [
@@ -809,26 +825,10 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-10-29",
-      "movie": "社群清算 The Social Reckoning",
+      "movie": "不存在的罪人 Verity",
       "version": "一般場次",
       "times": [
-        "10:00",
-        "14:50",
-        "17:10",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-10-29",
-      "movie": "消失的金鳳娜 The Evil Inside",
-      "version": "一般場次",
-      "times": [
-        "12:00",
-        "14:10",
-        "18:00",
-        "20:10",
-        "22:20"
+        "00:30"
       ]
     },
     {
