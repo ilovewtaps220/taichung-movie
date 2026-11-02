@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-02T06:24:44+08:00",
+  "updated_at": "2026-11-02T09:38:16+08:00",
   "data_date": "2026-11-02",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -687,6 +687,21 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-02",
+      "movie": "泥面人 Clayface",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "12:40",
+        "14:50",
+        "17:00",
+        "19:10",
+        "21:20",
+        "23:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-02",
       "movie": "即刻狂飆 Mongoose",
       "version": "一般場次",
       "times": [
@@ -703,21 +718,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-02",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "12:40",
-        "14:50",
-        "17:00",
-        "19:10",
-        "21:20",
-        "23:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-02",
       "movie": "快打旋風 Street Fighter",
       "version": "一般場次",
       "times": [
@@ -726,6 +726,16 @@
         "18:20",
         "20:40",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-02",
+      "movie": "歡迎來到朵莉之家 Welcome to Dolly's House",
+      "version": "一般場次",
+      "times": [
+        "12:20",
+        "16:30"
       ]
     },
     {
@@ -763,6 +773,17 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-02",
+      "movie": "致遙不可及彼方的你 To You in the Beyond",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:30",
+        "19:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-02",
       "movie": "逃出鯨吞 Whalefall",
       "version": "一般場次",
       "times": [
@@ -774,20 +795,20 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-02",
-      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
+      "movie": "野獸之心 Heart of the Beast",
       "version": "一般場次",
       "times": [
-        "10:00",
-        "18:20"
+        "23:30"
       ]
     },
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-02",
-      "movie": "野獸之心 Heart of the Beast",
+      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
       "version": "一般場次",
       "times": [
-        "23:30"
+        "10:00",
+        "18:20"
       ]
     },
     {
@@ -818,27 +839,6 @@
       "version": "一般場次",
       "times": [
         "00:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-02",
-      "movie": "歡迎來到朵莉之家 Welcome to Dolly's House",
-      "version": "一般場次",
-      "times": [
-        "12:20",
-        "16:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-02",
-      "movie": "致遙不可及彼方的你 To You in the Beyond",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "14:30",
-        "19:00"
       ]
     },
     {
