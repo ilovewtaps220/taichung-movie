@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-04T09:23:08+08:00",
+  "updated_at": "2026-11-04T15:39:51+08:00",
   "data_date": "2026-11-04",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -763,16 +763,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-04",
-      "movie": "社群清算 The Social Reckoning",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-04",
       "movie": "致遙不可及彼方的你 To You in the Beyond",
       "version": "一般場次",
       "times": [
@@ -790,15 +780,6 @@
         "12:20",
         "16:50",
         "21:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-04",
-      "movie": "野獸之心 Heart of the Beast",
-      "version": "一般場次",
-      "times": [
-        "23:30"
       ]
     },
     {
@@ -825,6 +806,15 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-04",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
+      "version": "一般場次",
+      "times": [
+        "00:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-04",
       "movie": "高年級實習生 Intern",
       "version": "一般場次",
       "times": [
@@ -835,10 +825,20 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-04",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
+      "movie": "社群清算 The Social Reckoning",
       "version": "一般場次",
       "times": [
-        "00:30"
+        "00:30",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-04",
+      "movie": "野獸之心 Heart of the Beast",
+      "version": "一般場次",
+      "times": [
+        "23:30"
       ]
     },
     {
