@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-06T10:39:50+08:00",
+  "updated_at": "2026-11-06T17:51:39+08:00",
   "data_date": "2026-11-06",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -544,16 +544,18 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-06",
-      "movie": "即刻狂飆 The Mongoose",
+      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
-        "01:20",
         "10:00",
-        "13:10",
-        "15:40",
-        "18:10",
-        "20:30",
-        "22:50"
+        "11:10",
+        "12:10",
+        "14:20",
+        "16:30",
+        "18:40",
+        "20:50",
+        "22:00",
+        "23:00"
       ]
     },
     {
@@ -606,6 +608,21 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-06",
+      "movie": "即刻狂飆 The Mongoose",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "13:10",
+        "15:40",
+        "18:10",
+        "20:30",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-06",
       "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
       "version": "一般場次",
       "times": [
@@ -643,23 +660,6 @@
         "16:20",
         "19:30",
         "21:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-06",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "11:10",
-        "12:10",
-        "14:20",
-        "16:30",
-        "18:40",
-        "20:50",
-        "22:00",
-        "23:00"
       ]
     },
     {
