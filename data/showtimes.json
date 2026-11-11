@@ -1,14 +1,14 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-11T10:52:48+08:00",
+  "updated_at": "2026-11-11T17:59:57+08:00",
   "data_date": "2026-11-11",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
     "tiger-city": "public-showtime-fallback",
     "sunrise": "official",
-    "chin-chin": "official",
+    "chin-chin": "error: TimeoutError",
     "station-showtime": "error: HTTPError",
     "ifg": "public-showtime-fallback"
   },
@@ -650,164 +650,6 @@
         "16:20",
         "19:30",
         "21:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "12:40",
-        "14:50",
-        "17:00",
-        "19:10",
-        "21:20",
-        "23:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "10:20",
-        "12:20",
-        "13:20",
-        "14:20",
-        "15:20",
-        "16:20",
-        "18:20",
-        "20:20",
-        "21:40",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "CVF2026貓貓影片節 CatVideoFest 2026",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "15:30",
-        "19:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "即刻狂飆 Mongoose",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "11:30",
-        "13:30",
-        "17:00",
-        "20:30",
-        "22:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
-      "version": "一般場次",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "消失的金鳳娜 The Evil Inside",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "12:00",
-        "14:10",
-        "18:10",
-        "20:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "致遙不可及彼方的你 To You in the Beyond",
-      "version": "一般場次",
-      "times": [
-        "11:00",
-        "17:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
-      "version": "一般場次",
-      "times": [
-        "19:40",
-        "23:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "快打旋風 Street Fighter",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "14:20",
-        "21:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "12:30",
-        "19:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "歡迎來到朵莉之家 Welcome to Dolly's House",
-      "version": "一般場次",
-      "times": [
-        "16:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "逃出鯨吞 Whalefall",
-      "version": "一般場次",
-      "times": [
-        "22:30"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "高年級實習生 Intern",
-      "version": "一般場次",
-      "times": [
-        "16:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-11",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密 7/25(六)-7/26(日) 限定搶先場",
-      "version": "一般場次",
-      "times": [
-        "23:30"
       ]
     },
     {
