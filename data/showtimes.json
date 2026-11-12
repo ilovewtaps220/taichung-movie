@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-12T07:42:40+08:00",
+  "updated_at": "2026-11-12T12:15:49+08:00",
   "data_date": "2026-11-12",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -9,7 +9,7 @@
     "tiger-city": "public-showtime-fallback",
     "sunrise": "official",
     "chin-chin": "official",
-    "station-showtime": "error: HTTPError",
+    "station-showtime": "showtimes-api",
     "ifg": "public-showtime-fallback"
   },
   "cinemas": [
@@ -496,7 +496,6 @@
         "01:20",
         "10:00",
         "11:20",
-        "12:00",
         "12:50",
         "14:10",
         "15:40",
@@ -537,6 +536,30 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-12",
+      "movie": "即刻狂飆 The Mongoose",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "13:10",
+        "15:40",
+        "18:10",
+        "20:30",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
+      "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
+      "version": "一般場次",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
       "movie": "消失的金鳳娜 The Evil Inside",
       "version": "一般場次",
       "times": [
@@ -569,30 +592,6 @@
         "18:00",
         "20:30",
         "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
-      "movie": "即刻狂飆 The Mongoose",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "13:10",
-        "15:40",
-        "18:10",
-        "20:30",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
-      "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
-      "version": "一般場次",
-      "times": [
-        "10:20"
       ]
     },
     {
@@ -690,15 +689,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-12",
-      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
-      "version": "一般場次",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-12",
       "movie": "消失的金鳳娜 The Evil Inside",
       "version": "一般場次",
       "times": [
@@ -784,6 +774,476 @@
       "version": "一般場次",
       "times": [
         "23:30"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-12",
+      "movie": "加速世界劇場版 INFINITE BURST Accel World-INFINITE BURST",
+      "version": "一般場次",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "IU CONCERT：THE WINNING",
+      "version": "SCREENX 韓語",
+      "times": [
+        "08:55",
+        "20:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
+      "times": [
+        "09:00",
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "哥吉拉-0.0",
+      "version": "數位 日語",
+      "times": [
+        "09:20",
+        "10:00",
+        "11:00",
+        "12:00",
+        "12:40",
+        "13:40",
+        "14:40",
+        "15:20",
+        "16:20",
+        "18:00",
+        "19:00",
+        "19:40",
+        "20:00",
+        "20:40",
+        "21:40",
+        "22:20",
+        "23:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "version": "數位 日語",
+      "times": [
+        "09:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "不存在的罪人",
+      "version": "數位 英語",
+      "times": [
+        "09:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "即刻狂飆",
+      "version": "數位 英語",
+      "times": [
+        "09:40",
+        "11:30",
+        "13:30",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "數位 英語",
+      "times": [
+        "09:40",
+        "13:25",
+        "17:10",
+        "19:05",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "讓子彈飛",
+      "version": "數位 國語",
+      "times": [
+        "10:00",
+        "14:40",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "名偵探柯南 第30號殺人事件",
+      "version": "數位 日語",
+      "times": [
+        "10:00",
+        "11:00",
+        "11:55",
+        "13:00",
+        "13:50",
+        "15:00",
+        "15:45",
+        "17:00",
+        "17:40",
+        "19:00",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "泥面人",
+      "version": "DVA 英語",
+      "times": [
+        "10:10",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "宛如星辰的你",
+      "version": "數位 日語",
+      "times": [
+        "11:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "加速世界 劇場版 INFINITE BURST",
+      "version": "數位 日語",
+      "times": [
+        "11:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "我要當總統",
+      "version": "數位 多元語",
+      "times": [
+        "11:20",
+        "19:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "11:20",
+        "14:20",
+        "17:20",
+        "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
+      "version": "數位 英語",
+      "times": [
+        "11:35",
+        "15:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "同級生：十週年重映",
+      "version": "數位 日語",
+      "times": [
+        "11:40",
+        "17:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "逃出鯨吞",
+      "version": "數位 英語",
+      "times": [
+        "11:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "貓貓影片節CVF 2026",
+      "version": "數位 英語",
+      "times": [
+        "11:45",
+        "15:15",
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "快打旋風",
+      "version": "DVA 英語",
+      "times": [
+        "12:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "暮光禁地",
+      "version": "數位 英語",
+      "times": [
+        "12:40",
+        "17:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "樂園追放",
+      "version": "數位 日語",
+      "times": [
+        "13:00",
+        "17:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "泥面人",
+      "version": "數位 英語",
+      "times": [
+        "13:00",
+        "15:10",
+        "18:40",
+        "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "野獸之心",
+      "version": "數位 英語",
+      "times": [
+        "13:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "UFO離奇命案",
+      "version": "數位 粵語",
+      "times": [
+        "13:25",
+        "18:25"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "三個傻瓜",
+      "version": "數位 國語",
+      "times": [
+        "13:45"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "DVA 英語",
+      "times": [
+        "14:40",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
+      "times": [
+        "15:05",
+        "19:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "消失的金鳳娜",
+      "version": "數位 國語",
+      "times": [
+        "15:20",
+        "21:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
+      "version": "數位 日語",
+      "times": [
+        "15:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "進擊的鼓手 4K重映",
+      "version": "DVA 英語",
+      "times": [
+        "16:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "IU CONCERT：THE WINNING",
+      "version": "數位 韓語",
+      "times": [
+        "16:55"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "快打旋風",
+      "version": "數位 英語",
+      "times": [
+        "17:20",
+        "22:35"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "歡迎來到朵莉之家",
+      "version": "數位 國語",
+      "times": [
+        "17:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar LIVE VIEWING",
+      "version": "數位 日語",
+      "times": [
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "另一個媽咪",
+      "version": "數位 英語",
+      "times": [
+        "18:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "逃出鯨吞",
+      "version": "DVA 英語",
+      "times": [
+        "18:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "三個傻瓜",
+      "version": "數位 印地語",
+      "times": [
+        "19:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "蜘蛛人：重生日 最終決戰場",
+      "version": "數位 英語",
+      "times": [
+        "19:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "20:15"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "高年級實習生",
+      "version": "數位 韓語",
+      "times": [
+        "20:25"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "Jim Queen：肌情四射",
+      "version": "數位 國語",
+      "times": [
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "社群清算",
+      "version": "數位 英語",
+      "times": [
+        "21:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "IU CONCERT：THE GOLDEN HOUR",
+      "version": "數位 韓語",
+      "times": [
+        "21:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "鬼降靈",
+      "version": "數位 英語",
+      "times": [
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "沙央",
+      "version": "數位 多元語",
+      "times": [
+        "23:00"
       ]
     },
     {
