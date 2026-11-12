@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-12T12:15:49+08:00",
+  "updated_at": "2026-11-12T21:00:08+08:00",
   "data_date": "2026-11-12",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -526,16 +526,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-12",
-      "movie": "歡迎來到朵莉之家 Welcome to Dolly's House",
-      "version": "一般場次",
-      "times": [
-        "12:50",
-        "17:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
       "movie": "即刻狂飆 The Mongoose",
       "version": "一般場次",
       "times": [
@@ -546,27 +536,6 @@
         "18:10",
         "20:30",
         "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
-      "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
-      "version": "一般場次",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
-      "movie": "消失的金鳳娜 The Evil Inside",
-      "version": "一般場次",
-      "times": [
-        "13:20",
-        "15:30",
-        "17:40",
-        "19:50"
       ]
     },
     {
@@ -597,17 +566,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-12",
-      "movie": "逃出鯨吞 Whalefall",
-      "version": "一般場次",
-      "times": [
-        "00:40",
-        "20:20",
-        "22:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-12",
       "movie": "另一個媽咪 Other Mommy",
       "version": "一般場次",
       "times": [
@@ -625,6 +583,48 @@
         "16:20",
         "19:30",
         "21:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
+      "movie": "加速世界劇場版INFINITE BURST Accel World：Infinite Burst",
+      "version": "一般場次",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
+      "movie": "歡迎來到朵莉之家 Welcome to Dolly's House",
+      "version": "一般場次",
+      "times": [
+        "12:50",
+        "17:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
+      "movie": "消失的金鳳娜 The Evil Inside",
+      "version": "一般場次",
+      "times": [
+        "13:20",
+        "15:30",
+        "17:40",
+        "19:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-12",
+      "movie": "逃出鯨吞 Whalefall",
+      "version": "一般場次",
+      "times": [
+        "00:40",
+        "20:20",
+        "22:30"
       ]
     },
     {
@@ -808,6 +808,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
+      "movie": "不存在的罪人",
+      "version": "數位 英語",
+      "times": [
+        "09:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
@@ -842,27 +851,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "不存在的罪人",
-      "version": "數位 英語",
-      "times": [
-        "09:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-12",
-      "movie": "即刻狂飆",
-      "version": "數位 英語",
-      "times": [
-        "09:40",
-        "11:30",
-        "13:30",
-        "19:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-12",
       "movie": "惡靈古堡：爆發夜",
       "version": "數位 英語",
       "times": [
@@ -876,12 +864,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "讓子彈飛",
-      "version": "數位 國語",
+      "movie": "即刻狂飆",
+      "version": "數位 英語",
       "times": [
-        "10:00",
-        "14:40",
-        "21:40"
+        "09:40",
+        "11:30",
+        "13:30",
+        "19:30"
       ]
     },
     {
@@ -901,6 +890,17 @@
         "17:40",
         "19:00",
         "21:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "讓子彈飛",
+      "version": "數位 國語",
+      "times": [
+        "10:00",
+        "14:40",
+        "21:40"
       ]
     },
     {
@@ -934,16 +934,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "我要當總統",
-      "version": "數位 多元語",
-      "times": [
-        "11:20",
-        "19:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-12",
       "movie": "哥吉拉-0.0",
       "version": "巨幕 日語",
       "times": [
@@ -951,6 +941,16 @@
         "14:20",
         "17:20",
         "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "我要當總統",
+      "version": "數位 多元語",
+      "times": [
+        "11:20",
+        "19:20"
       ]
     },
     {
@@ -966,20 +966,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "同級生：十週年重映",
-      "version": "數位 日語",
+      "movie": "逃出鯨吞",
+      "version": "數位 英語",
       "times": [
-        "11:40",
-        "17:20"
+        "11:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "逃出鯨吞",
-      "version": "數位 英語",
+      "movie": "同級生：十週年重映",
+      "version": "數位 日語",
       "times": [
-        "11:40"
+        "11:40",
+        "17:20"
       ]
     },
     {
@@ -1015,16 +1015,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-12",
-      "movie": "樂園追放",
-      "version": "數位 日語",
-      "times": [
-        "13:00",
-        "17:15"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-12",
       "movie": "泥面人",
       "version": "數位 英語",
       "times": [
@@ -1032,6 +1022,16 @@
         "15:10",
         "18:40",
         "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-12",
+      "movie": "樂園追放",
+      "version": "數位 日語",
+      "times": [
+        "13:00",
+        "17:15"
       ]
     },
     {
