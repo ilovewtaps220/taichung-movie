@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-13T04:41:12+08:00",
+  "updated_at": "2026-11-13T09:28:10+08:00",
   "data_date": "2026-11-13",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -819,22 +819,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
+      "movie": "六個說謊的大學生",
+      "version": "數位 韓語",
+      "times": [
+        "10:00",
+        "12:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
       "movie": "鬼聲泣0",
       "version": "SCREENX 泰語",
       "times": [
         "10:00",
         "14:50",
         "19:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
-      "movie": "六個說謊的大學生",
-      "version": "數位 韓語",
-      "times": [
-        "10:00",
-        "12:30"
       ]
     },
     {
@@ -891,6 +891,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
+      "movie": "歡迎來到朵莉之家",
+      "version": "數位 國語",
+      "times": [
+        "10:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
@@ -909,15 +918,6 @@
         "21:20",
         "22:00",
         "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
-      "movie": "歡迎來到朵莉之家",
-      "version": "數位 國語",
-      "times": [
-        "10:40"
       ]
     },
     {
@@ -959,15 +959,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -977,6 +968,15 @@
         "18:10",
         "20:30",
         "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "11:10"
       ]
     },
     {
