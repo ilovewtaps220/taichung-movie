@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-13T09:28:10+08:00",
+  "updated_at": "2026-11-13T16:28:27+08:00",
   "data_date": "2026-11-13",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -554,6 +554,62 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-13",
+      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:30",
+        "18:10",
+        "20:40",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-13",
+      "movie": "有用的人 To Be Ordinary",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-13",
+      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:10",
+        "12:40",
+        "15:20",
+        "17:50",
+        "20:20",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-13",
+      "movie": "搶銀行先修班 How To Rob A Bank",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:10",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-13",
       "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
@@ -619,62 +675,6 @@
       ]
     },
     {
-      "cinema_id": "sunrise",
-      "date": "2026-11-13",
-      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:30",
-        "18:10",
-        "20:40",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-13",
-      "movie": "有用的人 To Be Ordinary",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-13",
-      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:10",
-        "12:40",
-        "15:20",
-        "17:50",
-        "20:20",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-13",
-      "movie": "搶銀行先修班 How To Rob A Bank",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:10",
-        "22:50"
-      ]
-    },
-    {
       "cinema_id": "chin-chin",
       "date": "2026-11-13",
       "movie": "搶銀行先修班 How to Rob a Bank",
@@ -707,6 +707,22 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-13",
+      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:10",
+        "12:10",
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10",
+        "22:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-13",
       "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
       "version": "一般場次",
       "times": [
@@ -721,35 +737,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-13",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "01:00",
-        "10:00",
-        "14:20",
-        "18:40",
-        "20:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-13",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "10:10",
-        "12:10",
-        "14:00",
-        "16:10",
-        "18:10",
-        "20:10",
-        "22:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-13",
       "movie": "CVF2026貓貓影片節 CatVideoFest 2026",
       "version": "一般場次",
       "times": [
@@ -759,13 +746,23 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-13",
-      "movie": "即刻狂飆 Mongoose",
+      "movie": "另一個媽咪 Other Mommy",
       "version": "一般場次",
       "times": [
-        "00:50",
-        "12:20",
-        "16:10",
-        "20:30"
+        "16:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-13",
+      "movie": "泥面人 Clayface",
+      "version": "一般場次",
+      "times": [
+        "01:00",
+        "10:00",
+        "14:20",
+        "18:40",
+        "20:50"
       ]
     },
     {
@@ -810,10 +807,13 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-13",
-      "movie": "另一個媽咪 Other Mommy",
+      "movie": "即刻狂飆 Mongoose",
       "version": "一般場次",
       "times": [
-        "16:00"
+        "00:50",
+        "12:20",
+        "16:10",
+        "20:30"
       ]
     },
     {
@@ -823,7 +823,8 @@
       "version": "數位 韓語",
       "times": [
         "10:00",
-        "12:30"
+        "12:30",
+        "20:50"
       ]
     },
     {
@@ -853,20 +854,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
       "times": [
-        "10:20",
-        "15:10"
+        "10:20"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
-      "movie": "蜘蛛人：重生日",
-      "version": "數位 英語",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
       "times": [
-        "10:20"
+        "10:20",
+        "15:10"
       ]
     },
     {
@@ -900,6 +901,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
+      "movie": "搶銀行先修班",
+      "version": "數位 英語",
+      "times": [
+        "10:40",
+        "12:30",
+        "14:55",
+        "17:20",
+        "19:45",
+        "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
@@ -918,20 +933,6 @@
         "21:20",
         "22:00",
         "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
-      "movie": "搶銀行先修班",
-      "version": "數位 英語",
-      "times": [
-        "10:40",
-        "12:30",
-        "14:55",
-        "17:20",
-        "19:45",
-        "22:10"
       ]
     },
     {
@@ -959,6 +960,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "11:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -968,15 +978,6 @@
         "18:10",
         "20:30",
         "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
       ]
     },
     {
@@ -996,16 +997,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-13",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
-      "times": [
-        "12:10",
-        "17:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-13",
       "movie": "黑潮",
       "version": "數位 國語",
       "times": [
@@ -1013,6 +1004,16 @@
         "14:20",
         "16:30",
         "18:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-13",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "12:10",
+        "17:00"
       ]
     },
     {
