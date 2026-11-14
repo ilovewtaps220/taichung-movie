@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-14T06:10:18+08:00",
+  "updated_at": "2026-11-14T10:22:09+08:00",
   "data_date": "2026-11-14",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -434,17 +434,8 @@
     {
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
-      "movie": "即刻狂飆",
-      "version": "出賣影子的女人 片長：99分 11：10 其他戲院(12)",
-      "times": [
-        "00:30"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-11-14",
       "movie": "出賣影子的女人",
-      "version": "一般場次",
+      "version": "蕭邦！蕭邦！ 片長：113分 12：20 其他戲院(12)",
       "times": [
         "11:10"
       ]
@@ -453,7 +444,7 @@
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
       "movie": "蕭邦！蕭邦！",
-      "version": "Jim Queen：肌情四射 片長：85分 國語版 00：30 其他戲院(18)",
+      "version": "一般場次",
       "times": [
         "12:20"
       ]
@@ -462,7 +453,7 @@
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
       "movie": "Jim Queen：肌情四射",
-      "version": "一般場次",
+      "version": "聖誕驚奇夜 片長：115分 Gold Class 14：00 19：40 其他戲院(85)",
       "times": [
         "00:30"
       ]
@@ -471,7 +462,7 @@
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
       "movie": "聖誕驚奇夜",
-      "version": "搶銀行先修班 片長：121分 Gold Class 11：00 16：40 其他戲院(86)",
+      "version": "一般場次",
       "times": [
         "14:00",
         "19:40"
@@ -481,7 +472,7 @@
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
       "movie": "搶銀行先修班",
-      "version": "一般場次",
+      "version": "哥吉拉-0.0 片長：135分 Gold Class 12：00 14：55 18：00 21：00 22：50 其他戲院(82)",
       "times": [
         "11:00",
         "16:40"
@@ -491,7 +482,7 @@
       "cinema_id": "tiger-city",
       "date": "2026-11-14",
       "movie": "哥吉拉-0.0",
-      "version": "哥吉拉-0.0 片長：135分 TITAN廳 10：30 13：05 15：40 18：15 20：50 23：25 其他戲院(82)",
+      "version": "一般場次",
       "times": [
         "12:00",
         "14:55",
@@ -811,22 +802,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
-      "times": [
-        "10:00",
-        "16:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-14",
       "movie": "鬼聲泣0",
       "version": "SCREENX 泰語",
       "times": [
         "10:00",
         "14:50",
         "19:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-14",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
+      "times": [
+        "10:00",
+        "16:50"
       ]
     },
     {
@@ -865,6 +856,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
+      "times": [
+        "10:30",
+        "15:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-14",
       "movie": "搶銀行先修班",
       "version": "數位 英語",
       "times": [
@@ -873,16 +874,6 @@
         "14:05",
         "16:30",
         "21:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-14",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
-      "times": [
-        "10:30",
-        "15:10"
       ]
     },
     {
@@ -979,16 +970,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
-      "times": [
-        "12:10",
-        "17:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-14",
       "movie": "黑潮",
       "version": "數位 國語",
       "times": [
@@ -996,6 +977,16 @@
         "14:20",
         "16:30",
         "18:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-14",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "12:10",
+        "17:00"
       ]
     },
     {
