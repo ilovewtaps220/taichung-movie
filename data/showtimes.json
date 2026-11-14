@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-14T17:11:06+08:00",
+  "updated_at": "2026-11-14T23:46:36+08:00",
   "data_date": "2026-11-14",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -791,23 +791,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "數位 英語",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
       "times": [
         "10:00",
-        "14:25",
-        "17:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-14",
-      "movie": "鬼聲泣0",
-      "version": "SCREENX 泰語",
-      "times": [
-        "10:00",
-        "14:50",
-        "19:40"
+        "16:50"
       ]
     },
     {
@@ -824,11 +812,23 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
+      "movie": "鬼聲泣0",
+      "version": "SCREENX 泰語",
       "times": [
         "10:00",
-        "16:50"
+        "14:50",
+        "19:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-14",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "14:25",
+        "17:20"
       ]
     },
     {
@@ -856,16 +856,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
-      "times": [
-        "10:30",
-        "15:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-14",
       "movie": "搶銀行先修班",
       "version": "數位 英語",
       "times": [
@@ -874,6 +864,16 @@
         "14:05",
         "16:30",
         "21:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-14",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
+      "times": [
+        "10:30",
+        "15:10"
       ]
     },
     {
@@ -1124,8 +1124,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
-      "version": "數位 日語",
+      "movie": "搶銀行先修班 特別場",
+      "version": "數位 英語",
       "times": [
         "20:00"
       ]
@@ -1133,8 +1133,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-14",
-      "movie": "搶銀行先修班 特別場",
-      "version": "數位 英語",
+      "movie": "劇場版 吉伊卡哇 人魚島的秘密",
+      "version": "數位 日語",
       "times": [
         "20:00"
       ]
