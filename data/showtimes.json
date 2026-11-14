@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-15T04:13:57+08:00",
+  "updated_at": "2026-11-15T07:54:45+08:00",
   "data_date": "2026-11-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -861,16 +861,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
-      "times": [
-        "10:20",
-        "16:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "蜘蛛人：重生日",
       "version": "數位 英語",
       "times": [
@@ -880,10 +870,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "快打旋風",
-      "version": "數位 英語",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
       "times": [
-        "10:30"
+        "10:20",
+        "16:40"
       ]
     },
     {
@@ -898,6 +889,15 @@
         "17:20",
         "19:45",
         "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "快打旋風",
+      "version": "數位 英語",
+      "times": [
+        "10:30"
       ]
     },
     {
@@ -970,15 +970,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -988,6 +979,15 @@
         "18:10",
         "20:30",
         "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "11:10"
       ]
     },
     {
@@ -1075,20 +1075,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "IU CONCERT：THE GOLDEN HOUR",
-      "version": "數位 韓語",
-      "times": [
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "惡靈古堡：爆發夜",
       "version": "數位 英語",
       "times": [
         "14:40",
         "18:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "IU CONCERT：THE GOLDEN HOUR",
+      "version": "數位 韓語",
+      "times": [
+        "14:40"
       ]
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "我要當總統",
+      "movie": "沙央",
       "version": "數位 多元語",
       "times": [
         "23:00"
@@ -1230,7 +1230,7 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "沙央",
+      "movie": "我要當總統",
       "version": "數位 多元語",
       "times": [
         "23:00"
