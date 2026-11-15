@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-15T07:54:45+08:00",
+  "updated_at": "2026-11-15T11:42:27+08:00",
   "data_date": "2026-11-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -816,23 +816,23 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "六個說謊的大學生",
-      "version": "數位 韓語",
-      "times": [
-        "10:00",
-        "12:30",
-        "20:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "鬼聲泣0",
       "version": "SCREENX 泰語",
       "times": [
         "10:00",
         "14:50",
         "19:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "六個說謊的大學生",
+      "version": "數位 韓語",
+      "times": [
+        "10:00",
+        "12:30",
+        "20:50"
       ]
     },
     {
@@ -851,20 +851,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
       "times": [
-        "10:20",
-        "15:10"
+        "10:20"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "蜘蛛人：重生日",
-      "version": "數位 英語",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
       "times": [
-        "10:20"
+        "10:20",
+        "15:10"
       ]
     },
     {
@@ -903,15 +903,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "歡迎來到朵莉之家",
-      "version": "數位 國語",
-      "times": [
-        "10:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
@@ -934,23 +925,19 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "貓貓影片節CVF 2026",
-      "version": "數位 英語",
+      "movie": "歡迎來到朵莉之家",
+      "version": "數位 國語",
       "times": [
-        "10:55"
+        "10:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "鬼聲泣0",
-      "version": "數位 泰語",
+      "movie": "貓貓影片節CVF 2026",
+      "version": "數位 英語",
       "times": [
-        "11:00",
-        "13:15",
-        "15:30",
-        "17:45",
-        "22:00"
+        "10:55"
       ]
     },
     {
@@ -970,15 +957,14 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "聖誕驚奇夜",
-      "version": "數位 英語",
+      "movie": "鬼聲泣0",
+      "version": "數位 泰語",
       "times": [
-        "11:10",
-        "13:30",
-        "15:50",
-        "18:10",
-        "20:30",
-        "22:50"
+        "11:00",
+        "13:15",
+        "15:30",
+        "17:45",
+        "22:00"
       ]
     },
     {
@@ -993,13 +979,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "黑潮",
-      "version": "數位 國語",
+      "movie": "聖誕驚奇夜",
+      "version": "數位 英語",
       "times": [
-        "12:10",
-        "14:20",
-        "16:30",
-        "18:40"
+        "11:10",
+        "13:30",
+        "15:50",
+        "18:10",
+        "20:30",
+        "22:50"
       ]
     },
     {
@@ -1010,6 +998,18 @@
       "times": [
         "12:10",
         "17:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "黑潮",
+      "version": "數位 國語",
+      "times": [
+        "12:10",
+        "14:20",
+        "16:30",
+        "18:40"
       ]
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "沙央",
+      "movie": "我要當總統",
       "version": "數位 多元語",
       "times": [
         "23:00"
@@ -1230,7 +1230,7 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "我要當總統",
+      "movie": "沙央",
       "version": "數位 多元語",
       "times": [
         "23:00"
