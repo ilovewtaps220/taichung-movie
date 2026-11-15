@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-15T11:42:27+08:00",
+  "updated_at": "2026-11-15T19:30:12+08:00",
   "data_date": "2026-11-15",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -851,15 +851,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "蜘蛛人：重生日",
-      "version": "數位 英語",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "世紀初戀 楊麗花",
       "version": "數位 國語",
       "times": [
@@ -870,11 +861,29 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
+      "movie": "蜘蛛人：重生日",
+      "version": "數位 英語",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
       "movie": "致遙不可及彼方的你",
       "version": "數位 日語",
       "times": [
         "10:20",
         "16:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "快打旋風",
+      "version": "數位 英語",
+      "times": [
+        "10:30"
       ]
     },
     {
@@ -894,10 +903,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "快打旋風",
-      "version": "數位 英語",
+      "movie": "歡迎來到朵莉之家",
+      "version": "數位 國語",
       "times": [
-        "10:30"
+        "10:40"
       ]
     },
     {
@@ -920,15 +929,6 @@
         "20:50",
         "21:20",
         "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
-      "movie": "歡迎來到朵莉之家",
-      "version": "數位 國語",
-      "times": [
-        "10:40"
       ]
     },
     {
@@ -970,15 +970,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-15",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -988,6 +979,15 @@
         "18:10",
         "20:30",
         "22:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-15",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "11:10"
       ]
     },
     {
@@ -1075,20 +1075,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "數位 英語",
+      "movie": "IU CONCERT：THE GOLDEN HOUR",
+      "version": "數位 韓語",
       "times": [
-        "14:40",
-        "18:40"
+        "14:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-15",
-      "movie": "IU CONCERT：THE GOLDEN HOUR",
-      "version": "數位 韓語",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "數位 英語",
       "times": [
-        "14:40"
+        "14:40",
+        "18:40"
       ]
     },
     {
