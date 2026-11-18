@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-18T03:56:38+08:00",
+  "updated_at": "2026-11-18T09:58:48+08:00",
   "data_date": "2026-11-18",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -810,16 +810,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-18",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
-      "times": [
-        "10:20",
-        "16:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-18",
       "movie": "蜘蛛人：重生日",
       "version": "數位 英語",
       "times": [
@@ -834,6 +824,16 @@
       "times": [
         "10:20",
         "15:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-18",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
+      "times": [
+        "10:20",
+        "16:40"
       ]
     },
     {
@@ -930,6 +930,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-18",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
+      "times": [
+        "11:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-18",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -939,15 +948,6 @@
         "18:10",
         "20:30",
         "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-18",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
       ]
     },
     {
