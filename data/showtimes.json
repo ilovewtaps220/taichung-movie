@@ -1,14 +1,14 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-19T15:54:56+08:00",
-  "data_date": "2026-11-19",
+  "updated_at": "2026-11-20T00:55:22+08:00",
+  "data_date": "2026-11-20",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
     "tiger-city": "public-showtime-fallback",
-    "sunrise": "official",
-    "chin-chin": "official",
+    "sunrise": "error: HTTPError",
+    "chin-chin": "error: HTTPError",
     "station-showtime": "showtimes-api",
     "ifg": "public-showtime-fallback"
   },
@@ -64,7 +64,7 @@
   "showtimes": [
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "聖誕驚奇夜",
       "version": "搶銀行先修班 片長：121分 13：15 20：05 23：05 其他戲院(86)",
       "times": [
@@ -75,7 +75,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "搶銀行先修班",
       "version": "一般場次",
       "times": [
@@ -86,7 +86,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "魔法科高中的劣等生 四葉繼承篇",
       "version": "鬼聲泣0 片長：111分 12：15 18：40 其他戲院(71)",
       "times": [
@@ -96,7 +96,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "鬼聲泣0",
       "version": "一般場次",
       "times": [
@@ -106,7 +106,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "哥吉拉-0.0 片長：135分 14：30 19：20 22：00 其他戲院(82)",
       "times": [
@@ -119,7 +119,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
@@ -130,7 +130,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "泥面人",
       "version": "致遙不可及彼方的你 片長：116分 17：45 22：30 其他戲院(46)",
       "times": [
@@ -141,7 +141,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "致遙不可及彼方的你",
       "version": "一般場次",
       "times": [
@@ -151,7 +151,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "宛如星辰的你",
       "version": "樂園追放 片長：104分 16：40 其他戲院(23)",
       "times": [
@@ -160,7 +160,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "樂園追放",
       "version": "一般場次",
       "times": [
@@ -169,7 +169,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "同級生",
       "version": "惡靈古堡：爆發夜 片長：93分 14：40 其他戲院(43)",
       "times": [
@@ -178,7 +178,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "惡靈古堡：爆發夜",
       "version": "一般場次",
       "times": [
@@ -187,7 +187,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "沙丘 片長：155分 重映版 IMAX版 18：05 其他戲院(39)",
       "times": [
@@ -198,7 +198,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘",
       "version": "一般場次",
       "times": [
@@ -207,7 +207,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘：第二部",
       "version": "一般場次",
       "times": [
@@ -216,7 +216,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "聖誕驚奇夜",
       "version": "搶銀行先修班 片長：121分 11：00 15：25 19：25 23：50 其他戲院(86)",
       "times": [
@@ -228,7 +228,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "搶銀行先修班",
       "version": "一般場次",
       "times": [
@@ -240,7 +240,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "告別的年代",
       "version": "有用的人 片長：111分 13：10 15：20 19：35 21：45 其他戲院(48)",
       "times": [
@@ -252,7 +252,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "有用的人",
       "version": "一般場次",
       "times": [
@@ -264,7 +264,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "黑潮",
       "version": "六個說謊的大學生 片長：107分 12：00 17：30 其他戲院(49)",
       "times": [
@@ -274,7 +274,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "六個說謊的大學生",
       "version": "一般場次",
       "times": [
@@ -284,7 +284,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "鬼聲泣0",
       "version": "沙丘 片長：155分 重映版 11：10 其他戲院(39)",
       "times": [
@@ -294,7 +294,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘",
       "version": "一般場次",
       "times": [
@@ -303,7 +303,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘：第二部",
       "version": "我們，巴黎管弦樂團 片長：90分 20：00 其他戲院(12)",
       "times": [
@@ -312,7 +312,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "我們，巴黎管弦樂團",
       "version": "一般場次",
       "times": [
@@ -321,7 +321,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "黑牢城",
       "version": "名偵探柯南 第30號殺人事件 片長：93分 11：00 14：35 16：20 18：30 其他戲院(88)",
       "times": [
@@ -330,7 +330,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "一般場次",
       "times": [
@@ -342,7 +342,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "青春豬頭少年不會夢到親愛好朋友",
       "version": "與達賴喇嘛談心：尋找幸福的智慧 片長：90分 12：50 18：00 其他戲院(28)",
       "times": [
@@ -353,7 +353,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "與達賴喇嘛談心：尋找幸福的智慧",
       "version": "一般場次",
       "times": [
@@ -363,7 +363,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA 片長：82分 17：45 21：50 其他戲院(14)",
       "times": [
@@ -373,7 +373,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA",
       "version": "一般場次",
       "times": [
@@ -383,7 +383,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "讓子彈飛",
       "version": "泥面人 片長：108分 16：25 其他戲院(81)",
       "times": [
@@ -393,7 +393,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "泥面人",
       "version": "一般場次",
       "times": [
@@ -402,7 +402,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "消失的金鳳娜",
       "version": "即刻狂飆 片長：97分 00：05 其他戲院(60)",
       "times": [
@@ -411,7 +411,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "即刻狂飆",
       "version": "一般場次",
       "times": [
@@ -420,7 +420,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "老千：惡魔之歌",
       "version": "Jim Queen：肌情四射 片長：85分 國語版 21：30 其他戲院(19)",
       "times": [
@@ -429,7 +429,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "Jim Queen：肌情四射",
       "version": "一般場次",
       "times": [
@@ -438,7 +438,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "聖誕驚奇夜",
       "version": "搶銀行先修班 片長：121分 Gold Class 12：50 其他戲院(86)",
       "times": [
@@ -448,7 +448,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "搶銀行先修班",
       "version": "一般場次",
       "times": [
@@ -457,7 +457,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "哥吉拉-0.0 片長：135分 TITAN廳 11：00 13：35 16：10 18：45 21：20 23：55 其他戲院(82)",
       "times": [
@@ -470,7 +470,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
@@ -483,686 +483,378 @@
       ]
     },
     {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "哥吉拉-0.0 Godzilla Minus Zero",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "01:20",
-        "10:00",
-        "12:50",
-        "14:10",
-        "15:40",
-        "17:00",
-        "18:30",
-        "19:50",
-        "21:20",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:30",
-        "18:10",
-        "20:40",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "有用的人 To Be Ordinary",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:30"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
-      "version": "一般場次",
-      "times": [
-        "10:10",
-        "12:40",
-        "15:20",
-        "17:50",
-        "20:20",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "搶銀行先修班 How To Rob A Bank",
-      "version": "一般場次",
-      "times": [
-        "01:20",
-        "10:00",
-        "12:30",
-        "15:00",
-        "17:30",
-        "20:10",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "12:10",
-        "14:20",
-        "16:30",
-        "18:40",
-        "20:50",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "即刻狂飆 The Mongoose",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "13:10",
-        "15:40",
-        "18:10",
-        "20:30",
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "致遙不可及彼方的你 To You in the Beyond",
-      "version": "一般場次",
-      "times": [
-        "10:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "01:00",
-        "13:20",
-        "15:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-19",
-      "movie": "惡靈古堡：爆發夜 Resident Evil",
-      "version": "一般場次",
-      "times": [
-        "23:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "搶銀行先修班 How to Rob a Bank",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "10:10",
-        "12:30",
-        "14:50",
-        "17:10",
-        "19:30",
-        "21:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
-      "version": "一般場次",
-      "times": [
-        "00:20",
-        "10:20",
-        "12:40",
-        "15:00",
-        "17:20",
-        "19:40",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
-      "version": "一般場次",
-      "times": [
-        "00:10",
-        "10:10",
-        "12:10",
-        "14:10",
-        "16:10",
-        "18:10",
-        "20:10",
-        "22:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
-      "version": "一般場次",
-      "times": [
-        "00:30",
-        "10:00",
-        "13:50",
-        "18:00",
-        "20:10",
-        "22:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "泥面人 Clayface",
-      "version": "一般場次",
-      "times": [
-        "10:20",
-        "14:40",
-        "19:00",
-        "21:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "消失的金鳳娜 The Evil Inside",
-      "version": "一般場次",
-      "times": [
-        "12:30",
-        "16:50",
-        "23:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "致遙不可及彼方的你 To You in the Beyond",
-      "version": "一般場次",
-      "times": [
-        "10:30",
-        "18:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "即刻狂飆 Mongoose",
-      "version": "一般場次",
-      "times": [
-        "12:40",
-        "16:40",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "快打旋風 Street Fighter",
-      "version": "一般場次",
-      "times": [
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "另一個媽咪 Other Mommy",
-      "version": "一般場次",
-      "times": [
-        "16:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
-      "version": "一般場次",
-      "times": [
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-19",
-      "movie": "CVF2026貓貓影片節 CatVideoFest 2026",
-      "version": "一般場次",
-      "times": [
-        "12:10"
-      ]
-    },
-    {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "六個說謊的大學生",
-      "version": "數位 韓語",
-      "times": [
-        "10:00",
-        "12:30",
-        "20:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "鬼聲泣0",
-      "version": "SCREENX 泰語",
-      "times": [
-        "10:00",
-        "14:50",
-        "19:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
-      "times": [
-        "10:10",
-        "12:45",
-        "17:40",
-        "20:20",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "蜘蛛人：重生日",
+      "date": "2026-11-20",
+      "movie": "泥面人",
       "version": "數位 英語",
       "times": [
-        "10:20"
+        "10:00",
+        "17:05",
+        "21:00",
+        "23:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
+      "movie": "搶銀行先修班",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "16:15",
+        "20:35"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "第四幕",
+      "version": "數位 粵語",
+      "times": [
+        "10:10",
+        "18:45"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "世紀初戀 楊麗花",
       "version": "數位 國語",
       "times": [
         "10:20",
-        "15:10"
+        "15:55"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
+      "date": "2026-11-20",
+      "movie": "偵戰",
+      "version": "數位 粵語",
       "times": [
         "10:20",
-        "16:40"
+        "14:20",
+        "19:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "快打旋風",
-      "version": "數位 英語",
+      "date": "2026-11-20",
+      "movie": "劇場版 來自深淵: 覺醒的神祕",
+      "version": "數位 日語",
       "times": [
-        "10:30"
+        "10:30",
+        "14:30",
+        "18:30",
+        "22:30"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "歡迎來到朵莉之家",
-      "version": "數位 國語",
+      "date": "2026-11-20",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
       "times": [
         "10:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "搶銀行先修班",
+      "date": "2026-11-20",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
       "version": "數位 英語",
       "times": [
-        "10:45",
-        "12:30",
-        "14:55",
-        "17:20",
-        "19:45",
-        "22:10"
+        "10:40",
+        "15:00",
+        "18:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "哥吉拉-0.0",
+      "date": "2026-11-20",
+      "movie": "同級生：十週年重映",
       "version": "數位 日語",
+      "times": [
+        "10:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "數位 英語",
       "times": [
         "10:50",
-        "11:20",
-        "13:10",
-        "13:30",
-        "14:00",
+        "11:40",
+        "12:30",
+        "13:50",
+        "14:40",
         "15:30",
-        "15:50",
-        "16:10",
-        "16:40",
-        "18:10",
-        "18:50",
-        "19:20",
-        "20:50",
+        "16:50",
+        "17:40",
+        "18:30",
+        "19:50",
+        "20:40",
         "21:30",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "貓貓影片節CVF 2026",
-      "version": "數位 英語",
-      "times": [
-        "10:55"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "鬼聲泣0",
-      "version": "數位 泰語",
-      "times": [
-        "11:00",
-        "13:15",
-        "15:30",
-        "17:45",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "名偵探柯南 第30號殺人事件",
-      "version": "數位 日語",
-      "times": [
-        "11:00",
-        "13:00",
-        "15:00",
-        "17:00",
-        "19:00",
-        "21:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "聖誕驚奇夜",
-      "version": "數位 英語",
-      "times": [
-        "11:10",
-        "13:30",
-        "15:50",
-        "18:10",
-        "20:30",
         "22:50"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "黑潮",
-      "version": "數位 國語",
+      "date": "2026-11-20",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
       "times": [
-        "12:10",
-        "14:20",
-        "16:30",
-        "18:40"
+        "11:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
+      "date": "2026-11-20",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "SCREENX 英語",
       "times": [
-        "12:10",
-        "17:00"
+        "11:10",
+        "20:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "讓子彈飛",
-      "version": "數位 國語",
+      "date": "2026-11-20",
+      "movie": "名偵探柯南 第30號殺人事件",
+      "version": "數位 日語",
       "times": [
-        "12:30",
-        "19:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "泥面人",
-      "version": "數位 英語",
-      "times": [
-        "12:40",
-        "20:50",
+        "11:20",
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
         "23:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "宛如星辰的你",
-      "version": "數位 日語",
-      "times": [
-        "12:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "同級生：十週年重映",
-      "version": "數位 日語",
-      "times": [
-        "13:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "告別的年代",
-      "version": "數位 多元語",
-      "times": [
-        "13:45",
-        "16:30",
-        "19:15",
-        "22:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "惡靈古堡：爆發夜",
-      "version": "數位 英語",
-      "times": [
-        "14:40",
-        "18:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "IU CONCERT：THE GOLDEN HOUR",
-      "version": "數位 韓語",
-      "times": [
-        "14:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "數位 英語",
-      "times": [
-        "14:50",
-        "18:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "聖誕驚奇夜",
-      "version": "DVA 英語",
-      "times": [
-        "15:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "消失的金鳳娜",
+      "date": "2026-11-20",
+      "movie": "歡迎來到朵莉之家",
       "version": "數位 國語",
       "times": [
-        "16:35"
+        "11:30"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "IU CONCERT：THE WINNING",
-      "version": "數位 韓語",
+      "date": "2026-11-20",
+      "movie": "聖誕驚奇夜",
+      "version": "數位 英語",
       "times": [
-        "17:20"
+        "11:40",
+        "16:20",
+        "18:40",
+        "21:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
+      "movie": "哥吉拉-0.0",
+      "version": "數位 日語",
+      "times": [
+        "12:00",
+        "13:20",
+        "14:40",
+        "16:00",
+        "17:20",
+        "18:40",
+        "20:00",
+        "21:30",
+        "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "沙丘（重映版）",
       "version": "數位 英語",
       "times": [
-        "17:50"
+        "12:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "Jim Queen：肌情四射",
+      "date": "2026-11-20",
+      "movie": "皎潔深宵之月",
+      "version": "數位 日語",
+      "times": [
+        "12:10",
+        "16:10",
+        "20:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "黑潮",
       "version": "數位 國語",
       "times": [
-        "19:00"
+        "12:10",
+        "20:50"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
+      "movie": "惡靈古堡：爆發夜",
+      "version": "數位 英語",
+      "times": [
+        "12:20",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "樂園追放 心之共鳴",
+      "version": "數位 日語",
+      "times": [
+        "12:30",
+        "16:50",
+        "19:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "純愛上等！",
+      "version": "數位 日語",
+      "times": [
+        "12:30",
+        "16:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "DVA 英語",
+      "times": [
+        "13:20",
+        "19:20",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "宛如星辰的你",
+      "version": "數位 日語",
+      "times": [
+        "13:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "IU CONCERT：THE WINNING",
+      "version": "數位 韓語",
+      "times": [
+        "13:55"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "14:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "數位 日語",
       "times": [
-        "20:00"
+        "14:15"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "即刻狂飆",
-      "version": "數位 英語",
+      "date": "2026-11-20",
+      "movie": "善男信女",
+      "version": "數位 粵語",
       "times": [
-        "20:40"
+        "14:35",
+        "21:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "另一個媽咪",
-      "version": "數位 英語",
+      "date": "2026-11-20",
+      "movie": "Jim Queen：肌情四射",
+      "version": "數位 國語",
       "times": [
-        "20:55"
+        "15:15",
+        "19:15"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "樂園追放",
-      "version": "數位 日語",
+      "date": "2026-11-20",
+      "movie": "告別的年代",
+      "version": "數位 多元語",
       "times": [
-        "21:05"
+        "16:15",
+        "21:20"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
+      "movie": "黑球 未竟之愛場",
+      "version": "DVA 西語",
+      "times": [
+        "16:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "沙丘：第二部（重映版）",
       "version": "SCREENX 英語",
+      "times": [
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "鬼聲泣0",
+      "version": "數位 泰語",
+      "times": [
+        "18:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "讓子彈飛",
+      "version": "數位 國語",
+      "times": [
+        "20:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "六個說謊的大學生",
+      "version": "數位 韓語",
       "times": [
         "21:50"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "三個傻瓜",
-      "version": "數位 印地語",
-      "times": [
-        "22:25"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "逃出鯨吞",
-      "version": "數位 英語",
-      "times": [
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "暮光禁地",
-      "version": "數位 英語",
-      "times": [
-        "22:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙央",
       "version": "數位 多元語",
       "times": [
@@ -1171,16 +863,16 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "我要當總統",
-      "version": "數位 多元語",
+      "date": "2026-11-20",
+      "movie": "鬼聲泣0",
+      "version": "SCREENX 泰語",
       "times": [
         "23:10"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "有用的人",
       "version": "搶銀行先修班 片長：121分 12：40 15：10 19：45 22：05 其他戲院(86)",
       "times": [
@@ -1192,7 +884,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "搶銀行先修班",
       "version": "一般場次",
       "times": [
@@ -1204,7 +896,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "鬼聲泣0",
       "version": "聖誕驚奇夜 片長：115分 10：25 17：30 20：15 其他戲院(85)",
       "times": [
@@ -1215,7 +907,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "聖誕驚奇夜",
       "version": "一般場次",
       "times": [
@@ -1226,7 +918,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "黑潮",
       "version": "魔法科高中的劣等生 四葉繼承篇 片長：103分 10：00 19：45 其他戲院(15)",
       "times": [
@@ -1236,7 +928,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "魔法科高中的劣等生 四葉繼承篇",
       "version": "一般場次",
       "times": [
@@ -1246,7 +938,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "來自深淵 深沉靈魂的黎明",
       "version": "高校人形金字塔 片長：81分 12：35 其他戲院(16)",
       "times": [
@@ -1255,7 +947,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "高校人形金字塔",
       "version": "一般場次",
       "times": [
@@ -1264,7 +956,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘",
       "version": "沙丘：第二部 片長：165分 重映版 19：00 其他戲院(39)",
       "times": [
@@ -1273,7 +965,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "沙丘：第二部",
       "version": "一般場次",
       "times": [
@@ -1282,7 +974,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "跟我一起玩吧？",
       "version": "名偵探柯南 第30號殺人事件 片長：93分 10：45 14：25 16：15 18：05 19：55 21：50 其他戲院(88)",
       "times": [
@@ -1291,7 +983,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "一般場次",
       "times": [
@@ -1305,7 +997,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "青春豬頭少年不會夢到親愛好朋友",
       "version": "哥吉拉-0.0 片長：135分 10：10 15：00 21：45 其他戲院(82)",
       "times": [
@@ -1317,7 +1009,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
@@ -1328,7 +1020,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "同級生",
       "version": "致遙不可及彼方的你 片長：116分 11：25 其他戲院(46)",
       "times": [
@@ -1338,7 +1030,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "致遙不可及彼方的你",
       "version": "一般場次",
       "times": [
@@ -1347,7 +1039,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "宛如星辰的你",
       "version": "讓子彈飛 片長：132分 15：50 其他戲院(32)",
       "times": [
@@ -1356,7 +1048,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "讓子彈飛",
       "version": "一般場次",
       "times": [
@@ -1365,7 +1057,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "消失的金鳳娜",
       "version": "另一個媽咪 片長：93分 22：15 其他戲院(22)",
       "times": [
@@ -1374,7 +1066,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "另一個媽咪",
       "version": "一般場次",
       "times": [
@@ -1383,7 +1075,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "泥面人",
       "version": "角落小夥伴電影版：從天而降的雲之冒險 片長：100分 國語版 10：00 其他戲院(10)",
       "times": [
@@ -1392,7 +1084,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "角落小夥伴電影版：從天而降的雲之冒險",
       "version": "一般場次",
       "times": [
@@ -1401,7 +1093,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "出賣影子的女人",
       "version": "聖誕驚奇夜 片長：115分 杜比ATMOS廳 15：05 其他戲院(85)",
       "times": [
@@ -1410,7 +1102,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "聖誕驚奇夜",
       "version": "一般場次",
       "times": [
@@ -1419,7 +1111,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
