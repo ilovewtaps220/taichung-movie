@@ -1,14 +1,14 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-19T02:24:35+08:00",
+  "updated_at": "2026-11-19T08:35:22+08:00",
   "data_date": "2026-11-19",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
     "tiger-city": "public-showtime-fallback",
-    "sunrise": "error: HTTPError",
-    "chin-chin": "error: HTTPError",
+    "sunrise": "official",
+    "chin-chin": "official",
     "station-showtime": "showtimes-api",
     "ifg": "public-showtime-fallback"
   },
@@ -483,14 +483,284 @@
       ]
     },
     {
-      "cinema_id": "station-showtime",
+      "cinema_id": "sunrise",
       "date": "2026-11-19",
-      "movie": "鬼聲泣0",
-      "version": "SCREENX 泰語",
+      "movie": "哥吉拉-0.0 Godzilla Minus Zero",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "01:20",
+        "10:00",
+        "12:50",
+        "14:10",
+        "15:40",
+        "17:00",
+        "18:30",
+        "19:50",
+        "21:20",
+        "22:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:30",
+        "18:10",
+        "20:40",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "有用的人 To Be Ordinary",
+      "version": "一般場次",
       "times": [
         "10:00",
+        "12:30",
         "14:50",
-        "19:40"
+        "17:10",
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
+      "version": "一般場次",
+      "times": [
+        "10:10",
+        "12:40",
+        "15:20",
+        "17:50",
+        "20:20",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "搶銀行先修班 How To Rob A Bank",
+      "version": "一般場次",
+      "times": [
+        "01:20",
+        "10:00",
+        "12:30",
+        "15:00",
+        "17:30",
+        "20:10",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "12:10",
+        "14:20",
+        "16:30",
+        "18:40",
+        "20:50",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "即刻狂飆 The Mongoose",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "13:10",
+        "15:40",
+        "18:10",
+        "20:30",
+        "22:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "致遙不可及彼方的你 To You in the Beyond",
+      "version": "一般場次",
+      "times": [
+        "10:20"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "泥面人 Clayface",
+      "version": "一般場次",
+      "times": [
+        "01:00",
+        "13:20",
+        "15:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "另一個媽咪 Other Mommy",
+      "version": "一般場次",
+      "times": [
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-19",
+      "movie": "惡靈古堡：爆發夜 Resident Evil",
+      "version": "一般場次",
+      "times": [
+        "23:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "搶銀行先修班 How to Rob a Bank",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:10",
+        "12:30",
+        "14:50",
+        "17:10",
+        "19:30",
+        "21:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
+      "version": "一般場次",
+      "times": [
+        "00:20",
+        "10:20",
+        "12:40",
+        "15:00",
+        "17:20",
+        "19:40",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
+      "version": "一般場次",
+      "times": [
+        "00:10",
+        "10:10",
+        "12:10",
+        "14:10",
+        "16:10",
+        "18:10",
+        "20:10",
+        "22:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
+      "version": "一般場次",
+      "times": [
+        "00:30",
+        "10:00",
+        "13:50",
+        "18:00",
+        "20:10",
+        "22:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "泥面人 Clayface",
+      "version": "一般場次",
+      "times": [
+        "10:20",
+        "14:40",
+        "19:00",
+        "21:10"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "消失的金鳳娜 The Evil Inside",
+      "version": "一般場次",
+      "times": [
+        "12:30",
+        "16:50",
+        "23:20"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "致遙不可及彼方的你 To You in the Beyond",
+      "version": "一般場次",
+      "times": [
+        "10:30",
+        "18:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "即刻狂飆 Mongoose",
+      "version": "一般場次",
+      "times": [
+        "12:40",
+        "16:40",
+        "21:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "快打旋風 Street Fighter",
+      "version": "一般場次",
+      "times": [
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "另一個媽咪 Other Mommy",
+      "version": "一般場次",
+      "times": [
+        "16:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "惡靈古堡：爆發夜 Resident Evil(2026)",
+      "version": "一般場次",
+      "times": [
+        "14:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-19",
+      "movie": "CVF2026貓貓影片節 CatVideoFest 2026",
+      "version": "一般場次",
+      "times": [
+        "12:10"
       ]
     },
     {
@@ -507,6 +777,17 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-19",
+      "movie": "鬼聲泣0",
+      "version": "SCREENX 泰語",
+      "times": [
+        "10:00",
+        "14:50",
+        "19:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-19",
       "movie": "哥吉拉-0.0",
       "version": "DVA 日語",
       "times": [
@@ -515,6 +796,16 @@
         "17:40",
         "20:20",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-19",
+      "movie": "致遙不可及彼方的你",
+      "version": "數位 日語",
+      "times": [
+        "10:20",
+        "16:40"
       ]
     },
     {
@@ -534,16 +825,6 @@
       "version": "數位 英語",
       "times": [
         "10:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
-      "movie": "致遙不可及彼方的你",
-      "version": "數位 日語",
-      "times": [
-        "10:20",
-        "16:40"
       ]
     },
     {
@@ -640,15 +921,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-19",
-      "movie": "老千：惡魔之歌",
-      "version": "數位 韓語",
-      "times": [
-        "11:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-19",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -663,11 +935,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-19",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
+      "movie": "老千：惡魔之歌",
+      "version": "數位 韓語",
       "times": [
-        "12:10",
-        "17:00"
+        "11:10"
       ]
     },
     {
@@ -680,6 +951,16 @@
         "14:20",
         "16:30",
         "18:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-19",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "12:10",
+        "17:00"
       ]
     },
     {
