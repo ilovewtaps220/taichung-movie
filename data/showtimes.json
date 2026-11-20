@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-20T07:20:22+08:00",
+  "updated_at": "2026-11-20T12:06:10+08:00",
   "data_date": "2026-11-20",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -728,15 +728,17 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-20",
-      "movie": "搶銀行先修班 How to Rob a Bank",
+      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
         "00:00",
-        "10:10",
-        "12:30",
-        "14:50",
-        "19:20",
-        "21:40"
+        "10:00",
+        "12:00",
+        "14:00",
+        "16:00",
+        "18:00",
+        "20:00",
+        "22:00"
       ]
     },
     {
@@ -755,17 +757,34 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-20",
-      "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
+      "movie": "致遙不可及彼方的你 To You in the Beyond",
       "version": "一般場次",
       "times": [
         "00:00",
-        "10:00",
-        "12:00",
-        "14:00",
-        "16:00",
-        "18:00",
-        "20:00",
-        "22:00"
+        "17:00"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-20",
+      "movie": "搶銀行先修班 How to Rob a Bank",
+      "version": "一般場次",
+      "times": [
+        "00:00",
+        "10:10",
+        "12:30",
+        "14:50",
+        "19:20",
+        "21:40"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-20",
+      "movie": "消失的金鳳娜 The Evil Inside",
+      "version": "一般場次",
+      "times": [
+        "17:10"
       ]
     },
     {
@@ -788,25 +807,6 @@
         "12:20",
         "18:40",
         "23:00"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-20",
-      "movie": "消失的金鳳娜 The Evil Inside",
-      "version": "一般場次",
-      "times": [
-        "17:10"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-20",
-      "movie": "致遙不可及彼方的你 To You in the Beyond",
-      "version": "一般場次",
-      "times": [
-        "00:00",
-        "17:00"
       ]
     },
     {
@@ -887,6 +887,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-20",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
+      "times": [
+        "10:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "與達賴喇嘛談心：尋找幸福的智慧",
       "version": "數位 英語",
       "times": [
@@ -900,15 +909,6 @@
       "date": "2026-11-20",
       "movie": "同級生：十週年重映",
       "version": "數位 日語",
-      "times": [
-        "10:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-20",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
       "times": [
         "10:40"
       ]
@@ -1019,20 +1019,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-20",
-      "movie": "沙丘（重映版）",
-      "version": "數位 英語",
-      "times": [
-        "12:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-20",
       "movie": "黑潮",
       "version": "數位 國語",
       "times": [
         "12:10",
         "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
+      "movie": "沙丘（重映版）",
+      "version": "數位 英語",
+      "times": [
+        "12:10"
       ]
     },
     {
@@ -1048,22 +1048,22 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-20",
+      "movie": "純愛上等！",
+      "version": "數位 日語",
+      "times": [
+        "12:30",
+        "16:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-20",
       "movie": "樂園追放 心之共鳴",
       "version": "數位 日語",
       "times": [
         "12:30",
         "16:50",
         "19:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-20",
-      "movie": "純愛上等！",
-      "version": "數位 日語",
-      "times": [
-        "12:30",
-        "16:40"
       ]
     },
     {
