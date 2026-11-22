@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-22T05:52:54+08:00",
+  "updated_at": "2026-11-22T09:46:42+08:00",
   "data_date": "2026-11-22",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -820,10 +820,13 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-22",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
+      "movie": "劇場版 來自深淵: 覺醒的神祕",
+      "version": "數位 日語",
       "times": [
-        "10:20"
+        "10:20",
+        "15:40",
+        "17:20",
+        "21:20"
       ]
     },
     {
@@ -840,13 +843,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-22",
-      "movie": "劇場版 來自深淵: 覺醒的神祕",
-      "version": "數位 日語",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
       "times": [
-        "10:20",
-        "15:40",
-        "17:20",
-        "21:20"
+        "10:20"
       ]
     },
     {
@@ -947,15 +947,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-22",
-      "movie": "(安可重播) BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
-      "version": "數位 韓語",
-      "times": [
-        "12:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-22",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
@@ -968,6 +959,15 @@
         "20:00",
         "21:20",
         "22:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-22",
+      "movie": "(安可重播) BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWING",
+      "version": "數位 韓語",
+      "times": [
+        "12:00"
       ]
     },
     {
@@ -1154,8 +1154,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-22",
-      "movie": "六個說謊的大學生",
-      "version": "數位 韓語",
+      "movie": "Jim Queen：肌情四射",
+      "version": "數位 國語",
       "times": [
         "21:50"
       ]
@@ -1163,8 +1163,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-22",
-      "movie": "Jim Queen：肌情四射",
-      "version": "數位 國語",
+      "movie": "六個說謊的大學生",
+      "version": "數位 韓語",
       "times": [
         "21:50"
       ]
