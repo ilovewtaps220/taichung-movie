@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-23T10:55:35+08:00",
+  "updated_at": "2026-11-23T19:29:31+08:00",
   "data_date": "2026-11-23",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -588,17 +588,6 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-23",
-      "movie": "搶銀行先修班 How To Rob A Bank",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "19:00",
-        "21:40"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-23",
       "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
@@ -618,6 +607,17 @@
         "10:30",
         "13:20",
         "15:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-23",
+      "movie": "搶銀行先修班 How To Rob A Bank",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "19:00",
+        "21:40"
       ]
     },
     {
@@ -648,7 +648,7 @@
       "movie": "另一個媽咪 Other Mommy",
       "version": "一般場次",
       "times": [
-        "16:20",
+        "16:00",
         "22:00"
       ]
     },
@@ -788,6 +788,17 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-23",
+      "movie": "搶銀行先修班",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "16:15",
+        "20:35"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-23",
       "movie": "泥面人",
       "version": "數位 英語",
       "times": [
@@ -800,22 +811,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-23",
-      "movie": "搶銀行先修班",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "16:15",
-        "20:35"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-23",
       "movie": "第四幕",
       "version": "數位 粵語",
       "times": [
         "10:10",
         "18:45"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-23",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
+      "times": [
+        "10:20",
+        "15:55"
       ]
     },
     {
@@ -832,16 +842,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-23",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
-      "times": [
-        "10:20",
-        "15:55"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-23",
       "movie": "劇場版 來自深淵: 覺醒的神祕",
       "version": "數位 日語",
       "times": [
@@ -849,15 +849,6 @@
         "14:30",
         "18:30",
         "22:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-23",
-      "movie": "同級生：十週年重映",
-      "version": "數位 日語",
-      "times": [
-        "10:40"
       ]
     },
     {
@@ -878,6 +869,15 @@
         "10:40",
         "15:00",
         "19:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-23",
+      "movie": "同級生：十週年重映",
+      "version": "數位 日語",
+      "times": [
+        "10:40"
       ]
     },
     {
@@ -974,6 +974,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-23",
+      "movie": "沙丘（重映版）",
+      "version": "數位 英語",
+      "times": [
+        "12:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-23",
       "movie": "皎潔深宵之月",
       "version": "數位 日語",
       "times": [
@@ -990,15 +999,6 @@
       "times": [
         "12:10",
         "20:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-23",
-      "movie": "沙丘（重映版）",
-      "version": "數位 英語",
-      "times": [
-        "12:10"
       ]
     },
     {
