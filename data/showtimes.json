@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-25T02:17:48+08:00",
+  "updated_at": "2026-11-25T10:39:56+08:00",
   "data_date": "2026-11-25",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -784,20 +784,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-25",
-      "movie": "第四幕",
-      "version": "數位 粵語",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
       "times": [
-        "10:10",
-        "18:45"
+        "10:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-25",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
+      "movie": "第四幕",
+      "version": "數位 粵語",
       "times": [
-        "10:10"
+        "10:10",
+        "18:45"
       ]
     },
     {
@@ -826,21 +826,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-25",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
+      "times": [
+        "10:40"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-25",
       "movie": "與達賴喇嘛談心：尋找幸福的智慧",
       "version": "數位 英語",
       "times": [
         "10:40",
         "15:00",
         "19:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-25",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
-      "times": [
-        "10:40"
       ]
     },
     {
@@ -895,18 +895,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-25",
-      "movie": "聖誕驚奇夜",
-      "version": "數位 英語",
-      "times": [
-        "11:20",
-        "16:50",
-        "19:10",
-        "21:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-25",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "數位 日語",
       "times": [
@@ -916,6 +904,18 @@
         "17:20",
         "19:20",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-25",
+      "movie": "聖誕驚奇夜",
+      "version": "數位 英語",
+      "times": [
+        "11:20",
+        "16:50",
+        "19:10",
+        "21:30"
       ]
     },
     {
@@ -946,20 +946,20 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-25",
-      "movie": "沙丘（重映版）",
-      "version": "數位 英語",
-      "times": [
-        "12:10"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-25",
       "movie": "黑潮",
       "version": "數位 國語",
       "times": [
         "12:10",
         "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-25",
+      "movie": "沙丘（重映版）",
+      "version": "數位 英語",
+      "times": [
+        "12:10"
       ]
     },
     {
