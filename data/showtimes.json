@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-26T04:39:44+08:00",
+  "updated_at": "2026-11-26T11:05:37+08:00",
   "data_date": "2026-11-26",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -754,18 +754,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-26",
-      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
-      "version": "一般場次",
-      "times": [
-        "10:00",
-        "14:30",
-        "19:00",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-26",
       "movie": "搶銀行先修班 How to Rob a Bank",
       "version": "一般場次",
       "times": [
@@ -778,12 +766,22 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-26",
-      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
+      "movie": "即刻狂飆 Mongoose",
       "version": "一般場次",
       "times": [
-        "12:20",
-        "16:50",
-        "23:40"
+        "16:50"
+      ]
+    },
+    {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-26",
+      "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
+      "version": "一般場次",
+      "times": [
+        "10:00",
+        "14:30",
+        "19:00",
+        "21:20"
       ]
     },
     {
@@ -799,10 +797,12 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-26",
-      "movie": "即刻狂飆 Mongoose",
+      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
       "version": "一般場次",
       "times": [
-        "16:50"
+        "12:20",
+        "16:50",
+        "23:40"
       ]
     },
     {
@@ -839,6 +839,21 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
+      "movie": "歡迎光臨魔法秘境",
+      "version": "數位 英語",
+      "times": [
+        "10:30",
+        "12:40",
+        "14:50",
+        "17:00",
+        "19:10",
+        "21:20",
+        "22:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-26",
       "movie": "飢餓遊戲：黎明收割",
       "version": "數位 英語",
       "times": [
@@ -860,15 +875,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "沙丘（重映版）",
-      "version": "數位 英語",
-      "times": [
-        "10:30"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-26",
       "movie": "世紀初戀 楊麗花",
       "version": "數位 國語",
       "times": [
@@ -878,16 +884,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "歡迎光臨魔法秘境",
+      "movie": "沙丘（重映版）",
       "version": "數位 英語",
       "times": [
-        "10:30",
-        "12:40",
-        "14:50",
-        "17:00",
-        "19:10",
-        "21:20",
-        "22:00"
+        "10:30"
       ]
     },
     {
@@ -1004,16 +1004,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "純愛上等！",
-      "version": "數位 日語",
-      "times": [
-        "12:40",
-        "20:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-26",
       "movie": "劇場版 來自深淵: 覺醒的神祕",
       "version": "數位 日語",
       "times": [
@@ -1021,6 +1011,16 @@
         "16:40",
         "18:20",
         "22:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-26",
+      "movie": "純愛上等！",
+      "version": "數位 日語",
+      "times": [
+        "12:40",
+        "20:50"
       ]
     },
     {
@@ -1177,8 +1177,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
+      "movie": "黑潮",
+      "version": "數位 國語",
       "times": [
         "23:00"
       ]
@@ -1186,8 +1186,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "黑潮",
-      "version": "數位 國語",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
       "times": [
         "23:00"
       ]
