@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-26T11:05:37+08:00",
+  "updated_at": "2026-11-26T20:19:49+08:00",
   "data_date": "2026-11-26",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -584,34 +584,12 @@
     {
       "cinema_id": "sunrise",
       "date": "2026-11-26",
-      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
-      "version": "一般場次",
-      "times": [
-        "01:10",
-        "18:10",
-        "20:40",
-        "23:00"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-26",
       "movie": "樂園追放 心之共鳴 Expelled from Paradise Resonance",
       "version": "一般場次",
       "times": [
         "10:00",
         "15:20",
         "20:20"
-      ]
-    },
-    {
-      "cinema_id": "sunrise",
-      "date": "2026-11-26",
-      "movie": "有用的人 To Be Ordinary",
-      "version": "一般場次",
-      "times": [
-        "12:40",
-        "18:00"
       ]
     },
     {
@@ -637,6 +615,28 @@
         "14:50",
         "17:20",
         "19:40"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-26",
+      "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
+      "version": "一般場次",
+      "times": [
+        "01:10",
+        "18:10",
+        "20:40",
+        "23:00"
+      ]
+    },
+    {
+      "cinema_id": "sunrise",
+      "date": "2026-11-26",
+      "movie": "有用的人 To Be Ordinary",
+      "version": "一般場次",
+      "times": [
+        "12:40",
+        "18:00"
       ]
     },
     {
@@ -766,15 +766,6 @@
     {
       "cinema_id": "chin-chin",
       "date": "2026-11-26",
-      "movie": "即刻狂飆 Mongoose",
-      "version": "一般場次",
-      "times": [
-        "16:50"
-      ]
-    },
-    {
-      "cinema_id": "chin-chin",
-      "date": "2026-11-26",
       "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
       "version": "一般場次",
       "times": [
@@ -806,6 +797,15 @@
       ]
     },
     {
+      "cinema_id": "chin-chin",
+      "date": "2026-11-26",
+      "movie": "即刻狂飆 Mongoose",
+      "version": "一般場次",
+      "times": [
+        "16:50"
+      ]
+    },
+    {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
       "movie": "致遙不可及彼方的你",
@@ -834,21 +834,6 @@
       "times": [
         "10:25",
         "16:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-26",
-      "movie": "歡迎光臨魔法秘境",
-      "version": "數位 英語",
-      "times": [
-        "10:30",
-        "12:40",
-        "14:50",
-        "17:00",
-        "19:10",
-        "21:20",
-        "22:00"
       ]
     },
     {
@@ -893,10 +878,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "同級生：十週年重映",
-      "version": "數位 日語",
+      "movie": "歡迎光臨魔法秘境",
+      "version": "數位 英語",
       "times": [
-        "10:40"
+        "10:30",
+        "12:40",
+        "14:50",
+        "17:00",
+        "19:10",
+        "21:20",
+        "22:00"
       ]
     },
     {
@@ -908,6 +899,15 @@
         "10:40",
         "15:00",
         "19:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-26",
+      "movie": "同級生：十週年重映",
+      "version": "數位 日語",
+      "times": [
+        "10:40"
       ]
     },
     {
@@ -938,16 +938,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "飢餓遊戲：黎明收割",
-      "version": "DVA 英語",
-      "times": [
-        "11:30",
-        "20:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-26",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "數位 日語",
       "times": [
@@ -965,6 +955,16 @@
       "version": "數位 國語",
       "times": [
         "11:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-26",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "DVA 英語",
+      "times": [
+        "11:30",
+        "20:00"
       ]
     },
     {
@@ -1004,6 +1004,16 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
+      "movie": "純愛上等！",
+      "version": "數位 日語",
+      "times": [
+        "12:40",
+        "20:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-26",
       "movie": "劇場版 來自深淵: 覺醒的神祕",
       "version": "數位 日語",
       "times": [
@@ -1011,16 +1021,6 @@
         "16:40",
         "18:20",
         "22:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-26",
-      "movie": "純愛上等！",
-      "version": "數位 日語",
-      "times": [
-        "12:40",
-        "20:50"
       ]
     },
     {
@@ -1177,8 +1177,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "黑潮",
-      "version": "數位 國語",
+      "movie": "哥吉拉-0.0",
+      "version": "DVA 日語",
       "times": [
         "23:00"
       ]
@@ -1186,8 +1186,8 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-26",
-      "movie": "哥吉拉-0.0",
-      "version": "DVA 日語",
+      "movie": "黑潮",
+      "version": "數位 國語",
       "times": [
         "23:00"
       ]
