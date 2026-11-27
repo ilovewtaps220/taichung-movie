@@ -1,8 +1,8 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-27T21:18:20+08:00",
-  "data_date": "2026-11-27",
+  "updated_at": "2026-11-28T06:11:05+08:00",
+  "data_date": "2026-11-28",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
     "top-city": "public-showtime-fallback",
@@ -64,18 +64,18 @@
   "showtimes": [
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
-      "version": "庫洛魔法使 劇場版：被封印的卡片 國語版 09：10 其他戲院(47)",
+      "version": "庫洛魔法使 劇場版：被封印的卡片 國語版 09：10 其他戲院(62)",
       "times": [
-        "15:00",
+        "13:05",
         "19:00",
         "22:25"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
       "version": "一般場次",
       "times": [
@@ -84,26 +84,26 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
-      "version": "排球少年!! 垃圾場的決戰 片長：100分 10：25 19：10 其他戲院(23)",
+      "version": "排球少年!! 垃圾場的決戰 片長：100分 10：30 19：10 其他戲院(38)",
       "times": [
         "17:15"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "排球少年!! 垃圾場的決戰",
       "version": "一般場次",
       "times": [
-        "10:25",
+        "10:30",
         "19:10"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "哥吉拉-0.0 片長：135分 10：55 15：30 18：15 20：55 23：30 其他戲院(81)",
       "times": [
@@ -118,7 +118,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
@@ -131,7 +131,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
       "version": "歡迎光臨魔法秘境 片長：109分 國語版 09：15 13：40 18：00 其他戲院(88)",
       "times": [
@@ -142,7 +142,7 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
       "version": "一般場次",
       "times": [
@@ -153,55 +153,55 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "名偵探柯南 第30號殺人事件 片長：93分 09：05 13：05 21：25 其他戲院(82)",
+      "version": "名偵探柯南 第30號殺人事件 片長：93分 09：05 15：10 21：25 其他戲院(82)",
       "times": [
         "16:50"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "一般場次",
       "times": [
         "09:05",
-        "13:05",
+        "15:10",
         "21:25"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "魔法科高中的劣等生 四葉繼承篇",
-      "version": "樂園追放 心之共鳴 片長：127分 12：05 其他戲院(46)",
+      "version": "樂園追放 心之共鳴 片長：127分 12：15 其他戲院(47)",
       "times": [
         "11:00"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "樂園追放 心之共鳴",
       "version": "一般場次",
       "times": [
-        "12:05"
+        "12:15"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "泥面人",
-      "version": "同級生 片長：61分 十週年重映 09：05 其他戲院(8)",
+      "version": "角落小夥伴電影版：從天而降的雲之冒險 片長：100分 國語版 09：05 其他戲院(9)",
       "times": [
         "23:20"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
-      "movie": "同級生",
+      "date": "2026-11-28",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
       "version": "一般場次",
       "times": [
         "09:05"
@@ -209,16 +209,16 @@
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
-      "movie": "致遙不可及彼方的你",
+      "date": "2026-11-28",
+      "movie": "善男信女",
       "version": "後來，有個克里夫 片長：144分 IMAX版 09：00 11：45 14：35 17：25 20：10 23：00 其他戲院(10)",
       "times": [
-        "14:30"
+        "14:45"
       ]
     },
     {
       "cinema_id": "top-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "後來，有個克里夫",
       "version": "一般場次",
       "times": [
@@ -232,9 +232,9 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
-      "version": "晚窒息 片長：96分 13：15 15：10 19：30 21：25 其他戲院(50)",
+      "version": "晚窒息 片長：96分 11：25 15：45 19：30 23：50 其他戲院(57)",
       "times": [
         "00:10",
         "12:20",
@@ -244,59 +244,59 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "晚窒息",
       "version": "一般場次",
       "times": [
-        "13:15",
-        "15:10",
+        "11:25",
+        "15:45",
         "19:30",
+        "23:50"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
+      "movie": "神隱少女",
+      "version": "庫洛魔法使 劇場版：被封印的卡片 國語版 18：10 其他戲院(62)",
+      "times": [
+        "13:20",
         "21:25"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
-      "movie": "神隱少女",
-      "version": "庫洛魔法使 劇場版：被封印的卡片 國語版 14：20 其他戲院(47)",
-      "times": [
-        "10:50",
-        "17:05"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
       "version": "一般場次",
-      "times": [
-        "14:20"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-11-27",
-      "movie": "庫洛魔法使 劇場版：被封印的卡片",
-      "version": "綻放的巴黎之星 片長：120分 15：20 21：45 其他戲院(27)",
       "times": [
         "18:10"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "庫洛魔法使 劇場版：被封印的卡片",
+      "version": "綻放的巴黎之星 片長：120分 13：00 21：45 其他戲院(35)",
+      "times": [
+        "14:20"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
       "movie": "綻放的巴黎之星",
       "version": "一般場次",
       "times": [
-        "15:20",
+        "13:00",
         "21:45"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "大搜查線N.E.W.",
-      "version": "屍蹤拼圖 片長：112分 16：00 23：05 其他戲院(24)",
+      "version": "屍蹤拼圖 片長：112分 16：00 其他戲院(30)",
       "times": [
         "16:25",
         "20:55"
@@ -304,60 +304,67 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "屍蹤拼圖",
       "version": "一般場次",
       "times": [
-        "16:00",
-        "23:05"
+        "16:00"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "袒裎相見",
-      "version": "窗外有藍天 片長：117分 4K全新修復版 12：05 其他戲院(17)",
+      "version": "被消失的家園 片長：145分 16：45 其他戲院(12)",
       "times": [
         "19:50"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
-      "movie": "窗外有藍天",
+      "date": "2026-11-28",
+      "movie": "被消失的家園",
       "version": "一般場次",
       "times": [
-        "12:05"
+        "16:45"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "Jim Queen：肌情四射",
+      "version": "飢餓遊戲：黎明收割 片長：158分 10：45 13：45 19：45 22：45 其他戲院(82)",
+      "times": [
+        "15:30"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
-      "version": "歡迎光臨魔法秘境 片長：109分 英語版 11：00 19：40 21：50 其他戲院(88)",
+      "version": "一般場次",
       "times": [
-        "11:35",
-        "14:35",
-        "20:35",
-        "23:35"
+        "10:45",
+        "13:45",
+        "19:45",
+        "22:45"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "一般場次",
+      "version": "歡迎光臨魔法秘境 片長：109分 國語版 13：10 15：20 其他戲院(88)",
       "times": [
-        "11:00",
         "19:40",
         "21:50"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "歡迎光臨魔法秘境 片長：109分 3D數位 英語版 17：30 其他戲院(88)",
+      "version": "一般場次",
       "times": [
         "13:10",
         "15:20"
@@ -365,18 +372,18 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "一般場次",
+      "version": "劇場版 來自深淵：覺醒的神祕 片長：79分 10：25 14：20 18：10 其他戲院(52)",
       "times": [
         "17:30"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 來自深淵：覺醒的神祕",
-      "version": "青春豬頭少年不會夢到親愛好朋友 片長：118分 10：45 19：30 00：05 其他戲院(16)",
+      "version": "一般場次",
       "times": [
         "10:25",
         "14:20",
@@ -385,9 +392,9 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "青春豬頭少年不會夢到親愛好朋友",
-      "version": "一般場次",
+      "version": "與達賴喇嘛談心：尋找幸福的智慧 片長：90分 10：35 19：05 其他戲院(25)",
       "times": [
         "00:05",
         "10:45",
@@ -396,9 +403,9 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "重返巔峰北壁 片長：89分 13：00 17：40 其他戲院(36)",
+      "version": "一般場次",
       "times": [
         "10:35",
         "19:05"
@@ -406,19 +413,19 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "重返巔峰北壁",
-      "version": "一般場次",
+      "version": "哥吉拉-0.0 片長：135分 13：50 23：35 其他戲院(81)",
       "times": [
-        "13:00",
+        "10:25",
         "17:40"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
-      "version": "角落小夥伴電影版：從天而降的雲之冒險 片長：100分 國語版 12：25 其他戲院(7)",
+      "version": "一般場次",
       "times": [
         "13:50",
         "23:35"
@@ -426,61 +433,70 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "角落小夥伴電影版：從天而降的雲之冒險",
-      "version": "一般場次",
+      "version": "名偵探柯南 第30號殺人事件 片長：93分 17：40 其他戲院(82)",
       "times": [
         "12:25"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "名偵探柯南 第30號殺人事件",
-      "version": "聖誕驚奇夜 片長：115分 00：00 其他戲院(62)",
+      "version": "一般場次",
       "times": [
-        "23:20"
+        "17:40"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "聖誕驚奇夜",
-      "version": "一般場次",
+      "version": "有用的人 片長：111分 11：00 其他戲院(15)",
       "times": [
         "00:00"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "有用的人",
-      "version": "出賣影子的女人 片長：99分 10：25 其他戲院(6)",
+      "version": "一般場次",
+      "times": [
+        "11:00"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
+      "movie": "黑潮",
+      "version": "出賣影子的女人 片長：99分 22：00 其他戲院(6)",
+      "times": [
+        "23:05"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
+      "movie": "出賣影子的女人",
+      "version": "一般場次",
       "times": [
         "22:00"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
-      "movie": "出賣影子的女人",
-      "version": "一般場次",
+      "date": "2026-11-28",
+      "movie": "紙老虎",
+      "version": "門當父不對之親家駕到 片長：105分 Gold Class 13：50 00：00 其他戲院(85)",
       "times": [
-        "10:25"
+        "12:05"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
-      "movie": "黑球",
-      "version": "門當父不對之親家駕到 片長：105分 Gold Class 13：50 00：00 其他戲院(70)",
-      "times": [
-        "17:35"
-      ]
-    },
-    {
-      "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
       "version": "一般場次",
       "times": [
@@ -490,7 +506,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "歡迎光臨魔法秘境 片長：109分 英語版 Gold Class 11：30 18：00 其他戲院(88)",
       "times": [
@@ -503,7 +519,7 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
       "version": "一般場次",
       "times": [
@@ -513,37 +529,46 @@
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
-      "version": "飢餓遊戲：黎明收割 片長：158分 TITAN廳 13：10 19：00 22：00 其他戲院(82)",
+      "version": "飢餓遊戲：黎明收割 片長：158分 TITAN廳 15：20 20：50 23：45 其他戲院(82)",
       "times": [
         "16:30"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "一般場次",
       "times": [
-        "13:10",
-        "19:00",
-        "22:00"
+        "15:20",
+        "20:50",
+        "23:45"
       ]
     },
     {
       "cinema_id": "tiger-city",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
-      "version": "一般場次",
+      "version": "進擊的鼓手 片長：107分 4K重映 TITAN廳 13：10 其他戲院(6)",
       "times": [
         "10:30",
-        "16:15"
+        "18:15"
+      ]
+    },
+    {
+      "cinema_id": "tiger-city",
+      "date": "2026-11-28",
+      "movie": "進擊的鼓手",
+      "version": "一般場次",
+      "times": [
+        "13:10"
       ]
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割 The Hunger Games: Sunrise on the Reaping",
       "version": "一般場次",
       "times": [
@@ -560,7 +585,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0 Godzilla Minus Zero",
       "version": "一般場次",
       "times": [
@@ -577,7 +602,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境 Hexed",
       "version": "一般場次",
       "times": [
@@ -601,7 +626,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "神隱少女 SPIRITED AWAY",
       "version": "一般場次",
       "times": [
@@ -613,7 +638,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到 Focker-In-Law",
       "version": "一般場次",
       "times": [
@@ -628,12 +653,11 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
       "version": "一般場次",
       "times": [
         "10:30",
-        "13:00",
         "15:20",
         "18:20",
         "22:30"
@@ -641,7 +665,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
@@ -652,7 +676,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "樂園追放 心之共鳴 Expelled from Paradise Resonance",
       "version": "一般場次",
       "times": [
@@ -663,7 +687,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "搶銀行先修班 How To Rob A Bank",
       "version": "一般場次",
       "times": [
@@ -674,7 +698,7 @@
     },
     {
       "cinema_id": "sunrise",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "泥面人 Clayface",
       "version": "一般場次",
       "times": [
@@ -686,7 +710,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割 The Hunger Games: Sunrise on the Reaping",
       "version": "一般場次",
       "times": [
@@ -701,7 +725,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境 Hexed",
       "version": "一般場次",
       "times": [
@@ -719,7 +743,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 來自深淵：覺醒的神秘 Made in Abyss: Awakening Mystery",
       "version": "一般場次",
       "times": [
@@ -730,7 +754,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到 Focker-In-Law",
       "version": "一般場次",
       "times": [
@@ -742,7 +766,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "屍蹤拼圖 The Cycle",
       "version": "一般場次",
       "times": [
@@ -753,7 +777,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "神隱少女 Spirited Away",
       "version": "一般場次",
       "times": [
@@ -764,7 +788,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "名偵探柯南 第30號殺人事件 Detective Conan: The Counterfeit Case of Ultra 30",
       "version": "一般場次",
       "times": [
@@ -776,7 +800,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "搶銀行先修班 How to Rob a Bank",
       "version": "一般場次",
       "times": [
@@ -786,7 +810,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "聖誕驚奇夜 Ebenezer: A Christmas Carol",
       "version": "一般場次",
       "times": [
@@ -796,7 +820,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "泥面人 Clayface",
       "version": "一般場次",
       "times": [
@@ -805,7 +829,7 @@
     },
     {
       "cinema_id": "chin-chin",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "鬼聲泣0 Death Whisperer : Saming the Werebeast",
       "version": "一般場次",
       "times": [
@@ -815,29 +839,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "神隱少女",
-      "version": "數位 日語",
-      "times": [
-        "10:00",
-        "14:20",
-        "17:20",
-        "22:40"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "13:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "DVA 英語",
       "times": [
@@ -847,16 +849,29 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "同級生：十週年重映",
+      "date": "2026-11-28",
+      "movie": "神隱少女",
       "version": "數位 日語",
       "times": [
-        "10:20"
+        "10:00",
+        "14:20",
+        "18:00",
+        "22:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "13:50"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "綻放的巴黎之星",
       "version": "數位 日語",
       "times": [
@@ -866,20 +881,16 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "歡迎光臨魔法秘境",
-      "version": "數位 英語",
+      "date": "2026-11-28",
+      "movie": "同級生：十週年重映",
+      "version": "數位 日語",
       "times": [
-        "10:30",
-        "12:40",
-        "14:50",
-        "19:10",
-        "21:20"
+        "10:20"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "聖誕驚奇夜",
       "version": "數位 英語",
       "times": [
@@ -889,7 +900,19 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "歡迎光臨魔法秘境",
+      "version": "數位 英語",
+      "times": [
+        "10:30",
+        "14:50",
+        "19:10",
+        "21:20"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
       "version": "數位 英語",
       "times": [
@@ -903,17 +926,17 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
       "version": "數位 日語",
       "times": [
         "10:40",
-        "14:55"
+        "19:35"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "數位 英語",
       "times": [
@@ -922,14 +945,41 @@
         "12:50",
         "14:40",
         "15:50",
-        "17:40",
+        "17:00",
         "20:40",
         "21:50"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
+      "times": [
+        "11:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "世紀初戀 楊麗花",
+      "version": "數位 國語",
+      "times": [
+        "11:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "偵戰",
+      "version": "數位 粵語",
+      "times": [
+        "11:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "名偵探柯南 第30號殺人事件",
       "version": "數位 日語",
       "times": [
@@ -940,38 +990,12 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "世紀初戀 楊麗花",
-      "version": "數位 國語",
-      "times": [
-        "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "偵戰",
-      "version": "數位 粵語",
-      "times": [
-        "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
-      "times": [
-        "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
       "version": "數位 國語",
       "times": [
         "11:10",
+        "12:40",
         "13:20",
         "15:30",
         "17:00",
@@ -981,20 +1005,18 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
       "version": "數位 日語",
       "times": [
-        "11:20",
-        "13:55",
-        "16:30",
+        "11:30",
         "19:05",
         "21:40"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "逃",
       "version": "數位 英語",
       "times": [
@@ -1005,7 +1027,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "晚窒息",
       "version": "數位 國語",
       "times": [
@@ -1017,7 +1039,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "致遙不可及彼方的你",
       "version": "數位 日語",
       "times": [
@@ -1026,7 +1048,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "皎潔深宵之月",
       "version": "數位 日語",
       "times": [
@@ -1036,7 +1058,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "沙丘（重映版）",
       "version": "數位 英語",
       "times": [
@@ -1045,7 +1067,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 來自深淵: 覺醒的神祕",
       "version": "數位 日語",
       "times": [
@@ -1056,7 +1078,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 排球少年!! 垃圾場的決戰",
       "version": "DVA 日語",
       "times": [
@@ -1065,7 +1087,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "純愛上等！",
       "version": "數位 日語",
       "times": [
@@ -1074,7 +1096,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "SCREENX 英語",
       "times": [
@@ -1085,7 +1107,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "大搜查線 N.E.W.",
       "version": "數位 日語",
       "times": [
@@ -1096,7 +1118,16 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "哥吉拉 連映場",
+      "version": "數位 日語",
+      "times": [
+        "14:05"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
       "version": "DVA 英語",
       "times": [
@@ -1105,16 +1136,25 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "善男信女",
-      "version": "數位 粵語",
+      "date": "2026-11-28",
+      "movie": "庫洛魔法使 劇場版：被封印的卡片",
+      "version": "數位 國語",
       "times": [
-        "15:15"
+        "14:55"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "善男信女",
+      "version": "數位 粵語",
+      "times": [
+        "15:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "樂園追放 心之共鳴",
       "version": "數位 日語",
       "times": [
@@ -1123,7 +1163,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "沙丘：第二部（重映版）",
       "version": "SCREENX 英語",
       "times": [
@@ -1132,7 +1172,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 吉伊卡哇 人魚島的秘密",
       "version": "數位 日語",
       "times": [
@@ -1141,8 +1181,8 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "門當父不對之親家駕到 特別場",
+      "date": "2026-11-28",
+      "movie": "門當父不對之親家駕到",
       "version": "DVA 英語",
       "times": [
         "17:00"
@@ -1150,16 +1190,16 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "搶銀行先修班",
       "version": "數位 英語",
       "times": [
-        "17:15"
+        "17:10"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 排球少年!! 垃圾場的決戰",
       "version": "數位 日語",
       "times": [
@@ -1169,7 +1209,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "Jim Queen：肌情四射",
       "version": "數位 國語",
       "times": [
@@ -1178,7 +1218,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "黑球",
       "version": "數位 西語",
       "times": [
@@ -1187,16 +1227,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "庫洛魔法使 劇場版：被封印的卡片",
-      "version": "數位 國語",
-      "times": [
-        "19:35"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "麥可傑克森:流行樂之王",
       "version": "數位 英語",
       "times": [
@@ -1205,7 +1236,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "袒裎相見 限量口碑場",
       "version": "數位 英語",
       "times": [
@@ -1214,7 +1245,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "屍蹤拼圖",
       "version": "數位 英語",
       "times": [
@@ -1224,8 +1255,8 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
-      "movie": "IU CONCERT：THE WINNING",
+      "date": "2026-11-28",
+      "movie": "IU CONCERT：THE GOLDEN HOUR",
       "version": "數位 韓語",
       "times": [
         "21:15"
@@ -1233,7 +1264,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "我們不是陌生人",
       "version": "數位 多元語",
       "times": [
@@ -1242,7 +1273,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "黑潮",
       "version": "數位 國語",
       "times": [
@@ -1251,7 +1282,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
       "version": "DVA 日語",
       "times": [
@@ -1260,7 +1291,7 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "泥面人",
       "version": "數位 英語",
       "times": [
@@ -1269,16 +1300,16 @@
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "第四幕",
       "version": "數位 粵語",
       "times": [
-        "22:55"
+        "23:00"
       ]
     },
     {
       "cinema_id": "station-showtime",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "讓子彈飛",
       "version": "數位 國語",
       "times": [
@@ -1287,9 +1318,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
-      "version": "晚窒息 片長：96分 12：15 16：10 18：05 20：00 其他戲院(50)",
+      "version": "晚窒息 片長：96分 12：15 16：10 18：05 22：25 其他戲院(57)",
       "times": [
         "09:55",
         "13:45",
@@ -1299,21 +1330,21 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "晚窒息",
       "version": "一般場次",
       "times": [
         "12:15",
         "16:10",
         "18:05",
-        "20:00"
+        "22:25"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
-      "version": "庫洛魔法使 劇場版：被封印的卡片 日語版 10：00 其他戲院(47)",
+      "version": "庫洛魔法使 劇場版：被封印的卡片 日語版 10：00 其他戲院(62)",
       "times": [
         "14:15",
         "18:10"
@@ -1321,7 +1352,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "庫洛魔法使 劇場版：被封印的卡片",
       "version": "一般場次",
       "times": [
@@ -1330,9 +1361,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "電影版正直不動產",
-      "version": "神隱少女 片長：125分 日語版 11：50 21：55 其他戲院(64)",
+      "version": "神隱少女 片長：125分 日語版 11：50 20：00 其他戲院(79)",
       "times": [
         "11:45",
         "19:00"
@@ -1340,19 +1371,19 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "神隱少女",
       "version": "一般場次",
       "times": [
         "11:50",
-        "21:55"
+        "20:00"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "排球少年!! 垃圾場的決戰",
-      "version": "我們不是陌生人 片長：157分 15：00 21：50 其他戲院(33)",
+      "version": "我們不是陌生人 片長：157分 15：00 21：50 其他戲院(43)",
       "times": [
         "13:10",
         "20:05"
@@ -1360,7 +1391,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "我們不是陌生人",
       "version": "一般場次",
       "times": [
@@ -1370,18 +1401,27 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "袒裎相見",
-      "version": "名偵探柯南 第30號殺人事件 片長：93分 09：50 14：10 18：25 其他戲院(82)",
+      "version": "致遙不可及彼方的你 片長：116分 特別場 16：05 其他戲院(27)",
       "times": [
         "15:45"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
-      "movie": "名偵探柯南 第30號殺人事件",
+      "date": "2026-11-28",
+      "movie": "致遙不可及彼方的你",
       "version": "一般場次",
+      "times": [
+        "16:05"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-11-28",
+      "movie": "名偵探柯南 第30號殺人事件",
+      "version": "劇場版 來自深淵：覺醒的神祕 片長：79分 10：05 14：05 20：25 其他戲院(52)",
       "times": [
         "09:50",
         "14:10",
@@ -1390,9 +1430,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "劇場版 來自深淵：覺醒的神祕",
-      "version": "LE SSERAFIM VR CONCERT 片長：53分 INVITATION 10：40 12：20 14：00 15：40 17：20 19：00 20：40 其他戲院(2)",
+      "version": "一般場次",
       "times": [
         "10:05",
         "14:05",
@@ -1401,9 +1441,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "LE SSERAFIM VR CONCERT",
-      "version": "一般場次",
+      "version": "歡迎光臨魔法秘境 片長：109分 國語版 09：45 16：15 其他戲院(88)",
       "times": [
         "10:40",
         "12:20",
@@ -1416,9 +1456,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "歡迎光臨魔法秘境 片長：109分 英語版 14：05 20：35 其他戲院(88)",
+      "version": "一般場次",
       "times": [
         "09:45",
         "16:15"
@@ -1426,28 +1466,28 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "一般場次",
+      "version": "歡迎光臨魔法秘境 片長：109分 3D數位 英語版 14：05 14：05 其他戲院(88)",
       "times": [
-        "14:05",
+        "18:25",
         "20:35"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "歡迎光臨魔法秘境",
-      "version": "青春豬頭少年不會夢到親愛好朋友 片長：118分 09：55 13：40 20：20 其他戲院(16)",
+      "version": "一般場次",
       "times": [
-        "18:25"
+        "14:05"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "青春豬頭少年不會夢到親愛好朋友",
-      "version": "一般場次",
+      "version": "魔法科高中的劣等生 四葉繼承篇 片長：103分 11：40 18：20 其他戲院(15)",
       "times": [
         "09:55",
         "13:40",
@@ -1456,9 +1496,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "魔法科高中的劣等生 四葉繼承篇",
-      "version": "樂園追放 心之共鳴 片長：127分 15：55 22：05 其他戲院(46)",
+      "version": "一般場次",
       "times": [
         "11:40",
         "18:20"
@@ -1466,9 +1506,9 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "樂園追放 心之共鳴",
-      "version": "一般場次",
+      "version": "致遙不可及彼方的你 片長：116分 22：40 其他戲院(27)",
       "times": [
         "15:55",
         "22:05"
@@ -1476,72 +1516,79 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "致遙不可及彼方的你",
-      "version": "皎潔深宵之月 片長：118分 15：50 22：45 其他戲院(36)",
+      "version": "一般場次",
       "times": [
-        "16:05",
         "22:40"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "皎潔深宵之月",
-      "version": "一般場次",
+      "version": "飢餓遊戲：黎明收割 片長：158分 10：00 其他戲院(82)",
       "times": [
-        "15:50",
-        "22:45"
+        "15:50"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
-      "version": "哥吉拉-0.0 片長：135分 20：10 其他戲院(81)",
+      "version": "一般場次",
       "times": [
         "10:00"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
-      "version": "一般場次",
+      "version": "宛如星辰的你 片長：134分 21：20 其他戲院(7)",
       "times": [
         "20:10"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "宛如星辰的你",
-      "version": "純愛上等！ 片長：101分 12：00 其他戲院(23)",
+      "version": "一般場次",
       "times": [
         "21:20"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
-      "movie": "純愛上等！",
-      "version": "一般場次",
+      "date": "2026-11-28",
+      "movie": "第四幕",
+      "version": "角落小夥伴電影版：從天而降的雲之冒險 片長：100分 國語版 12：15 其他戲院(9)",
       "times": [
-        "12:00"
+        "11:55"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
-      "movie": "同級生",
-      "version": "飢餓遊戲：黎明收割 片長：158分 杜比ATMOS廳 13：00 16：00 19：00 22：00 其他戲院(82)",
+      "date": "2026-11-28",
+      "movie": "角落小夥伴電影版：從天而降的雲之冒險",
+      "version": "一般場次",
       "times": [
         "12:15"
       ]
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
+      "movie": "沙央",
+      "version": "飢餓遊戲：黎明收割 片長：158分 杜比ATMOS廳 13：00 16：00 19：00 22：00 其他戲院(82)",
+      "times": [
+        "22:45"
+      ]
+    },
+    {
+      "cinema_id": "ifg",
+      "date": "2026-11-28",
       "movie": "飢餓遊戲：黎明收割",
       "version": "一般場次",
       "times": [
@@ -1553,7 +1600,7 @@
     },
     {
       "cinema_id": "ifg",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
       "version": "一般場次",
       "times": [
