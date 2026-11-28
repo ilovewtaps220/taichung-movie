@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-28T06:11:05+08:00",
+  "updated_at": "2026-11-28T11:53:12+08:00",
   "data_date": "2026-11-28",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -840,11 +840,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "飢餓遊戲：黎明收割",
-      "version": "DVA 英語",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
+      "version": "數位 英語",
       "times": [
         "10:00",
-        "19:10"
+        "13:50"
       ]
     },
     {
@@ -862,11 +862,11 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "數位 英語",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "DVA 英語",
       "times": [
         "10:00",
-        "13:50"
+        "19:10"
       ]
     },
     {
