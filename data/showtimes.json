@@ -1,7 +1,7 @@
 {
   "project": "taichung-movie",
   "city": "台中市",
-  "updated_at": "2026-11-28T11:53:12+08:00",
+  "updated_at": "2026-11-28T20:33:26+08:00",
   "data_date": "2026-11-28",
   "notice": "只顯示當日場次；資料由公開影城頁面/API自動更新，實際座位與異動以官方頁面為準。",
   "sources": {
@@ -840,16 +840,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
-      "version": "數位 英語",
-      "times": [
-        "10:00",
-        "13:50"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-28",
       "movie": "神隱少女",
       "version": "數位 日語",
       "times": [
@@ -867,6 +857,16 @@
       "times": [
         "10:00",
         "19:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "與達賴喇嘛談心：尋找幸福的智慧",
+      "version": "數位 英語",
+      "times": [
+        "10:00",
+        "13:50"
       ]
     },
     {
@@ -901,18 +901,6 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "歡迎光臨魔法秘境",
-      "version": "數位 英語",
-      "times": [
-        "10:30",
-        "14:50",
-        "19:10",
-        "21:20"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-28",
       "movie": "門當父不對之親家駕到",
       "version": "數位 英語",
       "times": [
@@ -922,6 +910,18 @@
         "18:50",
         "20:55",
         "23:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "歡迎光臨魔法秘境",
+      "version": "數位 英語",
+      "times": [
+        "10:30",
+        "14:50",
+        "19:10",
+        "21:20"
       ]
     },
     {
@@ -953,8 +953,19 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "哥吉拉-0.0",
-      "version": "巨幕 日語",
+      "movie": "名偵探柯南 第30號殺人事件",
+      "version": "數位 日語",
+      "times": [
+        "11:00",
+        "14:35",
+        "20:00"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "偵戰",
+      "version": "數位 粵語",
       "times": [
         "11:00"
       ]
@@ -971,21 +982,10 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
-      "movie": "偵戰",
-      "version": "數位 粵語",
+      "movie": "哥吉拉-0.0",
+      "version": "巨幕 日語",
       "times": [
         "11:00"
-      ]
-    },
-    {
-      "cinema_id": "station-showtime",
-      "date": "2026-11-28",
-      "movie": "名偵探柯南 第30號殺人事件",
-      "version": "數位 日語",
-      "times": [
-        "11:00",
-        "14:35",
-        "20:00"
       ]
     },
     {
@@ -1228,6 +1228,15 @@
     {
       "cinema_id": "station-showtime",
       "date": "2026-11-28",
+      "movie": "哥吉拉-0.0",
+      "version": "4DX 日語",
+      "times": [
+        "19:30"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
       "movie": "麥可傑克森:流行樂之王",
       "version": "數位 英語",
       "times": [
@@ -1285,6 +1294,15 @@
       "date": "2026-11-28",
       "movie": "哥吉拉-0.0",
       "version": "DVA 日語",
+      "times": [
+        "22:10"
+      ]
+    },
+    {
+      "cinema_id": "station-showtime",
+      "date": "2026-11-28",
+      "movie": "飢餓遊戲：黎明收割",
+      "version": "ULTRA 英語",
       "times": [
         "22:10"
       ]
